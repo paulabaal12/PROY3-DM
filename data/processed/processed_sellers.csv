@@ -1,3096 +1,3096 @@
-seller_id,seller_zip_code_prefix,seller_city,seller_state,seller_state_encoded,seller_city_encoded
-SEL_1,13023,campinas,SP,22,101
-SEL_2,13844,mogi guacu,SP,22,342
-SEL_3,20031,rio de janeiro,RJ,16,450
-SEL_4,4195,sao paulo,SP,22,517
-SEL_5,12914,braganca paulista,SP,22,80
-SEL_6,20920,rio de janeiro,RJ,16,450
-SEL_7,55325,brejao,PE,13,83
-SEL_8,16304,penapolis,SP,22,402
-SEL_9,1529,sao paulo,SP,22,517
-SEL_10,80310,curitiba,PR,15,159
-SEL_11,75110,anapolis,GO,6,12
-SEL_12,13530,itirapina,SP,22,262
-SEL_13,1222,sao paulo,SP,22,517
-SEL_14,5372,sao paulo,SP,22,517
-SEL_15,88705,tubarao,SC,20,577
-SEL_16,42738,lauro de freitas,BA,2,300
-SEL_17,88780,imbituba,SC,20,234
-SEL_18,70740,brasilia,DF,4,81
-SEL_19,45810,porto seguro,BA,2,425
-SEL_20,5138,sao paulo,SP,22,517
-SEL_21,11440,guaruja,SP,22,219
-SEL_22,14910,tabatinga,SP,22,552
-SEL_23,4156,sao paulo,SP,22,517
-SEL_24,13320,salto,SP,22,466
-SEL_25,98910,tres de maio,RS,19,573
-SEL_26,30494,belo horizonte,MG,8,64
-SEL_27,86707,arapongas,PR,15,25
-SEL_28,9850,sao bernardo do campo,SP,22,494
-SEL_29,4857,sao paulo,SP,22,517
-SEL_30,18500,tatui,SP,22,558
-SEL_31,80210,curitiba,PR,15,159
-SEL_32,2261,sao paulo,SP,22,517
-SEL_33,88495,garopaba,SC,20,203
-SEL_34,3562,sao paulo,SP,22,517
-SEL_35,37650,camanducaia,MG,8,95
-SEL_36,17602,tupa,SP,22,578
-SEL_37,7241,guarulhos,SP,22,220
-SEL_38,83050,sao jose dos pinhais,PR,15,509
-SEL_39,3445,sao paulo,SP,22,517
-SEL_40,4133,sao paulo,SP,22,517
-SEL_41,72233,brasilia,DF,4,81
-SEL_42,70645,brasilia,DF,4,81
-SEL_43,88730,sao ludgero,SC,20,512
-SEL_44,88075,sao jose,SC,20,504
-SEL_45,13416,piracicaba,SP,22,411
-SEL_46,90850,porto alegre,RS,19,422
-SEL_47,37584,congonhal,MG,8,144
-SEL_48,31950,belo horizonte,MG,8,64
-SEL_49,31555,belo horizonte,MG,8,64
-SEL_50,9251,santo andre,SP,22,483
-SEL_51,4705,sao paulo,SP,22,517
-SEL_52,6144,osasco,SP,22,374
-SEL_53,13270,valinhos,SP,22,587
-SEL_54,89214,joinville,SC,20,285
-SEL_55,11446,guaruja,SP,22,219
-SEL_56,28990,saquarema,RJ,16,530
-SEL_57,88390,barra velha,SC,20,54
-SEL_58,25730,petropolis,RJ,16,403
-SEL_59,95500,santo antonio da patrulha,RS,19,486
-SEL_60,84010,ponta grossa,PR,15,419
-SEL_61,6544,santana de parnaiba,SP,22,482
-SEL_62,9121,santo andre,SP,22,483
-SEL_63,13568,sao carlos,SP,22,497
-SEL_64,6056,osasco,SP,22,374
-SEL_65,14940,ibitinga,SP,22,227
-SEL_66,5741,sao paulo,SP,22,517
-SEL_67,83010,sao jose dos pinhais,PR,15,509
-SEL_68,3702,sao paulo,SP,22,517
-SEL_69,6429,barueri,SP,22,58
-SEL_70,6192,osasco,SP,22,374
-SEL_71,95076,caxias do sul,SP,22,131
-SEL_72,3569,sao paulo,SP,22,517
-SEL_73,89207,joinville,SC,20,285
-SEL_74,38440,araguari,MG,8,24
-SEL_75,32180,contagem,MG,8,147
-SEL_76,89258,jaragua do sul,SC,20,278
-SEL_77,14940,ibitinga,SP,22,227
-SEL_78,9715,sao bernardo do campo,SP,22,494
-SEL_79,88501,lages - sc,SC,20,291
-SEL_80,95711,bento goncalves,RS,19,65
-SEL_81,15805,catanduva,SP,22,129
-SEL_82,9400,ribeirao pires,SP,22,441
-SEL_83,4726,sao paulo,SP,22,517
-SEL_84,14882,jaboticabal,SP,22,265
-SEL_85,19830,echapora,SP,22,170
-SEL_86,6713,cotia,SP,22,153
-SEL_87,89160,rio do sul,SC,20,455
-SEL_88,4275,sao paulo,SP,22,517
-SEL_89,18040,sorocaba,SP,22,546
-SEL_90,21235,rio de janeiro,RJ,16,450
-SEL_91,14850,pradopolis,SP,22,429
-SEL_92,22420,rio de janeiro,RJ,16,450
-SEL_93,1125,sao paulo,SP,22,517
-SEL_94,24813,itaborai,RJ,16,247
-SEL_95,5786,sao paulo,SP,22,517
-SEL_96,15137,mirassol,SP,22,337
-SEL_97,9190,santo andre,SP,22,483
-SEL_98,16200,birigui,SP,22,68
-SEL_99,3569,sao paulo,SP,22,517
-SEL_100,31730,belo horizonte,MG,8,64
-SEL_101,20785,rio de janeiro,RJ,16,450
-SEL_102,20060,rio de janeiro,RJ,16,450
-SEL_103,14940,ibitinga,SP,22,227
-SEL_104,12401,sao paulo,SP,22,517
-SEL_105,1425,sao paulo,SP,22,517
-SEL_106,19803,assis,SP,22,38
-SEL_107,13820,jaguariuna,SP,22,271
-SEL_108,14801,araraquara,SP,22,28
-SEL_109,27963,macae,RJ,16,310
-SEL_110,13320,salto,SP,22,466
-SEL_111,13504,rio claro,SP,22,448
-SEL_112,86039,londrina,PR,15,305
-SEL_113,5101,sao paulo,SP,22,517
-SEL_114,14010,ribeirao preto,SP,22,442
-SEL_115,21210,rio de janeiro,RN,17,450
-SEL_116,37410,tres coracoes,MG,8,571
-SEL_117,4248,sao paulo,SP,22,517
-SEL_118,15190,nhandeara,SP,22,358
-SEL_119,14940,ibitinga,SP,22,227
-SEL_120,3514,sao paulo,SP,22,517
-SEL_121,71070,brasilia,DF,4,81
-SEL_122,6465,barueri,SP,22,58
-SEL_123,1044,sao paulo,SP,22,517
-SEL_124,88870,orleans,SC,20,373
-SEL_125,70384,brasilia,DF,4,81
-SEL_126,2310,sao paulo,SP,22,517
-SEL_127,2016,sao paulo,SP,22,517
-SEL_128,78095,cuiaba,MT,10,158
-SEL_129,13575,sao carlos,SP,22,497
-SEL_130,1040,sao paulo,SP,22,517
-SEL_131,3322,sao paulo,SP,22,517
-SEL_132,20261,rio de janeiro,RJ,16,450
-SEL_133,85830,formosa do oeste,PR,15,193
-SEL_134,23550,rio de janeiro,RJ,16,450
-SEL_135,11085,santos,SP,22,489
-SEL_136,3417,sao paulo,SP,22,517
-SEL_137,76500,santa terezinha de goias,GO,6,480
-SEL_138,81210,curitiba,PR,15,159
-SEL_139,8260,sao paulo,SP,22,517
-SEL_140,95995,arvorezinha,RS,19,37
-SEL_141,4674,sao paulo,SP,22,517
-SEL_142,14020,ribeirao preto,SP,22,442
-SEL_143,36525,guiricema,MG,8,221
-SEL_144,95072,caxias do sul,RS,19,131
-SEL_145,55004,caruaru,PE,13,123
-SEL_146,80045,curitiba,PR,15,159
-SEL_147,14401,franca,SP,22,196
-SEL_148,81030,curitiba,PR,15,159
-SEL_149,40243,salvador,BA,2,467
-SEL_150,9951,diadema,SP,22,162
-SEL_151,8573,itaquaquecetuba,SP,22,258
-SEL_152,18682,lencois paulista,SP,22,302
-SEL_153,7091,guarulhos,SP,22,220
-SEL_154,6341,carapicuiba,SP,22,115
-SEL_155,76400,uruacu,GO,6,585
-SEL_156,88301,itajai,SC,20,249
-SEL_157,3280,sao paulo,SP,22,517
-SEL_158,1545,sao paulo,SP,22,517
-SEL_159,1026,sao paulo,SP,22,517
-SEL_160,80620,curitiba,PR,15,159
-SEL_161,87900,loanda,PR,15,304
-SEL_162,3186,sao paulo,SP,22,517
-SEL_163,19400,sao paulo,SP,22,517
-SEL_164,2839,sao paulo,SP,22,517
-SEL_165,87014,maringa,PR,15,325
-SEL_166,1207,sao paulo,SP,22,517
-SEL_167,1411,sao paulo,SP,22,517
-SEL_168,30190,belo horizonte,MG,8,64
-SEL_169,8502,ferraz de vasconcelos,SP,22,186
-SEL_170,1541,sao paulo,SP,22,517
-SEL_171,13481,limeira,SP,22,303
-SEL_172,11040,santos,SP,22,489
-SEL_173,6436,barueri,SP,22,58
-SEL_174,2310,sao paulo,SP,22,517
-SEL_175,35530,claudio,MG,8,136
-SEL_176,14080,ribeirao preto,SP,22,442
-SEL_177,24355,niteroi,RJ,16,360
-SEL_178,17700,osvaldo cruz,SP,22,375
-SEL_179,6380,carapicuiba,SP,22,115
-SEL_180,6016,osasco,SP,22,374
-SEL_181,24451,sao goncalo,RJ,16,499
-SEL_182,78820,jaciara,MT,10,269
-SEL_183,88330,balenario camboriu,SC,20,47
-SEL_184,4009,sao paulo,SP,22,517
-SEL_185,89120,timbo,SC,20,565
-SEL_186,14075,ribeirao preto,SP,22,442
-SEL_187,5424,sao paulo,SP,22,517
-SEL_188,99730,jacutinga,RS,19,270
-SEL_189,60440,fortaleza,CE,3,194
-SEL_190,7242,guarulhos,SP,22,220
-SEL_191,7051,guarulhos,SP,22,220
-SEL_192,8517,ferraz de  vasconcelos,SP,22,185
-SEL_193,16800,mirandopolis,SP,22,336
-SEL_194,89228,joinville,SC,20,285
-SEL_195,30421,belo horizonte,MG,8,64
-SEL_196,17056,bauru,SP,22,60
-SEL_197,12308,jacarei,SP,22,266
-SEL_198,13304,itu,SP,22,263
-SEL_199,85301,laranjeiras do sul,SP,22,298
-SEL_200,3554,sao paulo,SP,22,517
-SEL_201,89560,videira,SC,20,602
-SEL_202,88058,florianopolis,SC,20,190
-SEL_203,6853,itapecerica da serra,SP,22,251
-SEL_204,58280,mamanguape,PB,12,315
-SEL_205,8490,sao paulo,SP,22,517
-SEL_206,35430,ponte nova,MG,8,420
-SEL_207,87360,goioere,SP,22,208
-SEL_208,17280,pederneiras,SP,22,396
-SEL_209,6653,itapevi,SP,22,255
-SEL_210,74563,goiania,GO,6,207
-SEL_211,4821,sao paulo,SP,22,517
-SEL_212,21820,rio de janeiro,RJ,16,450
-SEL_213,1026,sao paulo,SP,22,517
-SEL_214,3308,sao paulo,SP,22,517
-SEL_215,95070,caxias do sul,RS,19,131
-SEL_216,9640,sao bernardo do campo,SP,22,494
-SEL_217,58400,campina grande,PB,12,100
-SEL_218,93608,estancia velha,RS,19,176
-SEL_219,27525,resende,RJ,16,439
-SEL_220,89251,jaragua do sul,SC,20,278
-SEL_221,2215,sao paulo,SP,22,517
-SEL_222,5524,sao paulo,SP,22,517
-SEL_223,22790,rio de janeiro,RJ,16,450
-SEL_224,8041,sao paulo,SP,22,517
-SEL_225,5715,sao paulo,SP,22,517
-SEL_226,88032,florianopolis,SC,20,190
-SEL_227,18055,sorocaba,SP,22,546
-SEL_228,2112,sao paulo,SP,22,517
-SEL_229,14075,ribeirao preto,SP,22,442
-SEL_230,18048,sorocaba,SP,22,546
-SEL_231,9336,maua,SP,22,328
-SEL_232,17030,bauru,SP,22,60
-SEL_233,17052,bauru,SP,22,60
-SEL_234,30620,belo horizonte,MG,8,64
-SEL_235,13327,salto,SP,22,466
-SEL_236,74343,goiania,GO,6,207
-SEL_237,35300,caratinga,MG,8,117
-SEL_238,15350,auriflama/sp,SP,22,41
-SEL_239,21240,rio de janeiro,RJ,16,450
-SEL_240,14407,franca,SP,22,196
-SEL_241,16500,cafelandia,SP,22,91
-SEL_242,2518,sao paulo,SP,22,517
-SEL_243,14050,ribeirao preto,SP,22,442
-SEL_244,88730,sao ludgero,SC,20,512
-SEL_245,36502,uba,MG,8,579
-SEL_246,9751,sao bernardo do campo,SP,22,494
-SEL_247,3407,sao paulo / sao paulo,SP,22,519
-SEL_248,14940,ibitinga,SP,22,227
-SEL_249,87035,maringa,PR,15,325
-SEL_250,15062,sao jose do rio preto,SP,22,507
-SEL_251,13064,campinas,SP,22,101
-SEL_252,21020,rio de janeiro,RJ,16,450
-SEL_253,13660,porto ferreira,SP,22,424
-SEL_254,95660,tres coroas,RS,19,572
-SEL_255,9080,santo andre,SP,22,483
-SEL_256,89031,blumenau,SC,20,69
-SEL_257,9110,santo andre,SP,22,483
-SEL_258,9230,santo andre,SP,22,483
-SEL_259,3951,sao paulo,SP,22,517
-SEL_260,3172,sao paulo,SP,22,517
-SEL_261,3334,sao paulo,SP,22,517
-SEL_262,89070,blumenau,SC,20,69
-SEL_263,8773,mogi das cruzes,SP,22,340
-SEL_264,11013,santos,SP,22,489
-SEL_265,6286,osasco,SP,22,374
-SEL_266,15155,jaci,SP,22,268
-SEL_267,35530,claudio,MG,8,136
-SEL_268,74045,goiania,GO,6,207
-SEL_269,18500,laranjal paulista,SP,22,297
-SEL_270,18048,sorocaba,SP,22,546
-SEL_271,1126,sao paulo,SP,22,517
-SEL_272,13478,americana,SP,22,9
-SEL_273,1303,sao paulo,SP,22,517
-SEL_274,2739,sao paulo,SP,22,517
-SEL_275,20921,rio de janeiro,RJ,16,450
-SEL_276,86170,sertanopolis,SP,22,540
-SEL_277,14940,ibitinga,SP,22,227
-SEL_278,86808,apucarana,PR,15,21
-SEL_279,15046,sao jose do rio preto,SP,22,507
-SEL_280,22230,rio de janeiro,RJ,16,450
-SEL_281,87035,maringa,PR,15,325
-SEL_282,4102,sao paulo,SP,22,517
-SEL_283,7052,guarulhos,SP,22,220
-SEL_284,16301,penapolis,SP,22,402
-SEL_285,24020,niteroi,RJ,16,360
-SEL_286,89204,joinville,SC,20,285
-SEL_287,83408,colombo,PR,15,139
-SEL_288,11450,vicente de carvalho,SP,22,600
-SEL_289,26562,mesquita,RJ,16,331
-SEL_290,86010,londrina,PR,15,305
-SEL_291,2051,sao pauo,SP,22,522
-SEL_292,88056,florianopolis,SC,20,190
-SEL_293,30550,belo horizonte,MG,8,64
-SEL_294,2820,sao paulo,SP,22,517
-SEL_295,85802,cascavel,PR,15,125
-SEL_296,83830,fazenda rio grande,PR,15,181
-SEL_297,4508,sao paulo,SP,22,517
-SEL_298,6775,taboao da serra,SP,22,553
-SEL_299,1550,sao paulo,SP,22,517
-SEL_300,22783,rio de janeiro,RJ,16,450
-SEL_301,81070,curitiba,PR,15,159
-SEL_302,4716,sao paulo,SP,22,517
-SEL_303,12233,sao jose dos campos,SP,22,508
-SEL_304,7084,guarulhos,SP,22,220
-SEL_305,3384,sao paulo,SP,22,517
-SEL_306,85903,toledo,PR,15,569
-SEL_307,82510,curitiba,PR,15,159
-SEL_308,15081,sao jose do rio preto,SP,22,507
-SEL_309,8411,sao paulo,SP,22,517
-SEL_310,17047,bauru,SP,22,60
-SEL_311,11045,santos,SP,22,489
-SEL_312,85960,marechal candido rondon,SP,22,321
-SEL_313,80010,curitiba,PR,15,159
-SEL_314,8710,mogi das cruzes,SP,22,340
-SEL_315,91130,porto alegre,RS,19,422
-SEL_316,12238,sao jose dos campos,SP,22,508
-SEL_317,6236,osasco,SP,22,374
-SEL_318,13203,jundiai,SP,22,287
-SEL_319,83800,mandirituba,PR,15,319
-SEL_320,3551,sao paulo,SP,22,517
-SEL_321,8655,suzano,SP,22,550
-SEL_322,33200,vespasiano,MG,8,597
-SEL_323,80040,curitiba,PR,15,159
-SEL_324,20735,rio de janeiro,RJ,16,450
-SEL_325,89031,blumenau,SC,20,69
-SEL_326,1417,sao paulo,SP,22,517
-SEL_327,98780,santa rosa,RS,19,478
-SEL_328,15015,sao jose do rio preto,SP,22,507
-SEL_329,14600,sao joaquim da barra,SP,22,503
-SEL_330,5125,sao paulo,SP,22,517
-SEL_331,81050,curitiba,PR,15,159
-SEL_332,13830,santo antonio de posse,SP,22,488
-SEL_333,1212,sao paulo,SP,22,517
-SEL_334,97502,uruguaiana,RS,19,586
-SEL_335,80215,curitiba,PR,15,159
-SEL_336,6703,cotia,SP,22,153
-SEL_337,13480,limeira,SP,22,303
-SEL_338,37400,campanha,MG,8,98
-SEL_339,14940,ibitinga,SP,22,227
-SEL_340,4811,sao paulo,SP,22,517
-SEL_341,75640,piracanjuba,GO,6,410
-SEL_342,3306,sao paulo,SP,22,517
-SEL_343,95034,caxias do sul,RS,19,131
-SEL_344,30640,belo horizonte,MG,8,64
-SEL_345,89701,concordia,SC,20,142
-SEL_346,2880,sao paulo,SP,22,517
-SEL_347,3688,sao paulo,SP,22,517
-SEL_348,74043,goiania,GO,6,207
-SEL_349,37540,santa rita do sapucai,MG,8,477
-SEL_350,81925,curitiba,PR,15,159
-SEL_351,6246,osasco,SP,22,374
-SEL_352,80510,curitiba,PR,15,159
-SEL_353,80240,curitiba,PR,15,159
-SEL_354,14780,barretos,SP,22,55
-SEL_355,13330,indaiatuba,SP,22,238
-SEL_356,26525,nilopolis,RJ,16,359
-SEL_357,9380,maua,SP,22,328
-SEL_358,17580,pompeia,SP,22,418
-SEL_359,44895,barro alto,BA,2,57
-SEL_360,13840,mogi guacu,SP,22,342
-SEL_361,4557,são paulo,SP,22,532
-SEL_362,4311,sao paulo,SP,22,517
-SEL_363,11702,praia grande,SP,22,431
-SEL_364,14406,franca,SP,22,196
-SEL_365,22783,rio de janeiro,SP,22,450
-SEL_366,89128,luiz alves,SC,20,308
-SEL_367,2036,sao paulo,SP,22,517
-SEL_368,6038,osasco,SP,22,374
-SEL_369,88351,brusque,SC,20,85
-SEL_370,88804,criciuma,SC,20,156
-SEL_371,5729,sao paulo,SP,22,517
-SEL_372,6519,santana de parnaiba,SP,22,482
-SEL_373,6016,osasco,SP,22,374
-SEL_374,89222,joinville,SC,20,285
-SEL_375,2252,sao paulo,SP,22,517
-SEL_376,7179,guarulhos,SP,22,220
-SEL_377,31050,belo horizonte,MG,8,64
-SEL_378,13480,limeira,SP,22,303
-SEL_379,15805,catanduva,SP,22,129
-SEL_380,89052,blumenau,SC,20,69
-SEL_381,31255,belo horizonte,MG,8,64
-SEL_382,15704,jales,SP,22,273
-SEL_383,20270,rio de janeiro,RJ,16,450
-SEL_384,86060,londrina,PR,15,305
-SEL_385,12944,atibaia,SP,22,39
-SEL_386,69900,rio branco,AC,0,447
-SEL_387,86046,londrina,PR,15,305
-SEL_388,27321,barra mansa,RJ,16,53
-SEL_389,5632,sao paulo,SP,22,517
-SEL_390,3161,sao paulo,SP,22,517
-SEL_391,4782,sao paulo,SP,22,517
-SEL_392,14403,franca,SP,22,196
-SEL_393,87013,maringa,PR,15,325
-SEL_394,9405,ribeirao pires,SP,22,441
-SEL_395,2310,sao paulo,SP,22,517
-SEL_396,4363,sao paulo,SP,22,517
-SEL_397,1539,sao paulo,SP,22,517
-SEL_398,13560,sao carlos,SP,22,497
-SEL_399,2238,sao paulo,SP,22,517
-SEL_400,15055,sao jose do rio preto,SP,22,507
-SEL_401,82220,curitiba,PR,15,159
-SEL_402,17520,marilia,SP,22,324
-SEL_403,3060,sao paulo,SP,22,517
-SEL_404,9443,ribeirao pires,SP,22,441
-SEL_405,14096,ribeirao preto,SP,22,442
-SEL_406,48602,bahia,BA,2,46
-SEL_407,91740,porto alegre,RS,19,422
-SEL_408,86047,londrina,PR,15,305
-SEL_409,85807,cascavel,PR,15,125
-SEL_410,12020,taubate,SP,22,559
-SEL_411,85802,cascavael,PR,15,124
-SEL_412,1320,sao paulo,SP,22,517
-SEL_413,12250,monteiro lobato,SP,22,348
-SEL_414,81250,curitiba,PR,15,159
-SEL_415,29138,viana,ES,5,599
-SEL_416,7145,guarulhos,SP,22,220
-SEL_417,88107,sao jose,SC,20,504
-SEL_418,25850,paraiba do sul,RJ,16,385
-SEL_419,13730,mococa,SP,22,338
-SEL_420,18130,sao roque,SP,22,525
-SEL_421,37900,passos,MG,8,390
-SEL_422,14940,ibitinga,SP,22,227
-SEL_423,85603,francisco beltrao,PR,15,197
-SEL_424,3821,sao paulo,SP,22,517
-SEL_425,36512,tocantins,SP,22,568
-SEL_426,76400,uruacu,GO,6,585
-SEL_427,87083,maringa,PR,15,325
-SEL_428,74473,goiania,GO,6,207
-SEL_429,21931,rio de janeiro,RJ,16,450
-SEL_430,14055,ribeirao preto,SP,22,442
-SEL_431,88210,porto belo,SC,20,423
-SEL_432,13105,campinas,SP,22,101
-SEL_433,26255,nova iguacu,RJ,16,362
-SEL_434,3343,sao paulo,SP,22,517
-SEL_435,17512,marilia,SP,22,324
-SEL_436,88820,icara,SC,20,228
-SEL_437,3543,sao paulo,SP,22,517
-SEL_438,95910,lajeado,RS,19,295
-SEL_439,3694,sao paulo,SP,22,517
-SEL_440,3029,sao paulo,SP,22,517
-SEL_441,37540,santa rita do sapucai,MG,8,477
-SEL_442,13042,campinas,SP,22,101
-SEL_443,1201,sao paulo,SP,22,517
-SEL_444,9230,santo andre,SP,22,483
-SEL_445,88359,brusque,SC,20,85
-SEL_446,98920,horizontina,RS,19,223
-SEL_447,4364,sao paulo,SP,22,517
-SEL_448,3416,sao paulo,SP,22,517
-SEL_449,9350,maua,SP,22,328
-SEL_450,1214,sao paulo,SP,22,517
-SEL_451,2880,sao paulo,SP,22,517
-SEL_452,9220,santo andre,SP,22,483
-SEL_453,18110,votorantim,SP,22,607
-SEL_454,35530,claudio,MG,8,136
-SEL_455,93700,campo bom,RS,19,102
-SEL_456,3659,sao paulo,SP,22,517
-SEL_457,1123,sao paulo,SP,22,517
-SEL_458,15910,monte alto,SP,22,346
-SEL_459,3103,sao paulo,SP,22,517
-SEL_460,14078,ribeirao preto,SP,22,442
-SEL_461,15601,fernandopolis,SP,22,184
-SEL_462,89041,blumenau,SC,20,69
-SEL_463,17500,marilia,SP,22,324
-SEL_464,84010,ponta grossa,PR,15,419
-SEL_465,7093,guarulhos,SP,22,220
-SEL_466,31560,belo horizonte,MG,8,64
-SEL_467,13920,pedreira,SP,22,398
-SEL_468,86800,apucarana,PR,15,21
-SEL_469,7062,guarulhos,SP,22,220
-SEL_470,88351,brusque,SC,20,85
-SEL_471,8550,poa,SP,22,416
-SEL_472,3471,sao paulo,SP,22,517
-SEL_473,87047,maringa,PR,15,325
-SEL_474,82040,curitiba,PR,15,159
-SEL_475,15025,sao jose do rio preto,SP,22,507
-SEL_476,35500,divinopolis,MG,8,163
-SEL_477,13450,santa barbara d´oeste,SP,22,471
-SEL_478,92025,canoas,RS,19,112
-SEL_479,13310,itu,SP,22,263
-SEL_480,89217,joinville,SC,20,285
-SEL_481,13375,mombuca,SP,22,344
-SEL_482,9628,sao bernardo do campo,SP,22,494
-SEL_483,6539,santana de parnaiba,SP,22,482
-SEL_484,81350,curitiba,PR,15,159
-SEL_485,86040,londrina,PR,15,305
-SEL_486,14405,franca,SP,22,196
-SEL_487,35700,sete lagoas,MG,8,541
-SEL_488,37165,campo do meio,MG,8,103
-SEL_489,85904,toledo,PR,15,569
-SEL_490,8780,mogi das cruzes,SP,22,340
-SEL_491,13219,jundiai,SP,22,287
-SEL_492,17509,marilia,SP,22,324
-SEL_493,60741,fortaleza,CE,3,194
-SEL_494,3311,sao paulo,SP,22,517
-SEL_495,13490,cordeiropolis,SP,22,148
-SEL_496,38410,uberlandia,MG,8,582
-SEL_497,75123,anapolis,GO,6,12
-SEL_498,14092,ribeirao preto,SP,22,442
-SEL_499,15085,sao jose do rio preto,SP,22,507
-SEL_500,4578,sao paulo,SP,22,517
-SEL_501,91310,porto alegre,RS,19,422
-SEL_502,20756,rio de janeiro,RJ,16,450
-SEL_503,1233,sao paulo,SP,22,517
-SEL_504,8223,sao paulo,SP,22,517
-SEL_505,4782,sao paulo,SP,22,517
-SEL_506,83402,colombo,PR,15,139
-SEL_507,9920,diadema,SP,22,162
-SEL_508,13419,piracicaba,SP,22,411
-SEL_509,20021,rio de janeiro,RJ,16,450
-SEL_510,18072,sorocaba,SP,22,546
-SEL_511,13456,santa barbara d oeste,SP,22,469
-SEL_512,13920,pedreira,SP,22,398
-SEL_513,86702,arapongas,PR,15,25
-SEL_514,27277,volta redonda,SP,22,606
-SEL_515,13660,porto ferreira,SP,22,424
-SEL_516,89030,blumenau,SC,20,69
-SEL_517,6787,taboao da serra,SP,22,553
-SEL_518,22790,04482255,RJ,16,0
-SEL_519,16072,aracatuba,SP,22,23
-SEL_520,81830,curitiba,PR,15,159
-SEL_521,74210,goiania,GO,6,207
-SEL_522,16200,birigui,SP,22,68
-SEL_523,18070,sorocaba,SP,22,546
-SEL_524,37580,monte siao,MG,8,347
-SEL_525,13073,campinas,SP,22,101
-SEL_526,89248,garuva,SC,20,205
-SEL_527,38650,bonfinopolis de minas,MG,8,76
-SEL_528,13150,cosmopolis,SP,22,152
-SEL_529,14092,ribeirao preto,SP,22,442
-SEL_530,15800,catanduva,SP,22,129
-SEL_531,1215,sao paulo,SP,22,517
-SEL_532,24451,sao goncalo,RJ,16,499
-SEL_533,4386,sao paulo,SP,22,517
-SEL_534,5547,sao paulo,SP,22,517
-SEL_535,21070,rio de janeiro,RJ,16,450
-SEL_536,37706,pocos de caldas,MG,8,417
-SEL_537,24725,sao goncalo,RJ,16,499
-SEL_538,13160,artur nogueira,SP,22,35
-SEL_539,11015,santos,SP,22,489
-SEL_540,4209,sao paulo,SP,22,517
-SEL_541,30575,belo horizonte,MG,8,64
-SEL_542,6513,santana de parnaiba,SP,22,482
-SEL_543,20520,rio de janeiro,RJ,16,450
-SEL_544,58030,joao pessoa,PB,12,283
-SEL_545,17300,dois corregos,SP,22,165
-SEL_546,89245,araquari,SC,20,26
-SEL_547,1220,sao paulo,SP,22,517
-SEL_548,90230,porto alegre,RS,19,422
-SEL_549,83075,sao jose dos pinhais,PR,15,509
-SEL_550,31570,belo horizonte,SP,22,64
-SEL_551,36500,uba,MG,8,579
-SEL_552,93310,"novo hamburgo, rio grande do sul, brasil",RS,19,368
-SEL_553,84035,ponta grossa,PR,15,419
-SEL_554,80330,curitiba,PR,15,159
-SEL_555,89218,joinville,SC,20,285
-SEL_556,88056,floranopolis,SC,20,187
-SEL_557,15155,jaci,SP,22,268
-SEL_558,13170,sumare,SP,22,549
-SEL_559,83070,sao jose dos pinhais,PR,15,509
-SEL_560,9350,maua,SP,22,328
-SEL_561,85980,guaira,PR,15,211
-SEL_562,2118,sao paulo,SP,22,517
-SEL_563,12242,sao jose dos campos,SP,22,508
-SEL_564,29313,cachoeiro de itapemirim,ES,5,90
-SEL_565,14150,serrana,SP,22,539
-SEL_566,5108,sao paulo,SP,22,517
-SEL_567,86604,rolandia,PR,15,461
-SEL_568,4360,sao paulo,SP,22,517
-SEL_569,23062,rio de janeiro,RJ,16,450
-SEL_570,3029,sao paulo,SP,22,517
-SEL_571,4054,sao paulo,SP,22,517
-SEL_572,36415,congonhas,MG,8,145
-SEL_573,15046,sao jose do rio preto,SP,22,507
-SEL_574,5537,sao paulo,SP,22,517
-SEL_575,12943,atibaia,SP,22,39
-SEL_576,6852,itapecerica da serra,SP,22,251
-SEL_577,83091,sao  jose dos pinhais,PR,15,490
-SEL_578,18035,sorocaba,SP,22,546
-SEL_579,18550,boituva,SP,22,72
-SEL_580,13405,piracicaba,SP,22,411
-SEL_581,3275,sao paulo,SP,22,517
-SEL_582,14400,franca,SP,22,196
-SEL_583,88495,garopaba,SC,20,203
-SEL_584,90010,porto alegre,RS,19,422
-SEL_585,17604,tupa,SP,22,578
-SEL_586,3612,sao paulo,SP,22,517
-SEL_587,5268,sao paulo,SP,22,517
-SEL_588,13660,porto ferreira,SP,22,424
-SEL_589,3059,sao paulo,SP,22,517
-SEL_590,7600,mairipora,SP,22,314
-SEL_591,1547,sao paulo,SP,22,517
-SEL_592,13041,campinas,SP,22,101
-SEL_593,16480,guaimbe,SP,22,210
-SEL_594,95360,parai,RS,19,384
-SEL_595,17700,osvaldo cruz,SP,22,375
-SEL_596,9862,sao bernardo do campo,SP,22,494
-SEL_597,37706,pocos de caldas,MG,8,417
-SEL_598,28495,aperibe,RJ,16,20
-SEL_599,35500,divinopolis,MG,8,163
-SEL_600,1021,sao paulo,SP,22,517
-SEL_601,17605,tupa,SP,22,578
-SEL_602,80610,curitiba,PR,15,159
-SEL_603,18053,sorocaba,SP,22,546
-SEL_604,88715,jaguaruna,SC,20,272
-SEL_605,86707,arapongas,PR,15,25
-SEL_606,26210,nova iguacu,RJ,16,362
-SEL_607,8250,sao paulo,SP,22,517
-SEL_608,29101,vila velha,SP,22,603
-SEL_609,14801,araraquara,SP,22,28
-SEL_610,9182,santo andre,SP,22,483
-SEL_611,89210,joinville,SC,20,285
-SEL_612,13085,campinas,SP,22,101
-SEL_613,21070,rio de janeiro,RJ,16,450
-SEL_614,7194,guarulhos,SP,22,220
-SEL_615,36052,juiz de fora,MG,8,286
-SEL_616,23080,rio de janeiro,RJ,16,450
-SEL_617,38230,fronteira,MG,8,200
-SEL_618,14960,novo horizonte,SP,22,369
-SEL_619,18185,pilar do sul,SP,22,405
-SEL_620,15840,itajobi,SP,22,250
-SEL_621,87050,maringa,PR,15,325
-SEL_622,4815,sao paulo,SP,22,517
-SEL_623,29142,cariacica / es,ES,5,120
-SEL_624,36320,prados,MG,8,430
-SEL_625,88020,florianopolis,SC,20,190
-SEL_626,13560,sao carlos,SP,22,497
-SEL_627,11065,santos,SP,22,489
-SEL_628,8598,itaquaquecetuba,SP,22,258
-SEL_629,62170,mucambo,CE,3,352
-SEL_630,83409,colombo,PR,15,139
-SEL_631,13504,rio claro,SP,22,448
-SEL_632,14940,ibitinga,SP,22,227
-SEL_633,95705,bento goncalves,RS,19,65
-SEL_634,4041,sao paulo,SP,22,517
-SEL_635,12080,taubate,SP,22,559
-SEL_636,81210,curitiba,PR,15,159
-SEL_637,87050,maringa,PR,15,325
-SEL_638,86026,londrina,PR,15,305
-SEL_639,1244,sao paulo,SP,22,517
-SEL_640,39400,montes claros,MG,8,350
-SEL_641,82810,curitiba,PR,15,159
-SEL_642,4613,sao paulo,SP,22,517
-SEL_643,9694,sao bernardo do campo,SP,22,494
-SEL_644,11701,praia grande,SP,22,431
-SEL_645,7152,guarulhos,SP,22,220
-SEL_646,92310,canoas,RS,19,112
-SEL_647,82510,curitiba,PR,15,159
-SEL_648,36570,vicosa,MG,8,601
-SEL_649,13090,campinas,SP,22,101
-SEL_650,5201,sao paulo,SP,22,517
-SEL_651,3126,sao paulo,SP,22,517
-SEL_652,21041,rio de janeiro,RJ,16,450
-SEL_653,82130,curitiba,PR,15,159
-SEL_654,76804,porto velho,RO,18,426
-SEL_655,40130,salvador,BA,2,467
-SEL_656,13720,sao jose do rio pardo,SP,22,505
-SEL_657,32260,contagem,MG,8,147
-SEL_658,85501,pato branco,PR,15,392
-SEL_659,36301,sao joao del rei,MG,8,502
-SEL_660,14091,ribeirao preto,SP,22,442
-SEL_661,19042,presidente prudente,SP,22,435
-SEL_662,8743,mogi das cruzes,SP,22,340
-SEL_663,26600,paracambi,RJ,16,383
-SEL_664,13312,itu,SP,22,263
-SEL_665,13930,serra negra,SP,22,537
-SEL_666,15052,sao jose do rio preto,SP,22,507
-SEL_667,9541,sao caetano do sul,SP,22,496
-SEL_668,1420,sao paulo,SP,22,517
-SEL_669,1239,sao paulo,SP,22,517
-SEL_670,13418,piracicaba,SP,22,411
-SEL_671,13820,jaguariuna,SP,22,271
-SEL_672,4001,sao paulo,SP,22,517
-SEL_673,17051,bauru,SP,22,60
-SEL_674,15081,sao jose do rio preto,SP,22,507
-SEL_675,9550,sao caetano do sul,SP,22,496
-SEL_676,89256,jaragua do sul,SC,20,278
-SEL_677,2523,sao paulo,SP,22,517
-SEL_678,5462,sao paulo,SP,22,517
-SEL_679,83411,colombo,PR,15,139
-SEL_680,89069,blumenau,SC,20,69
-SEL_681,36010,juiz de fora,SP,22,286
-SEL_682,4154,sao paulo,SP,22,517
-SEL_683,28660,bom jardim,RJ,16,73
-SEL_684,58385,serra redonda,PB,12,538
-SEL_685,14940,ibitinga,SP,22,227
-SEL_686,82800,curitiba,PR,15,159
-SEL_687,4133,sao paulo,SP,22,517
-SEL_688,2851,sao paulo,SP,22,517
-SEL_689,89240,sao francisco do sul,SC,20,498
-SEL_690,7052,guarulhos,SP,22,220
-SEL_691,29104,vila velha,ES,5,603
-SEL_692,19010,presidente prudente,SP,22,435
-SEL_693,32672,betim,MG,8,67
-SEL_694,1303,sao paulo,SP,22,517
-SEL_695,4676,sao paulo,SP,22,517
-SEL_696,3910,sao paulo,SP,22,517
-SEL_697,81200,curitiba,PR,15,159
-SEL_698,9411,ribeirao pires,SP,22,441
-SEL_699,81070,curitiba,PR,15,159
-SEL_700,84430,imbituva,PR,15,235
-SEL_701,83280,guaratuba,PR,15,217
-SEL_702,91520,porto alegre,SP,22,422
-SEL_703,5615,sao paulo,SP,22,517
-SEL_704,64033,teresina,PI,14,561
-SEL_705,4164,sao paulo,SP,22,517
-SEL_706,91360,porto alegre,RS,19,422
-SEL_707,14406,franca,SP,22,196
-SEL_708,89900,sao miguel d'oeste,SC,20,514
-SEL_709,18550,boituva,SP,22,72
-SEL_710,12941,atibaia,SP,22,39
-SEL_711,12230,sao jose dos campos,SP,22,508
-SEL_712,18132,sao roque,SP,22,525
-SEL_713,86820,california,PR,15,94
-SEL_714,8020,sao paulo,SP,22,517
-SEL_715,14802,araraquara,SP,22,28
-SEL_716,7135,guarulhos,SP,22,220
-SEL_717,17600,tupa,SP,22,578
-SEL_718,2562,sao paulo,SP,22,517
-SEL_719,84920,japira,PR,15,276
-SEL_720,20751,rio de janeiro,RJ,16,450
-SEL_721,70610,brasilia,DF,4,81
-SEL_722,9190,santo andre,SP,22,483
-SEL_723,85851,foz do iguacu,PR,15,195
-SEL_724,12080,taubate,SP,22,559
-SEL_725,9780,sao bernardo do campo,SP,22,494
-SEL_726,13483,limeira,SP,22,303
-SEL_727,13180,sumare,SP,22,549
-SEL_728,2215,sao paulo,SP,22,517
-SEL_729,8583,itaquaquecetuba,SP,22,258
-SEL_730,28633,nova friburgo,RJ,16,361
-SEL_731,21862,rio de janeiro,RJ,16,450
-SEL_732,4438,sao paulo,SP,22,517
-SEL_733,3521,sao paulo,SP,22,517
-SEL_734,30120,belo horizonte,MG,8,64
-SEL_735,37975,itau de minas,MG,8,260
-SEL_736,3654,sao paulo,SP,22,517
-SEL_737,36050,juiz de fora,MG,8,286
-SEL_738,88085,florianopolis,SC,20,190
-SEL_739,5171,sao paulo,SP,22,517
-SEL_740,16200,birigui,SP,22,68
-SEL_741,35540,oliveira,MG,8,371
-SEL_742,34710,sabara,MG,8,465
-SEL_743,19865,pedrinhas paulista,SP,22,399
-SEL_744,9810,sao bernardo do campo,SP,22,494
-SEL_745,31510,belo horizonte,MG,8,64
-SEL_746,2515,sao paulo,SP,22,517
-SEL_747,15500,votuporanga,SP,22,608
-SEL_748,19025,presidente prudente,SP,22,435
-SEL_749,13825,holambra,SP,22,222
-SEL_750,8752,mogi das cruzes,SP,22,340
-SEL_751,88901,ararangua,SC,20,27
-SEL_752,83324,pinhais,PR,15,406
-SEL_753,2117,sao paulo,SP,22,517
-SEL_754,9540,sao caetano do sul,SP,22,496
-SEL_755,4361,sao paulo,SP,22,517
-SEL_756,3306,sao paulo,SP,22,517
-SEL_757,86047,londrina,PR,15,305
-SEL_758,4213,sao paulo,SP,22,517
-SEL_759,14092,ribeirao preto,SP,22,442
-SEL_760,14026,ribeirao preto,SP,22,442
-SEL_761,16200,birigui,SP,22,68
-SEL_762,1254,sao paulo,SP,22,517
-SEL_763,74435,goiania,GO,6,207
-SEL_764,1026,sao paulo,SP,22,517
-SEL_765,26020,nova iguacu,RJ,16,362
-SEL_766,7140,guarulhos,SP,22,220
-SEL_767,90560,porto alegre,RS,19,422
-SEL_768,3307,sao paulo,SP,22,517
-SEL_769,2804,sao paulo,SP,22,517
-SEL_770,13480,limeira,SP,22,303
-SEL_771,22790,rio de janeiro,RJ,16,450
-SEL_772,85948,pato bragado,PR,15,391
-SEL_773,99500,carazinho,RS,19,118
-SEL_774,38680,arinos,MG,8,32
-SEL_775,13520,sao pedro,SP,22,523
-SEL_776,88504,lages,SC,20,290
-SEL_777,4122,sao paulo,SP,22,517
-SEL_778,9320,maua,SP,22,328
-SEL_779,1223,sao paulo,SP,22,517
-SEL_780,13660,porto ferreira,SP,22,424
-SEL_781,6365,carapicuiba,SP,22,115
-SEL_782,85640,ampere,PR,15,11
-SEL_783,35500,divinopolis,MG,8,163
-SEL_784,30180,belo horizonte,MG,8,64
-SEL_785,83010,sao jose dos pinhais,PR,15,509
-SEL_786,1026,sao paulo,SP,22,517
-SEL_787,35680,itauna,MG,8,261
-SEL_788,11443,guaruja,SP,22,219
-SEL_789,3065,sao paulo,SP,22,517
-SEL_790,88063,florianopolis,SC,20,190
-SEL_791,3533,sao paulo,SP,22,517
-SEL_792,91901,porto alegre,RS,19,422
-SEL_793,13800,mogi mirim,SP,22,343
-SEL_794,89224,joinville,SC,20,285
-SEL_795,89520,curitibanos,SC,20,160
-SEL_796,71906,brasilia df,DF,4,82
-SEL_797,37410,tres coracoes,MG,8,571
-SEL_798,5849,sao paulo,SP,22,517
-SEL_799,60346,fortaleza,CE,3,194
-SEL_800,1403,sao paulo,SP,22,517
-SEL_801,2727,sao paulo,SP,22,517
-SEL_802,12215,sao jose dos campos,SP,22,508
-SEL_803,8710,mogi das cruses,SP,22,339
-SEL_804,2565,sao paulo,SP,22,517
-SEL_805,4256,sao paulo,SP,22,517
-SEL_806,13088,campinas,SP,22,101
-SEL_807,13185,hortolandia,SP,22,224
-SEL_808,4160,sao paulo,SP,22,517
-SEL_809,30310,belo horizonte,MG,8,64
-SEL_810,87025,maringa,PR,15,325
-SEL_811,20771,rio de janeiro,RJ,16,450
-SEL_812,12940,atibaia,SP,22,39
-SEL_813,88210,porto belo,SC,20,423
-SEL_814,85900,toledo,PR,15,569
-SEL_815,17511,marilia,SP,22,324
-SEL_816,82940,curitiba,PR,15,159
-SEL_817,35162,ipatinga,MG,8,239
-SEL_818,95059,caxias do sul,RS,19,131
-SEL_819,88790,laguna,SP,22,294
-SEL_820,13920,pedreira,SP,22,398
-SEL_821,2407,sao paulo,SP,22,517
-SEL_822,13041,campinas,SP,22,101
-SEL_823,12942,atibaia,SP,22,39
-SEL_824,36071,juiz de fora,MG,8,286
-SEL_825,1310,sao paulo,SP,22,517
-SEL_826,36213,dores de campos,MG,8,167
-SEL_827,5353,sao paulo - sp,SP,22,518
-SEL_828,2532,sao paulo,SP,22,517
-SEL_829,9560,sao caetano do sul,SP,22,496
-SEL_830,13603,araras,SP,22,29
-SEL_831,37142,divisa nova,MG,8,164
-SEL_832,5138,sao paulo,SP,22,517
-SEL_833,7071,guarulhos,SP,22,220
-SEL_834,9111,santo andre,SP,22,483
-SEL_835,18040,sorocaba,SP,22,546
-SEL_836,13085,campinas,SP,22,101
-SEL_837,17350,igaracu do tiete,SP,22,229
-SEL_838,13473,americana,SP,22,9
-SEL_839,88353,brusque,SC,20,85
-SEL_840,88350,brusque,SC,20,85
-SEL_841,9510,sao caetano do sul,SP,22,496
-SEL_842,38412,uberlandia,MG,8,582
-SEL_843,14750,pitangueiras,SP,22,415
-SEL_844,30120,belo horizonte,MG,8,64
-SEL_845,14400,franca,SP,22,196
-SEL_846,4131,sao paulo,SP,22,517
-SEL_847,22451,rio de janeiro,RJ,16,450
-SEL_848,4317,sao paulo,SP,22,517
-SEL_849,1001,sao paulo,SP,22,517
-SEL_850,5705,sao paulo,SP,22,517
-SEL_851,81650,curitiba,PR,15,159
-SEL_852,7160,guarulhos,SP,22,220
-SEL_853,18085,sorocaba,SP,22,546
-SEL_854,81020,curitiba,PR,15,159
-SEL_855,79090,campo grande,MS,9,104
-SEL_856,1226,sao paulo,SP,22,517
-SEL_857,3303,sao paulo,SP,22,517
-SEL_858,3567,sao paulo,SP,22,517
-SEL_859,9270,santo andre,SP,22,483
-SEL_860,17400,garca,SP,22,202
-SEL_861,19470,presidente epitacio,SP,22,433
-SEL_862,91510,porto alegre,RS,19,422
-SEL_863,14940,ibitinga,SP,22,227
-SEL_864,3613,sao paulo,SP,22,517
-SEL_865,31255,belo horizonte,MG,8,64
-SEL_866,14940,ibitinga,SP,22,227
-SEL_867,74340,goiania,GO,6,207
-SEL_868,2124,sao paulo,SP,22,517
-SEL_869,14910,tabatinga,SP,22,552
-SEL_870,9726,sbc/sp,SP,22,534
-SEL_871,85904,toledo,PR,15,569
-SEL_872,81730,curitiba,PR,15,159
-SEL_873,89211,joinville,SC,20,285
-SEL_874,5174,sao paulo,SP,22,517
-SEL_875,45816,arraial d'ajuda (porto seguro),BA,2,34
-SEL_876,13481,limeira,SP,22,303
-SEL_877,61800,pacatuba,CE,3,379
-SEL_878,13930,serra negra,SP,22,537
-SEL_879,4087,sao paulo,SP,22,517
-SEL_880,23095,rio de janeiro,RJ,16,450
-SEL_881,73801,formosa,GO,6,192
-SEL_882,7023,guarulhos,SP,22,220
-SEL_883,3167,sao paulo,SP,22,517
-SEL_884,4833,sao paulo,SP,22,517
-SEL_885,24346,niteroi,RJ,16,360
-SEL_886,37564,borda da mata,MG,8,77
-SEL_887,81825,curitiba,PR,15,159
-SEL_888,11680,ubatuba,SP,22,580
-SEL_889,85988,entre rios do oeste,PR,15,174
-SEL_890,13566,sao carlos,SP,22,497
-SEL_891,37540,sao paulo,SP,22,517
-SEL_892,15813,catanduva,SP,22,129
-SEL_893,11013,santos,SP,22,489
-SEL_894,20751,rio de janeiro,RJ,16,450
-SEL_895,6768,taboao da serra,SP,22,553
-SEL_896,3550,sao paulo,SP,22,517
-SEL_897,35570,formiga,MG,8,191
-SEL_898,1139,sao paulo,SP,22,517
-SEL_899,11075,santos,SP,22,489
-SEL_900,95012,caxias do sul,RS,19,131
-SEL_901,27930,macae,RJ,16,310
-SEL_902,42738,lauro de freitas,BA,2,300
-SEL_903,31230,belo horizonte,MG,8,64
-SEL_904,13506,rio claro,SP,22,448
-SEL_905,95900,lajeado,RS,19,295
-SEL_906,85804,cascavel,PR,15,125
-SEL_907,14020,ribeirao preto,SP,22,442
-SEL_908,95800,venancio aires,RS,19,594
-SEL_909,79107,campo grande,MS,9,104
-SEL_910,15041,sao jose do rio preto,SP,22,507
-SEL_911,88370,navegantes,SC,20,356
-SEL_912,30130,belo horizonte,MG,8,64
-SEL_913,9633,sao bernardo do campo,SP,22,494
-SEL_914,6717,cotia,SP,22,153
-SEL_915,2220,sao paulo,SP,22,517
-SEL_916,4456,sao paulo,SP,22,517
-SEL_917,11070,santos,SP,22,489
-SEL_918,13481,limeira,SP,22,303
-SEL_919,6513,santana de parnaiba,SP,22,482
-SEL_920,81050,curitiba,PR,15,159
-SEL_921,12701,cruzeiro,SP,22,157
-SEL_922,2372,sao paulo,SP,22,517
-SEL_923,14940,ibitinga,SP,22,227
-SEL_924,9920,diadema,SP,22,162
-SEL_925,5041,sao paulo,SP,22,517
-SEL_926,87050,maringa,PR,15,325
-SEL_927,97050,santa maria,RS,19,475
-SEL_928,71200,brasilia,DF,4,81
-SEL_929,18047,sorocaba,SP,22,546
-SEL_930,15085,sao jose do rio preto,SP,22,507
-SEL_931,15130,mirassol,SP,22,337
-SEL_932,6033,osasco,SP,22,374
-SEL_933,36886,muriae,MG,8,354
-SEL_934,1311,sao paulo,SP,22,517
-SEL_935,2510,sao paulo,SP,22,517
-SEL_936,92420,canoas,RS,19,112
-SEL_937,22745,rio de janeiro,RJ,16,450
-SEL_938,9810,sao bernardo do campo,SP,22,494
-SEL_939,15076,sao jose do rio preto,SP,22,507
-SEL_940,27274,volta redonda,RJ,16,606
-SEL_941,7170,guarulhos,SP,22,220
-SEL_942,4144,sao paulo,SP,22,517
-SEL_943,5319,sao paulo,SP,22,517
-SEL_944,5315,sao paulo,SP,22,517
-SEL_945,4827,sao paulo,SP,22,517
-SEL_946,9230,santo andre/sao paulo,SP,22,484
-SEL_947,95240,ipe,RS,19,241
-SEL_948,1230,sao paulo,SP,22,517
-SEL_949,59775,messias targino,RN,17,332
-SEL_950,25750,petropolis,RJ,16,403
-SEL_951,1224,sao paulo,SP,22,517
-SEL_952,13082,campinas,SP,22,101
-SEL_953,2751,sao paulo,SP,22,517
-SEL_954,81540,curitiba,PR,15,159
-SEL_955,13660,porto ferreira,SP,22,424
-SEL_956,37004,varginha,MG,8,590
-SEL_957,31130,belo horizonte,MG,8,64
-SEL_958,91150,porto alegre,RS,19,422
-SEL_959,72125,brasilia,DF,4,81
-SEL_960,14050,ribeirao preto,SP,22,442
-SEL_961,18608,botucatu,SP,22,78
-SEL_962,81320,curitiba,PR,15,159
-SEL_963,8220,sao paulo,SP,22,517
-SEL_964,29260,domingos martins,ES,5,166
-SEL_965,13030,campinas,SP,22,101
-SEL_966,3644,sao paulo,SP,22,517
-SEL_967,38010,uberaba,MG,8,581
-SEL_968,19027,presidente prudente,SP,22,435
-SEL_969,1031,sao paulo,SP,22,517
-SEL_970,3282,sao paulo,SP,22,517
-SEL_971,35170,coronel fabriciano,MG,8,151
-SEL_972,3390,sao paulo,SP,22,517
-SEL_973,94930,cachoeirinha,RS,19,89
-SEL_974,5311,sao paulo,SP,22,517
-SEL_975,14940,ibitinga,SP,22,227
-SEL_976,3333,sao paulo,SP,22,517
-SEL_977,9320,maua,SP,22,328
-SEL_978,24754,sao goncalo,RJ,16,499
-SEL_979,9820,sao bernardo do campo,SP,22,494
-SEL_980,15014,s jose do rio preto,SP,22,464
-SEL_981,14092,ribeirao preto,SP,22,442
-SEL_982,19820,taruma,SP,22,557
-SEL_983,4088,sao paulo,SP,22,517
-SEL_984,17400,garca,SP,22,202
-SEL_985,7043,guarulhos,SP,22,220
-SEL_986,38414,uberlandia,MG,8,582
-SEL_987,13481,limeira,SP,22,303
-SEL_988,4160,sao paulo,SP,22,517
-SEL_989,4693,sao paulo,SP,22,517
-SEL_990,3060,sao paulo,SP,22,517
-SEL_991,13632,pirassununga,SP,22,412
-SEL_992,2116,sao paulo,SP,22,517
-SEL_993,8280,sao paulo,SP,22,517
-SEL_994,18015,sorocaba,SP,22,546
-SEL_995,18015,sorocaba,SP,22,546
-SEL_996,4567,sao paulo,SP,22,517
-SEL_997,31844,belo horizonte,MG,8,64
-SEL_998,14020,ribeirao preto,SP,22,442
-SEL_999,13030,campinas,SP,22,101
-SEL_1000,7402,aruja,SP,22,36
-SEL_1001,2035,sao paulo,SP,22,517
-SEL_1002,74223,goiania,GO,6,207
-SEL_1003,13575,sao carlos,SP,22,497
-SEL_1004,1156,sao paulo,SP,22,517
-SEL_1005,3363,sp / sp,SP,22,548
-SEL_1006,85802,cascavel,PR,15,125
-SEL_1007,2258,sao paulo,SP,22,517
-SEL_1008,30310,belo horizonte,MG,8,64
-SEL_1009,23954,angra dos reis,RJ,16,15
-SEL_1010,23050,rio de janeiro,RJ,16,450
-SEL_1011,87015,maringa,PR,15,325
-SEL_1012,8673,suzano,SP,22,550
-SEL_1013,9850,sao bernardo do campo,SP,22,494
-SEL_1014,63020,juzeiro do norte,CE,3,289
-SEL_1015,3370,sao paulo,SP,22,517
-SEL_1016,35501,divinopolis,MG,8,163
-SEL_1017,89170,laurentino,SC,20,299
-SEL_1018,6717,cotia,SP,22,153
-SEL_1019,3372,sao paulo,SP,22,517
-SEL_1020,1319,sao paulo,SP,22,517
-SEL_1021,95270,flores da cunha,RS,19,188
-SEL_1022,88780,imbituba,SC,20,234
-SEL_1023,89256,jaragua do sul,SC,20,278
-SEL_1024,86035,londrina,PR,15,305
-SEL_1025,95780,montenegro,RS,19,349
-SEL_1026,20051,rio de janeiro,RJ,16,450
-SEL_1027,3382,sao paulo,SP,22,517
-SEL_1028,81200,curitiba,PR,15,159
-SEL_1029,3673,sao paulo,SP,22,517
-SEL_1030,86802,apucarana,PR,15,21
-SEL_1031,2189,sao paulo,SP,22,517
-SEL_1032,3077,sao paulo,SP,22,517
-SEL_1033,6036,osasco,SP,22,374
-SEL_1034,5030,sao paulo,SP,22,517
-SEL_1035,5634,sao paulo,SP,22,517
-SEL_1036,41820,salvador,BA,2,467
-SEL_1037,6753,taboao da serra,SP,22,553
-SEL_1038,3059,sao paulo,SP,22,517
-SEL_1039,13660,porto ferreira,SP,22,424
-SEL_1040,14470,pedregulho,SP,22,397
-SEL_1041,9210,santo andre,SP,22,483
-SEL_1042,93542,novo hamburgo,RS,19,367
-SEL_1043,30111,belo horizonte,MG,8,64
-SEL_1044,13930,serra negra,SP,22,537
-SEL_1045,83015,sao jose dos pinhais,PR,15,509
-SEL_1046,8730,mogi das cruzes,SP,22,340
-SEL_1047,95560,torres,RS,19,570
-SEL_1048,49055,aracaju,SE,21,22
-SEL_1049,13484,limeira,SP,22,303
-SEL_1050,88316,itajai,SC,20,249
-SEL_1051,88135,santa catarina,SC,20,472
-SEL_1052,81930,curitiba,PR,15,159
-SEL_1053,95076,caxias do sul,RS,19,131
-SEL_1054,8111,sao paulo,SP,22,517
-SEL_1055,89254,jaragua do sul,SC,20,278
-SEL_1056,3331,sao paulo,SP,22,517
-SEL_1057,80060,curitiba,PR,15,159
-SEL_1058,38770,joao pinheiro,MG,8,284
-SEL_1059,9271,santo andre,SP,22,483
-SEL_1060,86706,arapongas,PR,15,25
-SEL_1061,15115,bady bassitt,SP,22,43
-SEL_1062,89053,blumenau,SC,20,69
-SEL_1063,3632,sao paulo,SP,22,517
-SEL_1064,78552,sinop,MT,10,542
-SEL_1065,3804,sao paulo,SP,22,517
-SEL_1066,13330,indaiatuba,SP,22,238
-SEL_1067,17510,marilia,SP,22,324
-SEL_1068,85065,guarapuava,PR,15,215
-SEL_1069,83707,araucaria,PR,15,30
-SEL_1070,92030,canoas,RS,19,112
-SEL_1071,18683,lencois paulista,SP,22,302
-SEL_1072,95110,caxias do sul,RS,19,131
-SEL_1073,36015,juiz de fora,MG,8,286
-SEL_1074,12020,taubate,SP,22,559
-SEL_1075,2992,sao paulo,SP,22,517
-SEL_1076,88115,sao jose,SC,20,504
-SEL_1077,29090,vitoria,ES,5,604
-SEL_1078,3225,sao paulo,SP,22,517
-SEL_1079,7013,guarulhos,SP,22,220
-SEL_1080,14300,batatais,SP,22,59
-SEL_1081,95082,caxias do sul,RS,19,131
-SEL_1082,33400,lagoa santa,MG,8,293
-SEL_1083,9911,sao paulo,SP,22,517
-SEL_1084,4711,sao paulo,SP,22,517
-SEL_1085,89801,chapeco,SC,20,134
-SEL_1086,85801,cascavel,PR,15,125
-SEL_1087,40285,salvador,BA,2,467
-SEL_1088,20520,rio de janeiro,RJ,16,450
-SEL_1089,11701,praia grande,SP,22,431
-SEL_1090,80710,curitiba,PR,15,159
-SEL_1091,5051,sao paulo,SP,22,517
-SEL_1092,8840,mogi das cruzes,SP,22,340
-SEL_1093,87502,umuarama,PR,15,583
-SEL_1094,83709,araucaria,PR,15,30
-SEL_1095,9690,sao bernardo do campo,SP,22,494
-SEL_1096,8225,sao paulo,SP,22,517
-SEL_1097,31110,belo horizonte,MG,8,64
-SEL_1098,6460,barueri,SP,22,58
-SEL_1099,9220,santo andre,SP,22,483
-SEL_1100,4602,sao paulo,SP,22,517
-SEL_1101,88359,brusque,SC,20,85
-SEL_1102,4781,sao paulo,SP,22,517
-SEL_1103,95055,caxias do sul,SP,22,131
-SEL_1104,87083,maringa,PR,15,325
-SEL_1105,18040,sorocaba,SP,22,546
-SEL_1106,3244,sao paulo,SP,22,517
-SEL_1107,16200,birigui,SP,22,68
-SEL_1108,5782,sao paulo,SP,22,517
-SEL_1109,26112,belford roxo,RJ,16,62
-SEL_1110,29156,cariacica,ES,5,119
-SEL_1111,13272,valinhos,SP,22,587
-SEL_1112,13101,campinas,SP,22,101
-SEL_1113,13043,campinas,SP,22,101
-SEL_1114,4111,sao paulo,SP,22,517
-SEL_1115,13820,monte alegre do sul,SP,22,345
-SEL_1116,3087,sao paulo,SP,22,517
-SEL_1117,9370,maua,SP,22,328
-SEL_1118,12903,sp,SP,22,547
-SEL_1119,35590,lagoa da prata,MG,8,292
-SEL_1120,95690,rolante,RS,19,462
-SEL_1121,4216,sao paulo,SP,22,517
-SEL_1122,4119,sao paulo,SP,22,517
-SEL_1123,2755,sao paulo,SP,22,517
-SEL_1124,3057,sao paulo,SP,22,517
-SEL_1125,9570,sao caetano do sul,SP,22,496
-SEL_1126,9070,santo andre,SP,22,483
-SEL_1127,25963,teresopolis,RJ,16,562
-SEL_1128,13604,araras,SP,22,29
-SEL_1129,18480,itaporanga,SP,22,256
-SEL_1130,13330,indaiatuba,SP,22,238
-SEL_1131,9810,sao bernardo do campo,SP,22,494
-SEL_1132,9010,santo andre,SP,22,483
-SEL_1133,37564,borda da mata,MG,8,77
-SEL_1134,13015,campinas,SP,22,101
-SEL_1135,3513,sao paulo,SP,22,517
-SEL_1136,7113,guarulhos,SP,22,220
-SEL_1137,14406,franca,SP,22,196
-SEL_1138,18680,lencois paulista,SP,22,302
-SEL_1139,4308,sao paulo,SP,22,517
-SEL_1140,14940,ibitinga,SP,22,227
-SEL_1141,89218,joinville,SC,20,285
-SEL_1142,81350,curitiba,PR,15,159
-SEL_1143,1209,sao paulo,SP,22,517
-SEL_1144,6290,osasco,SP,22,374
-SEL_1145,11704,praia grande,SP,22,431
-SEL_1146,7122,guarulhos,SP,22,220
-SEL_1147,22785,rio de janeiro,RJ,16,450
-SEL_1148,7094,guarulhos,SP,22,220
-SEL_1149,9895,sao bernardo do campo,SP,22,494
-SEL_1150,8215,sao paulo,SP,22,517
-SEL_1151,13561,sao carlos,SP,22,497
-SEL_1152,5319,sao paulo,SP,22,517
-SEL_1153,30710,belo horizonte,MG,8,64
-SEL_1154,86707,arapongas,PR,15,25
-SEL_1155,83605,campo largo,PR,15,105
-SEL_1156,18131,sao roque,SP,22,525
-SEL_1157,14804,araraquara,SP,22,28
-SEL_1158,2274,sao paulo,SP,22,517
-SEL_1159,25550,sao joao de meriti,RJ,16,501
-SEL_1160,9380,maua/sao paulo,SP,22,329
-SEL_1161,6501,santana de parnaiba,SP,22,482
-SEL_1162,4880,sao paulo,SP,22,517
-SEL_1163,12955,bom jesus dos perdoes,SP,22,74
-SEL_1164,3449,sao paulo,SP,22,517
-SEL_1165,4296,sao paulo,SP,22,517
-SEL_1166,4564,sao paulo,SP,22,517
-SEL_1167,5639,sao paulo,SP,22,517
-SEL_1168,2047,sao paulo,SP,22,517
-SEL_1169,83820,fazenda rio grande,PR,15,181
-SEL_1170,4186,sao paulo,SP,22,517
-SEL_1171,5059,sao paulo,SP,22,517
-SEL_1172,5588,sao paulo,SP,22,517
-SEL_1173,9291,santo andre,SP,22,483
-SEL_1174,17380,brotas,SP,22,84
-SEL_1175,3236,sao paulo,SP,22,517
-SEL_1176,2376,sao paulo,SP,22,517
-SEL_1177,9111,santo andre,SP,22,483
-SEL_1178,8411,sao paulo,SP,22,517
-SEL_1179,2034,sao paulo,SP,22,517
-SEL_1180,14940,ibitinga,SP,22,227
-SEL_1181,44900,irece,BA,2,245
-SEL_1182,79400,coxim,MS,9,154
-SEL_1183,8577,itaquaquecetuba,SP,22,258
-SEL_1184,14940,ibitinga,SP,22,227
-SEL_1185,3184,sao paulo,SP,22,517
-SEL_1186,17210,jau,SP,22,280
-SEL_1187,29102,vila velha,ES,5,603
-SEL_1188,36408,conselheiro lafaiete,MG,8,146
-SEL_1189,83322,pinhais,PR,15,406
-SEL_1190,88704,tubarao,SC,20,577
-SEL_1191,8320,sao paulo,SP,22,517
-SEL_1192,38442,araguari,MG,8,24
-SEL_1193,3548,sao paulo,SP,22,517
-SEL_1194,86050,londrina,PR,15,305
-SEL_1195,5528,sao paulo,SP,22,517
-SEL_1196,20931,rio de janeiro,RJ,16,450
-SEL_1197,6341,carapicuiba,SP,22,115
-SEL_1198,6714,cotia,SP,22,153
-SEL_1199,86804,apucarana,PR,15,21
-SEL_1200,5727,sao paulo,SP,22,517
-SEL_1201,13900,amparo,SP,22,10
-SEL_1202,92120,canoas,RS,19,112
-SEL_1203,89900,sao miguel do oeste,SC,20,515
-SEL_1204,28630,nova friburgo,RJ,16,361
-SEL_1205,36500,uba,MG,8,579
-SEL_1206,89114,gaspar,SC,20,206
-SEL_1207,28800,rio bonito,RJ,16,446
-SEL_1208,7174,guarulhos,SP,22,220
-SEL_1209,90640,porto alegre,RS,19,422
-SEL_1210,88501,lages,SC,20,290
-SEL_1211,80420,curitiba,PR,15,159
-SEL_1212,16300,penapolis,SP,22,402
-SEL_1213,1023,sao paulo,SP,22,517
-SEL_1214,6341,carapicuiba,SP,22,115
-SEL_1215,4447,sao paulo,SP,22,517
-SEL_1216,19814,assis,SP,22,38
-SEL_1217,89170,laurentino,SC,20,299
-SEL_1218,13275,valinhos,SP,22,587
-SEL_1219,5503,sao paulo,SP,22,517
-SEL_1220,37540,santa rita do sapucai,MG,8,477
-SEL_1221,13202,jundiai,SP,22,287
-SEL_1222,81110,curitiba,PR,15,159
-SEL_1223,29304,cachoeiro de itapemirim,ES,5,90
-SEL_1224,8150,sao paulo,SP,22,517
-SEL_1225,86706,arapongas,PR,15,25
-SEL_1226,31030,belo horizonte,MG,8,64
-SEL_1227,20031,rio de janeiro,RJ,16,450
-SEL_1228,5048,sao paulo,SP,22,517
-SEL_1229,86975,mandaguari,PR,15,318
-SEL_1230,81070,curitiba,PR,15,159
-SEL_1231,37074,varginha,MG,8,590
-SEL_1232,6795,taboao da serra,SP,22,553
-SEL_1233,36500,uba,MG,8,579
-SEL_1234,81560,curitiba,SP,22,159
-SEL_1235,89219,joinville,SC,20,285
-SEL_1236,9370,maua,SP,22,328
-SEL_1237,6717,cotia,SP,22,153
-SEL_1238,13211,jundiai,SP,22,287
-SEL_1239,5373,sao paulo,SP,22,517
-SEL_1240,12226,sao jose dos campos,SP,22,508
-SEL_1241,15015,sao jose do rio preto,SP,22,507
-SEL_1242,88020,florianopolis,SC,20,190
-SEL_1243,12328,jacarei,SP,22,266
-SEL_1244,13501,rio claro,SP,22,448
-SEL_1245,14405,franca,SP,22,196
-SEL_1246,14085,ribeirao preto,SP,22,442
-SEL_1247,4776,sp,SP,22,547
-SEL_1248,6730,vargem grande paulista,SP,22,589
-SEL_1249,87050,maringa,PR,15,325
-SEL_1250,30775,belo horizonte,MG,8,64
-SEL_1251,37590,jacutinga,MG,8,270
-SEL_1252,32372,contagem,MG,8,147
-SEL_1253,6280,sao paulo,SP,22,517
-SEL_1254,14403,franca,SP,22,196
-SEL_1255,74323,goiania,GO,6,207
-SEL_1256,13835,conchal,SP,22,141
-SEL_1257,30140,belo horizonte,MG,8,64
-SEL_1258,14940,ibitinga,SP,22,227
-SEL_1259,3178,sao paulo,SP,22,517
-SEL_1260,86192,cambe,PR,15,96
-SEL_1261,29107,vila velha,ES,5,603
-SEL_1262,20061,rio de janeiro,RJ,16,450
-SEL_1263,90020,porto alegre,RS,19,422
-SEL_1264,35680,itauna,MG,8,261
-SEL_1265,94965,cachoeirinha,RS,19,89
-SEL_1266,14940,ibitinga,SP,22,227
-SEL_1267,17201,jau,SP,22,280
-SEL_1268,2066,sao paulo,SP,22,517
-SEL_1269,4283,sao paulo,SP,22,517
-SEL_1270,81280,curitiba,PR,15,159
-SEL_1271,73020,brasilia,DF,4,81
-SEL_1272,86990,marialva,PR,15,322
-SEL_1273,9230,santo andre,SP,22,483
-SEL_1274,20930,rio de janeiro,RJ,16,450
-SEL_1275,3827,sao paulo,SP,22,517
-SEL_1276,18131,sao roque,SP,22,525
-SEL_1277,4615,sao paulo,SP,22,517
-SEL_1278,37135,alfenas,MG,8,5
-SEL_1279,88330,balneario camboriu,SC,20,48
-SEL_1280,5269,sao paulo,SP,22,517
-SEL_1281,13503,rio claro,SP,22,448
-SEL_1282,9541,sao caetano do sul,SP,22,496
-SEL_1283,12209,sao jose dos campos,SP,22,508
-SEL_1284,35570,formiga,MG,8,191
-SEL_1285,21635,rio de janeiro,RJ,16,450
-SEL_1286,81130,curitiba,PR,15,159
-SEL_1287,1123,sao paulo,SP,22,517
-SEL_1288,88035,florianopolis,SC,20,190
-SEL_1289,88138,palhoca,SC,20,381
-SEL_1290,9721,sao bernardo do capo,SP,22,495
-SEL_1291,13480,limeira,SP,22,303
-SEL_1292,18052,sorocaba,SP,22,546
-SEL_1293,7031,guarulhos,SP,22,220
-SEL_1294,22640,rio de janeiro,RJ,16,450
-SEL_1295,4809,sao paulo,SP,22,517
-SEL_1296,36576,vicosa,MG,8,601
-SEL_1297,80420,curitiba,PR,15,159
-SEL_1298,6018,osasco,SP,22,374
-SEL_1299,89220,joinville,SC,20,285
-SEL_1300,37540,santa rita do sapucai,MG,8,477
-SEL_1301,1541,sao paulo,SP,22,517
-SEL_1302,22713,rio de janeiro,RJ,16,450
-SEL_1303,14580,guara,SP,22,214
-SEL_1304,88301,itajai,SP,22,249
-SEL_1305,86061,londrina,PR,15,305
-SEL_1306,9560,sao paulo,SP,22,517
-SEL_1307,86185,cambe,PR,15,96
-SEL_1308,60710,fortaleza,CE,3,194
-SEL_1309,8260,sao paulo,SP,22,517
-SEL_1310,13505,rio claro,SP,22,448
-SEL_1311,9020,santo andre,SP,22,483
-SEL_1312,12940,atibaia,SP,22,39
-SEL_1313,4794,sao paulo,SP,22,517
-SEL_1314,4761,sao paulo,SP,22,517
-SEL_1315,9416,ribeirao pires,SP,22,441
-SEL_1316,29704,colatina,ES,5,138
-SEL_1317,9750,sao bernardo do campo,SP,22,494
-SEL_1318,85501,pato branco,PR,15,392
-SEL_1319,7866,franco da rocha,SP,22,199
-SEL_1320,13178,sumare,SP,22,549
-SEL_1321,26562,mesquita,RJ,16,331
-SEL_1322,3270,sao paulo,SP,22,517
-SEL_1323,4801,sao paulo,SP,22,517
-SEL_1324,12246,sao jose dos campos,SP,22,508
-SEL_1325,4307,sao paulo,SP,22,517
-SEL_1326,37480,lambari,MG,8,296
-SEL_1327,85853,foz do iguacu,PR,15,195
-SEL_1328,4186,sao paulo,SP,22,517
-SEL_1329,32677,betim,MG,8,67
-SEL_1330,80215,curitiba,PR,15,159
-SEL_1331,83830,fazenda rio grande,PR,15,181
-SEL_1332,32110,contagem,MG,8,147
-SEL_1333,9182,santo andre,SP,22,483
-SEL_1334,18604,botucatu,SP,22,78
-SEL_1335,3564,sao paulo,SP,22,517
-SEL_1336,8021,sao paulo,SP,22,517
-SEL_1337,3526,sao paulo,SP,22,517
-SEL_1338,8717,mogi das cruzes / sp,SP,22,341
-SEL_1339,14090,ribeirao preto,SP,22,442
-SEL_1340,85900,toledo,PR,15,569
-SEL_1341,88032,florianopolis,SC,20,190
-SEL_1342,84020,ponta grossa,PR,15,419
-SEL_1343,29300,cachoeiro de itapemirim,ES,5,90
-SEL_1344,89650,treze tilias,SC,20,575
-SEL_1345,18681,lencois paulista,SP,22,302
-SEL_1346,13015,campinas,SP,22,101
-SEL_1347,22050,rio de janeiro \rio de janeiro,RJ,16,452
-SEL_1348,15015,sao jose do rio preto,SP,22,507
-SEL_1349,88490,paulo lopes,SC,20,395
-SEL_1350,3122,sao paulo,SP,22,517
-SEL_1351,22793,rio de janeiro,RJ,16,450
-SEL_1352,70235,brasilia,DF,4,81
-SEL_1353,88350,brusque,SC,20,85
-SEL_1354,88036,florianopolis,SC,20,190
-SEL_1355,89540,santa cecilia,SC,20,473
-SEL_1356,17026,bauru,SP,22,60
-SEL_1357,15603,fernandopolis,SP,22,184
-SEL_1358,13033,campinas,SP,22,101
-SEL_1359,88750,braco do norte,SC,20,79
-SEL_1360,4281,sao paulo,SP,22,517
-SEL_1361,5571,sao paulo,SP,22,517
-SEL_1362,87120,floresta,PR,15,189
-SEL_1363,8080,sao paulo,SP,22,517
-SEL_1364,35701,sete lagoas,MG,8,541
-SEL_1365,95170,farroupilha,RS,19,180
-SEL_1366,84178,castro,PR,15,126
-SEL_1367,3275,sao paulo,SP,22,517
-SEL_1368,72801,luziania,GO,6,309
-SEL_1369,35930,joao monlevade,MG,8,282
-SEL_1370,96020,pelotas,RS,19,401
-SEL_1371,8790,mogi das cruzes,SP,22,340
-SEL_1372,88050,florianopolis,SC,20,190
-SEL_1373,58865,sao bento,PB,12,492
-SEL_1374,12916,braganca paulista,SP,22,80
-SEL_1375,91350,porto alegre,RS,19,422
-SEL_1376,5685,sao paulo,SP,22,517
-SEL_1377,89259,jaragua do sul,SC,20,278
-SEL_1378,28035,campos dos goytacazes,RJ,16,109
-SEL_1379,95013,caxias do sul,RS,19,131
-SEL_1380,37570,ouro fino,MG,8,377
-SEL_1381,83040,sao jose dos pinhas,PR,15,510
-SEL_1382,27972,macae,RJ,16,310
-SEL_1383,8710,mogi das cruzes,SP,22,340
-SEL_1384,18530,tiete,SP,22,564
-SEL_1385,4087,sao paulo,SP,22,517
-SEL_1386,94410,viamao,RS,19,598
-SEL_1387,22745,rio de janeiro,RJ,16,450
-SEL_1388,39442,janauba,MG,8,275
-SEL_1389,13360,capivari,SP,22,114
-SEL_1390,5734,sao paulo,SP,22,517
-SEL_1391,85875,santa terezinha de itaipu,PR,15,481
-SEL_1392,4180,sao paulo,SP,22,517
-SEL_1393,38400,uberlandia,MG,8,582
-SEL_1394,3031,sao paulo,SP,22,517
-SEL_1395,85863,foz do iguacu,PR,15,195
-SEL_1396,9831,sao bernardo do campo,SP,22,494
-SEL_1397,4378,sao paulo,SP,22,517
-SEL_1398,16022,aracatuba,SP,22,23
-SEL_1399,95650,igrejinha,RS,19,230
-SEL_1400,3031,sao paulo,SP,22,517
-SEL_1401,89287,sao bento do sul,SC,20,493
-SEL_1402,3194,sao paulo,SP,22,517
-SEL_1403,13481,limeira,SP,22,303
-SEL_1404,32315,contagem,MG,8,147
-SEL_1405,31535,belo horizonte,MG,8,64
-SEL_1406,25251,duque de caxias,RJ,16,169
-SEL_1407,38182,araxa,MG,8,31
-SEL_1408,14784,barretos,SP,22,55
-SEL_1409,13311,itu,SP,22,263
-SEL_1410,9271,santo andre,SP,22,483
-SEL_1411,86065,londrina,PR,15,305
-SEL_1412,35501,divinopolis,MG,8,163
-SEL_1413,37048,varginha,MG,8,590
-SEL_1414,9015,santo andre,SP,22,483
-SEL_1415,32604,betim,MG,8,67
-SEL_1416,89460,canoinhas,SC,20,113
-SEL_1417,88801,criciuma,SC,20,156
-SEL_1418,80060,curitiba,PR,15,159
-SEL_1419,83321,pinhais,PR,15,406
-SEL_1420,14940,ibitinga,SP,22,227
-SEL_1421,13570,sao carlos,SP,22,497
-SEL_1422,84010,ponta grossa,PR,15,419
-SEL_1423,13912,jaguariuna,SP,22,271
-SEL_1424,3035,sao paulo,SP,22,517
-SEL_1425,29010,vitoria,ES,5,604
-SEL_1426,35501,divinopolis,MG,8,163
-SEL_1427,22775,rio de janeiro,RJ,16,450
-SEL_1428,14910,tabatinga,SP,22,552
-SEL_1429,30421,belo horizonte,MG,8,64
-SEL_1430,15025,sao jose do rio preto,SP,22,507
-SEL_1431,3550,sao paulo,SP,22,517
-SEL_1432,2022,sao paulo,SP,22,517
-SEL_1433,89251,jaragua do sul,SC,20,278
-SEL_1434,14940,ibitinga,SP,22,227
-SEL_1435,7183,guarulhos,SP,22,220
-SEL_1436,36504,uba,MG,8,579
-SEL_1437,95900,lajeado,RS,19,295
-SEL_1438,14940,ibitinga,SP,22,227
-SEL_1439,51250,recife,PE,13,437
-SEL_1440,31210,belo horizonte,MG,8,64
-SEL_1441,93608,estancia velha,RS,19,176
-SEL_1442,15085,sao jose do rio preto,SP,22,507
-SEL_1443,87043,maringa,PR,15,325
-SEL_1444,13056,campinas,SP,22,101
-SEL_1445,18130,sao roque,SP,22,525
-SEL_1446,37540,santa rita do sapucai,MG,8,477
-SEL_1447,94910,cachoeirinha,RS,19,89
-SEL_1448,36200,barbacena/ minas gerais,MG,8,51
-SEL_1449,82320,curitiba,PR,15,159
-SEL_1450,88301,itajai,SP,22,249
-SEL_1451,3477,sao paulo,SP,22,517
-SEL_1452,9434,ribeirao pires,SP,22,441
-SEL_1453,17560,vera cruz,SP,22,596
-SEL_1454,12914,braganca paulista,SP,22,80
-SEL_1455,32140,contagem,MG,8,147
-SEL_1456,11015,santos,SP,22,489
-SEL_1457,88037,florianopolis,SC,20,190
-SEL_1458,14020,ribeirao preto,SP,22,442
-SEL_1459,99500,carazinho,RS,19,118
-SEL_1460,59152,parnamirim,RN,17,389
-SEL_1461,9560,sao caetano do sul,SP,22,496
-SEL_1462,9810,sao bernardo do campo,SP,22,494
-SEL_1463,1530,sao paulo,SP,22,517
-SEL_1464,13086,campinas,SP,22,101
-SEL_1465,80020,curitiba,PR,15,159
-SEL_1466,85851,foz do iguacu,PR,15,195
-SEL_1467,18074,sorocaba,SP,22,546
-SEL_1468,6080,osasco,SP,22,374
-SEL_1469,6162,osasco,SP,22,374
-SEL_1470,30285,belo horizonte,MG,8,64
-SEL_1471,1210,sao paulo,SP,22,517
-SEL_1472,8710,mogi das cruzes,SP,22,340
-SEL_1473,13322,salto,SP,22,466
-SEL_1474,3568,sao paulo,SP,22,517
-SEL_1475,98803,santo angelo,RS,19,485
-SEL_1476,21941,rio de janeiro,RJ,16,450
-SEL_1477,9060,santo andre,SP,22,483
-SEL_1478,80240,curitiba,PR,15,159
-SEL_1479,14870,jaboticabal,SP,22,265
-SEL_1480,14940,ibitinga,SP,22,227
-SEL_1481,30315,belo horizonte,MG,8,64
-SEL_1482,14315,batatais,SP,22,59
-SEL_1483,87030,maringa,PR,15,325
-SEL_1484,13272,valinhos,SP,22,587
-SEL_1485,3448,sao paulo,SP,22,517
-SEL_1486,1212,sao paulo,SP,22,517
-SEL_1487,12240,sao jose dos campos,SP,22,508
-SEL_1488,4615,sao paulo,SP,22,517
-SEL_1489,15804,catanduva,SP,22,129
-SEL_1490,9360,maua,SP,22,328
-SEL_1491,7241,guarulhos,SP,22,220
-SEL_1492,82515,curitiba,PR,15,159
-SEL_1493,87140,paincandu,PR,15,380
-SEL_1494,13087,campinas,SP,22,101
-SEL_1495,88136,palhoca,SP,22,381
-SEL_1496,13503,rio claro,SP,22,448
-SEL_1497,8752,mogi das cruzes,SP,22,340
-SEL_1498,9163,santo andre,SP,22,483
-SEL_1499,2750,sao paulo,SP,22,517
-SEL_1500,20910,rio de janeiro,RJ,16,450
-SEL_1501,28605,nova friburgo,RJ,16,361
-SEL_1502,13322,salto,SP,22,466
-SEL_1503,5713,sao paulo,SP,22,517
-SEL_1504,2925,sao paulo,SP,22,517
-SEL_1505,25803,tres rios,RJ,16,574
-SEL_1506,15130,mirassol,SP,22,337
-SEL_1507,5083,sao paulo,SP,22,517
-SEL_1508,13043,campinas,SP,22,101
-SEL_1509,30620,belo horizonte,MG,8,64
-SEL_1510,1042,sao paulo,SP,22,517
-SEL_1511,12228,sao jose dos campos,SP,22,508
-SEL_1512,9111,santo andre,SP,22,483
-SEL_1513,15170,tanabi,SP,22,556
-SEL_1514,3470,sao paulo,SP,22,517
-SEL_1515,74645,goiania,GO,6,207
-SEL_1516,36500,uba,MG,8,579
-SEL_1517,13660,portoferreira,SP,22,427
-SEL_1518,26125,belford roxo,RJ,16,62
-SEL_1519,3643,sao paulo,SP,22,517
-SEL_1520,18080,sorocaba,SP,22,546
-SEL_1521,4810,sao paulo,SP,22,517
-SEL_1522,7032,guarulhos,SP,22,220
-SEL_1523,14312,batatais,SP,22,59
-SEL_1524,2737,sao paulo,SP,22,517
-SEL_1525,6449,barueri,SP,22,58
-SEL_1526,4255,sao paulo,SP,22,517
-SEL_1527,8410,sao paulo,SP,22,517
-SEL_1528,7074,guarulhos,SP,22,220
-SEL_1529,18087,sorocaba,SP,22,546
-SEL_1530,4403,sao paulo,SP,22,517
-SEL_1531,14940,ibitinga,SP,22,227
-SEL_1532,13360,capivari,SP,22,114
-SEL_1533,14806,araraquara,SP,22,28
-SEL_1534,71691,brasilia,DF,4,81
-SEL_1535,14802,araraquara,SP,22,28
-SEL_1536,13257,itatiba,SP,22,259
-SEL_1537,70767,brasilia,DF,4,81
-SEL_1538,4534,sao paulo,SP,22,517
-SEL_1539,21041,rio de janeiro,RJ,16,450
-SEL_1540,87114,sarandi,PR,15,531
-SEL_1541,8223,sao paulo,SP,22,517
-SEL_1542,5767,sao paulo,SP,22,517
-SEL_1543,18110,votorantim,SP,22,607
-SEL_1544,22790,rio de janeiro,RJ,16,450
-SEL_1545,6700,cotia,SP,22,153
-SEL_1546,3520,sao paulo,SP,22,517
-SEL_1547,13920,pedreira,SP,22,398
-SEL_1548,14140,cravinhos,SP,22,155
-SEL_1549,80310,curitiba,PR,15,159
-SEL_1550,80710,curitiba,PR,15,159
-SEL_1551,73020,brasilia,DF,4,81
-SEL_1552,8140,sao paulo,SP,22,517
-SEL_1553,89803,chapeco,SP,22,134
-SEL_1554,75650,morrinhos,GO,6,351
-SEL_1555,1545,sao paulo,SP,22,517
-SEL_1556,14709,bebedouro,SP,22,61
-SEL_1557,29032,vitoria,ES,5,604
-SEL_1558,74560,goiania,GO,6,207
-SEL_1559,89201,joinville,SC,20,285
-SEL_1560,6268,osasco,SP,22,374
-SEL_1561,95913,lajeado,RS,19,295
-SEL_1562,83507,almirante tamandare,PR,15,6
-SEL_1563,19025,presidente prudente,SP,22,435
-SEL_1564,4719,sao paulo,SP,22,517
-SEL_1565,14781,barretos,SP,22,55
-SEL_1566,11250,bertioga,SP,22,66
-SEL_1567,2941,sao paulo,SP,22,517
-SEL_1568,1022,sao paulo,SP,22,517
-SEL_1569,94451,viamao,RS,19,598
-SEL_1570,2537,sao paulo,SP,22,517
-SEL_1571,60110,fortaleza,CE,3,194
-SEL_1572,59077,natal,RN,17,355
-SEL_1573,2972,sao paulo,SP,22,517
-SEL_1574,13210,jundiai,SP,22,287
-SEL_1575,15155,jaci,SP,22,268
-SEL_1576,37704,pocos de caldas,MG,8,417
-SEL_1577,86702,arapongas,PR,15,25
-SEL_1578,95800,venancio aires,RS,19,594
-SEL_1579,20930,rio de janeiro,RJ,16,450
-SEL_1580,30150,belo horizonte,MG,8,64
-SEL_1581,4130,sao paulo - sp,SP,22,518
-SEL_1582,81530,curitiba,PR,15,159
-SEL_1583,14940,ibitinga,SP,22,227
-SEL_1584,82540,curitiba,PR,15,159
-SEL_1585,86800,apucarana,PR,15,21
-SEL_1586,31255,belo horizont,MG,8,63
-SEL_1587,13481,limeira,SP,22,303
-SEL_1588,81350,curitiba,PR,15,159
-SEL_1589,21340,rio de janeiro,RJ,16,450
-SEL_1590,90240,porto alegre,RS,19,422
-SEL_1591,5138,sao paulo,SP,22,517
-SEL_1592,21210,rio de janeiro,RJ,16,450
-SEL_1593,7025,guarulhos,SP,22,220
-SEL_1594,1035,sao paulo,SP,22,517
-SEL_1595,3655,sao paulo,SP,22,517
-SEL_1596,13848,mogi guacu,SP,22,342
-SEL_1597,13560,sao carlos,SP,22,497
-SEL_1598,87900,loanda,PR,15,304
-SEL_1599,4141,sao paulo,SP,22,517
-SEL_1600,14808,araraquara,SP,22,28
-SEL_1601,80430,curitiba,PR,15,159
-SEL_1602,85804,cascavel,PR,15,125
-SEL_1603,4133,sao paulo,SP,22,517
-SEL_1604,93900,ivoti,RS,19,264
-SEL_1605,3635,sao paulo,SP,22,517
-SEL_1606,4424,sao paulo,SP,22,517
-SEL_1607,30170,belo horizonte,MG,8,64
-SEL_1608,80010,curitiba,PR,15,159
-SEL_1609,8180,sao paulo,SP,22,517
-SEL_1610,3589,sao paulo,SP,22,517
-SEL_1611,86385,andira-pr,PR,15,13
-SEL_1612,9572,sao caetano do sul,SP,22,496
-SEL_1613,58073,joao pessoa,PB,12,283
-SEL_1614,89120,timbo,SC,20,565
-SEL_1615,4361,sao paulo,SP,22,517
-SEL_1616,81350,curitiba,PR,15,159
-SEL_1617,15840,itajobi,SP,22,250
-SEL_1618,6154,osasco,SP,22,374
-SEL_1619,3933,sao paulo,SP,22,517
-SEL_1620,90220,porto alegre,RS,19,422
-SEL_1621,86706,arapongas,PR,15,25
-SEL_1622,9130,santo andre,SP,22,483
-SEL_1623,7400,aruja,SP,22,36
-SEL_1624,13560,sao carlos,SP,22,497
-SEL_1625,18611,botucatu,SP,22,78
-SEL_1626,88132,palhoca,SC,20,381
-SEL_1627,88330,balneario camboriu,SC,20,48
-SEL_1628,11704,praia grande,SP,22,431
-SEL_1629,32604,betim,MG,8,67
-SEL_1630,3820,sao paulo,SP,22,517
-SEL_1631,35570,formiga,MG,8,191
-SEL_1632,93700,campo bom,RS,19,102
-SEL_1633,1131,sao paulo,SP,22,517
-SEL_1634,6780,taboao da serra,SP,22,553
-SEL_1635,6132,osasco,SP,22,374
-SEL_1636,1127,sao paulo,SP,22,517
-SEL_1637,18760,cerqueira cesar,SP,22,133
-SEL_1638,12952,atibaia,SP,22,39
-SEL_1639,15845,marapoama,SP,22,320
-SEL_1640,95885,imigrante,RS,19,236
-SEL_1641,80740,curitiba,PR,15,159
-SEL_1642,18120,mairinque,SP,22,313
-SEL_1643,83020,sao jose dos pinhais,SP,22,509
-SEL_1644,13570,sao carlos,SP,22,497
-SEL_1645,1207,sao paulo sp,SP,22,520
-SEL_1646,4558,sao paulo,SP,22,517
-SEL_1647,95020,caxias do sul,RS,19,131
-SEL_1648,13843,mogi guacu,SP,22,342
-SEL_1649,1039,sao paulo,SP,22,517
-SEL_1650,20081,rio de janeiro / rio de janeiro,RJ,16,451
-SEL_1651,90670,porto alegre,RS,19,422
-SEL_1652,9070,santo andre,SP,22,483
-SEL_1653,89219,joinville,SC,20,285
-SEL_1654,4571,sao paulo,SP,22,517
-SEL_1655,13170,sumare,SP,22,549
-SEL_1656,95910,lajeado,RS,19,295
-SEL_1657,37795,andradas,SP,22,14
-SEL_1658,87015,maringa,PR,15,325
-SEL_1659,2611,sao paulo,SP,22,517
-SEL_1660,35501,divinopolis,MG,8,163
-SEL_1661,4123,sao paulo,SP,22,517
-SEL_1662,2316,sao paulo,SP,22,517
-SEL_1663,22745,rio de janeiro,RJ,16,450
-SEL_1664,26230,nova iguacu,RJ,16,362
-SEL_1665,12327,jacarei,SP,22,266
-SEL_1666,9931,diadema,SP,22,162
-SEL_1667,9190,sando andre,SP,22,468
-SEL_1668,80320,curitiba,PR,15,159
-SEL_1669,85906,toledo,PR,15,569
-SEL_1670,25070,duque de caxias,RJ,16,169
-SEL_1671,3178,sao paulo,SP,22,517
-SEL_1672,14403,franca,SP,22,196
-SEL_1673,72580,brasilia,DF,4,81
-SEL_1674,13382,nova odessa,SP,22,364
-SEL_1675,6420,barueri,SP,22,58
-SEL_1676,5413,sao paulo,SP,22,517
-SEL_1677,50751,recife,PE,13,437
-SEL_1678,13145,paulinia,SP,22,394
-SEL_1679,15502,votuporanga,SP,22,608
-SEL_1680,37640,extrema,MG,8,179
-SEL_1681,15400,olimpia,SP,22,370
-SEL_1682,13486,limeira,SP,22,303
-SEL_1683,1311,sao paulo,SP,22,517
-SEL_1684,4142,sao paulo,SP,22,517
-SEL_1685,7112,guarulhos,SP,22,220
-SEL_1686,9015,santo andre,SP,22,483
-SEL_1687,23943,angra dos reis rj,RJ,16,16
-SEL_1688,9015,santo andre,SP,22,483
-SEL_1689,6763,taboao da serra,SP,22,553
-SEL_1690,1129,sao paulo,SP,22,517
-SEL_1691,6180,osasco,SP,22,374
-SEL_1692,88359,brusque,SC,20,85
-SEL_1693,86020,londrina,PR,15,305
-SEL_1694,31160,belo horizonte,MG,8,64
-SEL_1695,85904,toledo,PR,15,569
-SEL_1696,87505,umuarama,PR,15,583
-SEL_1697,5008,sao paulo,SP,22,517
-SEL_1698,16200,birigui,SP,22,68
-SEL_1699,4142,sao paulo,SP,22,517
-SEL_1700,60025,fortaleza,CE,3,194
-SEL_1701,24855,rio de janeiro,RJ,16,450
-SEL_1702,82400,curitiba,PR,15,159
-SEL_1703,80050,curitiba,PR,15,159
-SEL_1704,74230,goiania,GO,6,207
-SEL_1705,99670,ronda alta,RS,19,463
-SEL_1706,5303,sao  paulo,SP,22,491
-SEL_1707,2030,sao paulo,SP,22,517
-SEL_1708,3185,sao paulo,SP,22,517
-SEL_1709,2976,sao paulo,SP,22,517
-SEL_1710,11370,sao vicente,SP,22,528
-SEL_1711,88704,tubarao,SC,20,577
-SEL_1712,14940,ibitinga,SP,22,227
-SEL_1713,83327,pinhais/pr,PR,15,407
-SEL_1714,93180,portao,RS,19,421
-SEL_1715,13145,paulinia,SP,22,394
-SEL_1716,13478,americana,SP,22,9
-SEL_1717,81810,curitiba,PR,15,159
-SEL_1718,11900,registro,SP,22,438
-SEL_1719,35570,formiga,MG,8,191
-SEL_1720,86065,londrina,PR,15,305
-SEL_1721,81320,curitiba,PR,15,159
-SEL_1722,3561,sao paulo,SP,22,517
-SEL_1723,4445,sao paulo,SP,22,517
-SEL_1724,80220,curitiba,PR,15,159
-SEL_1725,89030,blumenau,SC,20,69
-SEL_1726,81730,curitiba,PR,15,159
-SEL_1727,21041,rio de janeiro,RJ,16,450
-SEL_1728,19023,presidente prudente,SP,22,435
-SEL_1729,9687,ao bernardo do campo,SP,22,17
-SEL_1730,8452,sao paulo,SP,22,517
-SEL_1731,6060,osasco,SP,22,374
-SEL_1732,82510,curitiba,PR,15,159
-SEL_1733,92010,canoas,RS,19,112
-SEL_1734,14090,ribeirao preto,SP,22,442
-SEL_1735,8032,sao paulo,SP,22,517
-SEL_1736,37564,borda da mata,MG,8,77
-SEL_1737,1319,sao paulo,SP,22,517
-SEL_1738,28630,nova friburgo,RJ,16,361
-SEL_1739,9912,diadema,SP,22,162
-SEL_1740,35557,carmo do cajuru,MG,8,122
-SEL_1741,14940,ibitinga,SP,22,227
-SEL_1742,3951,sao paulo,SP,22,517
-SEL_1743,7123,guarulhos,SP,22,220
-SEL_1744,84020,ponta grossa,PR,15,419
-SEL_1745,8431,sao paulo,SP,22,517
-SEL_1746,4773,sao paulo,SP,22,517
-SEL_1747,6268,osasco,SP,22,374
-SEL_1748,3423,sao paulo,SP,22,517
-SEL_1749,2611,sao paulo,SP,22,517
-SEL_1750,22061,rio de janeiro,RJ,16,450
-SEL_1751,5424,sao paulo,SP,22,517
-SEL_1752,80030,curitiba,PR,15,159
-SEL_1753,6807,embu das artes,SP,22,171
-SEL_1754,80045,curitiba,PR,15,159
-SEL_1755,15940,fernando prestes,SP,22,183
-SEL_1756,39801,castro pires,MG,8,127
-SEL_1757,3520,sao paulo,SP,22,517
-SEL_1758,13806,mogi mirim,SP,22,343
-SEL_1759,13880,vargem grande do sul,SP,22,588
-SEL_1760,3638,sao paulo,SP,22,517
-SEL_1761,4310,sao paulo,SP,22,517
-SEL_1762,5181,sao paulo,SP,22,517
-SEL_1763,80710,curitiba,PR,15,159
-SEL_1764,88061,florianopolis,SC,20,190
-SEL_1765,7082,guarulhos,SP,22,220
-SEL_1766,13060,campinas,SP,22,101
-SEL_1767,5594,sao paulo,SP,22,517
-SEL_1768,9721,sao bernardo do campo,SP,22,494
-SEL_1769,13500,rio claro,SP,22,448
-SEL_1770,82940,curitiba,PR,15,159
-SEL_1771,17580,pompeia,SP,22,418
-SEL_1772,15502,votuporanga,SP,22,608
-SEL_1773,98975,campina das missoes,RS,19,99
-SEL_1774,14110,ribeirao preto,SP,22,442
-SEL_1775,3658,sao paulo,SP,22,517
-SEL_1776,1206,sao paulo,SP,22,517
-SEL_1777,80730,curitiba,PR,15,159
-SEL_1778,18015,sorocaba,SP,22,546
-SEL_1779,4708,sao paulo,SP,22,517
-SEL_1780,88802,criciuma,SC,20,156
-SEL_1781,74565,goiania,GO,6,207
-SEL_1782,12940,atibaia,SP,22,39
-SEL_1783,12062,taubate,SP,22,559
-SEL_1784,2955,sao paulo,SP,22,517
-SEL_1785,14079,ribeirao preto,SP,22,442
-SEL_1786,4773,sao paulo,SP,22,517
-SEL_1787,6340,carapicuiba,SP,22,115
-SEL_1788,28941,sao pedro da aldeia,RJ,16,524
-SEL_1789,83323,pinhais,PR,15,406
-SEL_1790,14940,ibitinga,SP,22,227
-SEL_1791,13321,salto,SP,22,466
-SEL_1792,17510,marilia,SP,22,324
-SEL_1793,6455,barueri,SP,22,58
-SEL_1794,14530,miguelopolis,SP,22,333
-SEL_1795,72304,brasilia,DF,4,81
-SEL_1796,3701,sao paulo,SP,22,517
-SEL_1797,2470,sao paulo,SP,22,517
-SEL_1798,52020,recife,PE,13,437
-SEL_1799,13070,campinas,SP,22,101
-SEL_1800,6330,carapicuiba,SP,22,115
-SEL_1801,18053,sorocaba,SP,22,546
-SEL_1802,3187,sao paulo,SP,22,517
-SEL_1803,7600,mairipora,SP,22,314
-SEL_1804,15810,catanduva,SP,22,129
-SEL_1805,82620,curitiba,PR,15,159
-SEL_1806,2050,sao paulo,SP,22,517
-SEL_1807,4367,sao paulo,SP,22,517
-SEL_1808,17230,itapui,SP,22,257
-SEL_1809,13033,campinas,SP,22,101
-SEL_1810,25730,petropolis,RJ,16,403
-SEL_1811,13023,campinas,SP,22,101
-SEL_1812,2134,sao paulo,SP,22,517
-SEL_1813,37135,alfenas,MG,8,5
-SEL_1814,3006,sao paulo,SP,22,517
-SEL_1815,9861,sbc,SP,22,533
-SEL_1816,80330,curitiba,PR,15,159
-SEL_1817,3265,sao paulo,SP,22,517
-SEL_1818,80220,curitiba,PR,15,159
-SEL_1819,24710,sao goncalo,RJ,16,499
-SEL_1820,86076,londrina,SP,22,305
-SEL_1821,4905,sao paulo,SP,22,517
-SEL_1822,13920,pedreira,SP,22,398
-SEL_1823,15806,catanduva,SP,22,129
-SEL_1824,21545,rio de janeiro,RJ,16,450
-SEL_1825,37564,borda da mata,MG,8,77
-SEL_1826,37795,andradas,MG,8,14
-SEL_1827,49980,neopolis,SE,21,357
-SEL_1828,8599,itaquaquecetuba,SP,22,258
-SEL_1829,17320,mineiros do tiete,SP,22,335
-SEL_1830,13224,varzea paulista,SP,22,592
-SEL_1831,3563,sao paulo,SP,22,517
-SEL_1832,7859,franco da rocha,SP,22,199
-SEL_1833,13500,rio claro,SP,22,448
-SEL_1834,6332,carapicuiba,SP,22,115
-SEL_1835,13212,jundiai,SP,22,287
-SEL_1836,82400,curitiba,PR,15,159
-SEL_1837,14092,ribeirao preto,SP,22,442
-SEL_1838,14075,ribeirao preto,SP,22,442
-SEL_1839,34006,nova lima,MG,8,363
-SEL_1840,36201,barbacena,MG,8,50
-SEL_1841,12238,sao jose dos campos,SP,22,508
-SEL_1842,9360,maua,SP,22,328
-SEL_1843,7747,caieiras,SP,22,92
-SEL_1844,4160,sao paulo,SP,22,517
-SEL_1845,9725,sao bernardo do campo,SP,22,494
-SEL_1846,9131,santo andre,SP,22,483
-SEL_1847,15290,buritama,SP,22,86
-SEL_1848,14407,franca,SP,22,196
-SEL_1849,87504,umuarama,PR,15,583
-SEL_1850,75650,morrinhos,GO,6,351
-SEL_1851,99700,erechim,RS,19,175
-SEL_1852,18200,itapetininga,SP,22,253
-SEL_1853,4710,sao paulo,SP,22,517
-SEL_1854,3631,sao paulo,SP,22,517
-SEL_1855,12240,sao jose dos campos,SP,22,508
-SEL_1856,13835,conchal,SP,22,141
-SEL_1857,8270,sao paulo,SP,22,517
-SEL_1858,89870,pinhalzinho,SC,20,409
-SEL_1859,18015,sorocaba,SP,22,546
-SEL_1860,90230,porto alegre,RS,19,422
-SEL_1861,3062,sao paulo,SP,22,517
-SEL_1862,12224,sao jose dos campos,SP,22,508
-SEL_1863,13690,descalvado,SP,22,161
-SEL_1864,11075,santos,SP,22,489
-SEL_1865,85200,pitanga,PR,15,414
-SEL_1866,22793,rio de janeiro,RJ,16,450
-SEL_1867,4870,sao paulo,SP,22,517
-SEL_1868,80230,curitiba,PR,15,159
-SEL_1869,9210,santo andre,SP,22,483
-SEL_1870,13070,campinas,SP,22,101
-SEL_1871,13880,vargem grande do sul,SP,22,588
-SEL_1872,1209,sao paulo,SP,22,517
-SEL_1873,88354,brusque,SC,20,85
-SEL_1874,13405,piracicaba,SP,22,411
-SEL_1875,4365,sao paulo,SP,22,517
-SEL_1876,17515,marilia,SP,22,324
-SEL_1877,3134,sao paulo,SP,22,517
-SEL_1878,95020,caxias do sul,RS,19,131
-SEL_1879,96400,bage,RS,19,45
-SEL_1880,3667,sao paulo,SP,22,517
-SEL_1881,5126,sao paulo,SP,22,517
-SEL_1882,86600,rolandia,PR,15,461
-SEL_1883,89190,taio,SC,20,554
-SEL_1884,6803,embu das artes,SP,22,171
-SEL_1885,3210,sao paulo,SP,22,517
-SEL_1886,18025,sorocaba,SP,22,546
-SEL_1887,16200,birigui,SP,22,68
-SEL_1888,1026,sao paulo,SP,22,517
-SEL_1889,4058,sao paulo,SP,22,517
-SEL_1890,16021,sp,SP,22,547
-SEL_1891,13457,santa barbara d'oeste,SP,22,470
-SEL_1892,14020,ribeirao preto,SP,22,442
-SEL_1893,19800,assis,SP,22,38
-SEL_1894,25645,petropolis,RJ,16,403
-SEL_1895,4319,sao paulo,SP,22,517
-SEL_1896,38701,patos de minas,MG,8,393
-SEL_1897,3916,sao paulo,SP,22,517
-SEL_1898,7077,garulhos,SP,22,204
-SEL_1899,30270,belo horizonte,MG,8,64
-SEL_1900,82640,curitiba,PR,15,159
-SEL_1901,89117,gaspar,SC,20,206
-SEL_1902,14940,ibitinga,SP,22,227
-SEL_1903,85601,francisco beltrao,PR,15,197
-SEL_1904,87030,maringa,PR,15,325
-SEL_1905,1511,sao paulo,SP,22,517
-SEL_1906,80240,curitiba,SP,22,159
-SEL_1907,17514,marilia,SP,22,324
-SEL_1908,2013,sao paulo,SP,22,517
-SEL_1909,18200,itapetininga,SP,22,253
-SEL_1910,35530,claudio,MG,8,136
-SEL_1911,13240,jarinu,SP,22,279
-SEL_1912,13347,indaiatuba,SP,22,238
-SEL_1913,15025,sao jose do rio preto,SP,22,507
-SEL_1914,14057,ribeirao preto,SP,22,442
-SEL_1915,38402,uberlandia,MG,8,582
-SEL_1916,31920,belo horizonte,MG,8,64
-SEL_1917,1215,sao paulo,SP,22,517
-SEL_1918,82510,curitiba,PR,15,159
-SEL_1919,95150,nova petropolis,RS,19,365
-SEL_1920,13454,santa barbara d'oeste,SP,22,470
-SEL_1921,14079,ribeirao preto / sao paulo,SP,22,443
-SEL_1922,4276,sao paulo,SP,22,517
-SEL_1923,13506,rio claro,SP,22,448
-SEL_1924,15807,catanduva,SP,22,129
-SEL_1925,88340,camboriu,SC,20,97
-SEL_1926,14076,ribeirao preto,SP,22,442
-SEL_1927,88270,nova trento,SC,20,366
-SEL_1928,18103,sorocaba,SP,22,546
-SEL_1929,96020,pelotas,RS,19,401
-SEL_1930,82510,curitiba,PR,15,159
-SEL_1931,65072,sao luis,MA,7,513
-SEL_1932,2285,sao paulo,SP,22,517
-SEL_1933,86039,londrina,PR,15,305
-SEL_1934,81770,curitiba,PR,15,159
-SEL_1935,19013,presidente prudente,SP,22,435
-SEL_1936,22775,rio de janeiro,RJ,16,450
-SEL_1937,3963,sao paulo,SP,22,517
-SEL_1938,15051,sao jose do rio pret,SP,22,506
-SEL_1939,13160,artur nogueira,SP,22,35
-SEL_1940,19806,assis,SP,22,38
-SEL_1941,8275,sao paulo,SP,22,517
-SEL_1942,13420,sao paulo,SP,22,517
-SEL_1943,13330,indaiatuba,SP,22,238
-SEL_1944,88102,sao jose,SC,20,504
-SEL_1945,70070,brasilia,DF,4,81
-SEL_1946,61760,eusebio,CE,3,178
-SEL_1947,89069,blumenau,SC,20,69
-SEL_1948,95800,venancio aires,RS,19,594
-SEL_1949,85880,itaipulandia,PR,15,248
-SEL_1950,7056,guarulhos,SP,22,220
-SEL_1951,9111,santo andre,SP,22,483
-SEL_1952,3378,sao paulo,SP,22,517
-SEL_1953,13040,campinas,SP,22,101
-SEL_1954,4850,sao paulo,SP,22,517
-SEL_1955,87025,maringa,PR,15,325
-SEL_1956,80540,curitiba,PR,15,159
-SEL_1957,85601,francisco beltrao,PR,15,197
-SEL_1958,83402,colombo,PR,15,139
-SEL_1959,14940,ibitinga,SP,22,227
-SEL_1960,86010,londrina,PR,15,305
-SEL_1961,3431,sao paulo,SP,22,517
-SEL_1962,14096,ribeirao preto,SP,22,442
-SEL_1963,31210,belo horizonte,MG,8,64
-SEL_1964,9541,sao caetano do sul,SP,22,496
-SEL_1965,14090,ribeirao preto,SP,22,442
-SEL_1966,15076,sao jose do rio preto,SP,22,507
-SEL_1967,13070,campinas,SP,22,101
-SEL_1968,5424,sao paulo,SP,22,517
-SEL_1969,15093,sao jose do rio preto,SP,22,507
-SEL_1970,93347,novo hamburgo,RS,19,367
-SEL_1971,44600,ipira,BA,2,242
-SEL_1972,2119,sao paulo,SP,22,517
-SEL_1973,88306,itajai,SC,20,249
-SEL_1974,52010,recife,PE,13,437
-SEL_1975,83280,guaratuba,PR,15,217
-SEL_1976,8290,sao paulo,SP,22,517
-SEL_1977,83535,campo magro,PR,15,107
-SEL_1978,3052,sao paulo,SP,22,517
-SEL_1979,36325,tiradentes,MG,8,567
-SEL_1980,30270,belo horizonte,MG,8,64
-SEL_1981,13076,campinas,SP,22,101
-SEL_1982,82515,curitiba,PR,15,159
-SEL_1983,13456,santa barbara d'oeste,SP,22,470
-SEL_1984,15075,sao jose do rio preto,SP,22,507
-SEL_1985,19804,assis,SP,22,38
-SEL_1986,8050,sao paluo,SP,22,516
-SEL_1987,87060,maringa,PR,15,325
-SEL_1988,11442,guaruja,SP,22,219
-SEL_1989,4367,sao paulo,SP,22,517
-SEL_1990,26051,rio de janeiro,RJ,16,450
-SEL_1991,87040,maringa,PR,15,325
-SEL_1992,5061,sao paulo,SP,22,517
-SEL_1993,85801,cascavel,PR,15,125
-SEL_1994,13215,jundiai,SP,22,287
-SEL_1995,83823,fazenda rio grande,PR,15,181
-SEL_1996,37443,baependi,MG,8,44
-SEL_1997,9170,santo andre,SP,22,483
-SEL_1998,81070,curitiba,PR,15,159
-SEL_1999,88090,florianopolis,SC,20,190
-SEL_2000,81260,curitiba,PR,15,159
-SEL_2001,4756,sao paulo,SP,22,517
-SEL_2002,31255,belo horizonte,MG,8,64
-SEL_2003,3809,sao paulo,SP,22,517
-SEL_2004,14085,ribeirao preto,SP,22,442
-SEL_2005,9812,sao bernardo do campo,SP,22,494
-SEL_2006,5734,sao paulo,SP,22,517
-SEL_2007,6900,embu guacu,SP,22,172
-SEL_2008,24445,sao goncalo,RJ,16,499
-SEL_2009,3461,sao paulo,SP,22,517
-SEL_2010,35530,claudio,MG,8,136
-SEL_2011,5763,sao paulo,SP,22,517
-SEL_2012,72318,brasilia,DF,4,81
-SEL_2013,17011,bauru,SP,22,60
-SEL_2014,14085,ribeirao preto,SP,22,442
-SEL_2015,79104,campo grande,MS,9,104
-SEL_2016,9720,sao bernardo do campo,SP,22,494
-SEL_2017,2451,sao paulo,SP,22,517
-SEL_2018,85200,pitanga,PR,15,414
-SEL_2019,3962,sao paulo,SP,22,517
-SEL_2020,4282,sao paulo,SP,22,517
-SEL_2021,6276,osasco,SP,22,374
-SEL_2022,1021,sao paulo,SP,22,517
-SEL_2023,86703,arapongas,PR,15,25
-SEL_2024,14403,franca,SP,22,196
-SEL_2025,11701,praia grande,SP,22,431
-SEL_2026,14940,ibitinga,SP,22,227
-SEL_2027,8226,sao paulo,SP,22,517
-SEL_2028,9530,sao caetano do sul,SP,22,496
-SEL_2029,3001,sao paulo,SP,22,517
-SEL_2030,17056,bauru,SP,22,60
-SEL_2031,4843,sao paulo,SP,22,517
-SEL_2032,31520,belo horizonte,MG,8,64
-SEL_2033,9350,maua,SP,22,328
-SEL_2034,88075,florianopolis,SP,22,190
-SEL_2035,14401,franca,SP,22,196
-SEL_2036,38408,uberlandia,MG,8,582
-SEL_2037,13456,santa barbara d'oeste,SP,22,470
-SEL_2038,1550,sao paulo,SP,22,517
-SEL_2039,74343,goiania,GO,6,207
-SEL_2040,7133,guarulhos,SP,22,220
-SEL_2041,81050,curitiba,PR,15,159
-SEL_2042,89251,jaragua do sul,SC,20,278
-SEL_2043,96530,paraiso do sul,RS,19,386
-SEL_2044,12570,aparecida,SP,22,18
-SEL_2045,18015,sorocaba,SP,22,546
-SEL_2046,36773,cataguases,MG,8,128
-SEL_2047,2634,sao paulo,SP,22,517
-SEL_2048,82520,curitiba,PR,15,159
-SEL_2049,44600,ipira,SP,22,242
-SEL_2050,17250,bariri,SP,22,52
-SEL_2051,36300,sao joao del rei,MG,8,502
-SEL_2052,12231,sao jose dos campos,SP,22,508
-SEL_2053,13177,sumare,SP,22,549
-SEL_2054,13465,americana,SP,22,9
-SEL_2055,32185,contagem,MG,8,147
-SEL_2056,3647,sao paulo,SP,22,517
-SEL_2057,8710,mogi das cruzes,SP,22,340
-SEL_2058,14940,ibitinga,SP,22,227
-SEL_2059,4809,sao paulo,SP,22,517
-SEL_2060,13900,amparo,SP,22,10
-SEL_2061,27353,barra mansa,RJ,16,53
-SEL_2062,88306,itajai,SC,20,249
-SEL_2063,4362,sao paulo,SP,22,517
-SEL_2064,29150,cariacica,ES,5,119
-SEL_2065,11707,praia grande,SP,22,431
-SEL_2066,20910,rio de janeiro,RJ,16,450
-SEL_2067,3171,sao paulo,SP,22,517
-SEL_2068,75345,abadia de goias,GO,6,1
-SEL_2069,89165,rio do sul,SC,20,455
-SEL_2070,13504,rio claro,SP,22,448
-SEL_2071,3573,sao paulo,SP,22,517
-SEL_2072,3929,sao paulo,SP,22,517
-SEL_2073,85905,toledo,PR,15,569
-SEL_2074,3191,sao paulo,SP,22,517
-SEL_2075,7077,guarulhos,SP,22,220
-SEL_2076,16074,aracatuba,SP,22,23
-SEL_2077,17512,marilia,SP,22,324
-SEL_2078,93425,novo hamburgo,RS,19,367
-SEL_2079,13473,americana,SP,22,9
-SEL_2080,30170,belo horizonte,MG,8,64
-SEL_2081,3410,sao paulo,SP,22,517
-SEL_2082,1552,sao paulo,SP,22,517
-SEL_2083,91910,porto alegre,RS,19,422
-SEL_2084,4763,sao paulo,SP,22,517
-SEL_2085,12230,sao jose dos campos,SP,22,508
-SEL_2086,6409,barueri,SP,22,58
-SEL_2087,83005,sao jose dos pinhais,PR,15,509
-SEL_2088,97110,santa maria,RS,19,475
-SEL_2089,4276,sao paulo,SP,22,517
-SEL_2090,13560,sao carlos,SP,22,497
-SEL_2091,81520,curitiba,PR,15,159
-SEL_2092,74550,goiania,GO,6,207
-SEL_2093,85865,foz do iguacu,PR,15,195
-SEL_2094,4137,sao paulo,SP,22,517
-SEL_2095,88135,palhoca,SC,20,381
-SEL_2096,92020,canoas,RS,19,112
-SEL_2097,37410,tres coracoes,MG,8,571
-SEL_2098,13660,porto ferreira,SP,22,424
-SEL_2099,4106,sao paulo,SP,22,517
-SEL_2100,31340,contagem,MG,8,147
-SEL_2101,14075,ribeirao preto,SP,22,442
-SEL_2102,9570,sao caetano do sul,SP,22,496
-SEL_2103,87060,maringa,PR,15,325
-SEL_2104,11013,santos,SP,22,489
-SEL_2105,37006,varginha,MG,8,590
-SEL_2106,99500,carazinho,RS,19,118
-SEL_2107,6097,osasco,SP,22,374
-SEL_2108,14940,ibitinga,SP,22,227
-SEL_2109,8280,sao paulo,SP,22,517
-SEL_2110,17580,pompeia,SP,22,418
-SEL_2111,30431,belo horizonte,MG,8,64
-SEL_2112,13800,mogi mirim,SP,22,343
-SEL_2113,12308,jacarei,SP,22,266
-SEL_2114,8290,sao paulo,SP,22,517
-SEL_2115,3872,sao paulo,SP,22,517
-SEL_2116,18220,alambari,SP,22,4
-SEL_2117,1156,sao paulo,SP,22,517
-SEL_2118,18683,lencois paulista,SP,22,302
-SEL_2119,16012,aracatuba,SP,22,23
-SEL_2120,87005,maringa,PR,15,325
-SEL_2121,17700,osvaldo cruz,SP,22,375
-SEL_2122,85807,cascavel,PR,15,125
-SEL_2123,76900,ji parana,RO,18,281
-SEL_2124,15030,sao jose do rio preto,SP,22,507
-SEL_2125,27700,vassouras,RJ,16,593
-SEL_2126,17350,igaracu do tiete,SP,22,229
-SEL_2127,13215,jundiai,SP,22,287
-SEL_2128,12600,lorena,SP,22,306
-SEL_2129,89136,rodeio,SC,20,460
-SEL_2130,13290,louveira,SP,22,307
-SEL_2131,15803,catanduva,SP,22,129
-SEL_2132,39740,guanhaes,MG,8,213
-SEL_2133,17506,marilia,SP,22,324
-SEL_2134,89215,joinville,SC,20,285
-SEL_2135,28470,santo antonio de padua,RJ,16,487
-SEL_2136,14940,ibitinga,SP,22,227
-SEL_2137,87020,maringa,PR,15,325
-SEL_2138,6040,osasco,SP,22,374
-SEL_2139,12924,braganca paulista,SP,22,80
-SEL_2140,89150,presidente getulio,SC,20,434
-SEL_2141,12995,pinhalzinho,SP,22,409
-SEL_2142,89620,campos novos,SC,20,110
-SEL_2143,4273,sao paulo,SP,22,517
-SEL_2144,2150,sao paulo,SP,22,517
-SEL_2145,45820,eunapolis,BA,2,177
-SEL_2146,13482,limeira,SP,22,303
-SEL_2147,13165,engenheiro coelho,SP,22,173
-SEL_2148,8011,sao paulo,SP,22,517
-SEL_2149,13390,rio das pedras,SP,22,449
-SEL_2150,89220,joinville,SC,20,285
-SEL_2151,3147,sao paulo,SP,22,517
-SEL_2152,6663,itapevi,SP,22,255
-SEL_2153,15601,fernandopolis,SP,22,184
-SEL_2154,29600,afonso claudio,ES,5,2
-SEL_2155,18279,tatui,SP,22,558
-SEL_2156,5170,sao paulo,SP,22,517
-SEL_2157,15055,sao jose do rio preto,SP,22,507
-SEL_2158,4476,sao paulo,SP,22,517
-SEL_2159,2030,sao paulo,SP,22,517
-SEL_2160,13040,campinas,SP,22,101
-SEL_2161,3017,sao paulo,SP,22,517
-SEL_2162,85810,cascavel,PR,15,125
-SEL_2163,6311,carapicuiba / sao paulo,SP,22,116
-SEL_2164,13154,cosmopolis,SP,22,152
-SEL_2165,15050,sao jose do rio preto,SP,22,507
-SEL_2166,13480,limeira,SP,22,303
-SEL_2167,13084,campinas,SP,22,101
-SEL_2168,6186,osasco,SP,22,374
-SEL_2169,89046,blumenau,SC,20,69
-SEL_2170,38414,uberlandia,MG,8,582
-SEL_2171,24020,niteroi,RJ,16,360
-SEL_2172,4251,sao paulo,SP,22,517
-SEL_2173,80045,curitiba,PR,15,159
-SEL_2174,86800,apucarana,PR,15,21
-SEL_2175,4424,sao paulo,SP,22,517
-SEL_2176,4293,sao paulo,SP,22,517
-SEL_2177,6317,carapicuiba,SP,22,115
-SEL_2178,35170,coronel fabriciano,MG,8,151
-SEL_2179,30240,belo horizonte,MG,8,64
-SEL_2180,85813,cascavel,PR,15,125
-SEL_2181,81900,curitiba,PR,15,159
-SEL_2182,2963,sao paulo,SP,22,517
-SEL_2183,7412,aruja,SP,22,36
-SEL_2184,35660,centro,MG,8,132
-SEL_2185,19815,assis,SP,22,38
-SEL_2186,4904,sao paulo,SP,22,517
-SEL_2187,89225,joinville,SC,20,285
-SEL_2188,8275,sao paulo,SP,22,517
-SEL_2189,87083,parana,PR,15,387
-SEL_2190,89080,indaial,SC,20,237
-SEL_2191,90630,porto alegre,RS,19,422
-SEL_2192,88215,bombinhas,SC,20,75
-SEL_2193,13140,paulinia,SP,22,394
-SEL_2194,40368,salvador,BA,2,467
-SEL_2195,3345,sao paulo,SP,22,517
-SEL_2196,6283,osasco,SP,22,374
-SEL_2197,13360,capivari,SP,22,114
-SEL_2198,6696,itapevi,SP,22,255
-SEL_2199,14401,franca,SP,22,196
-SEL_2200,24240,niteroi,RJ,16,360
-SEL_2201,9220,santo andre,SP,22,483
-SEL_2202,87050,maringa,PR,15,325
-SEL_2203,9921,diadema,SP,22,162
-SEL_2204,13880,vargem grande do sul,SP,22,588
-SEL_2205,22051,rio de janeiro,RJ,16,450
-SEL_2206,7084,guarulhos,SP,22,220
-SEL_2207,3029,sao paulo,SP,22,517
-SEL_2208,3426,sao paulo,SP,22,517
-SEL_2209,32280,contagem,MG,8,147
-SEL_2210,15013,sao jose do rio preto,SP,22,507
-SEL_2211,14940,ibitinga,SP,22,227
-SEL_2212,4937,sao paulo,SP,22,517
-SEL_2213,14620,orlandia,SP,22,372
-SEL_2214,13405,piracicaba,SP,22,411
-SEL_2215,18401,itapeva,SP,22,254
-SEL_2216,35700,sete lagoas,MG,8,541
-SEL_2217,13418,piracicaba,SP,22,411
-SEL_2218,7140,guarulhos,SP,22,220
-SEL_2219,12940,atibaia,SP,22,39
-SEL_2220,9280,santo andre,SP,22,483
-SEL_2221,11600,sao sebastiao,SP,22,526
-SEL_2222,3976,sao paulo,SP,22,517
-SEL_2223,16500,cafelandia,SP,22,91
-SEL_2224,17290,macatuba,SP,22,311
-SEL_2225,11707,praia grande,SP,22,431
-SEL_2226,13908,amparo,SP,22,10
-SEL_2227,89560,videira,SC,20,602
-SEL_2228,72251,brasilia,DF,4,81
-SEL_2229,88137,palhoca,SC,20,381
-SEL_2230,13870,sao joao da boa vista,SP,22,500
-SEL_2231,2236,sao paulo,SP,22,517
-SEL_2232,88813,criciuma,SC,20,156
-SEL_2233,84530,teixeira soares,PR,15,560
-SEL_2234,26551,mesquita,RJ,16,331
-SEL_2235,15600,fernandopolis,SP,22,184
-SEL_2236,81720,curitiba,PR,15,159
-SEL_2237,2544,sao paulo,SP,22,517
-SEL_2238,87160,mandaguacu,PR,15,317
-SEL_2239,83823,fazenda rio grande,PR,15,181
-SEL_2240,2710,sao paulo,SP,22,517
-SEL_2241,86040,londrina,PR,15,305
-SEL_2242,25957,teresopolis,RJ,16,562
-SEL_2243,17606,sao paulo,SP,22,517
-SEL_2244,87015,maringa,PR,15,325
-SEL_2245,89180,rio do oeste,SC,20,454
-SEL_2246,3804,sao paulo,SP,22,517
-SEL_2247,13339,indaiatuba,SP,22,238
-SEL_2248,88330,balneario camboriu,SC,20,48
-SEL_2249,13403,piracicaba,SP,22,411
-SEL_2250,83280,guaratuba,PR,15,217
-SEL_2251,1403,sao paulo,SP,22,517
-SEL_2252,14802,araraquara,SP,22,28
-SEL_2253,88135,palhoca,SC,20,381
-SEL_2254,7176,guarulhos,SP,22,220
-SEL_2255,81510,curitiba,PR,15,159
-SEL_2256,12215,sao jose dos campos,SP,22,508
-SEL_2257,13573,sao carlos,SP,22,497
-SEL_2258,11010,santos,SP,22,489
-SEL_2259,87025,vendas@creditparts.com.br,PR,15,595
-SEL_2260,28950,armacao dos buzios,RJ,16,33
-SEL_2261,4714,sao paulo,SP,22,517
-SEL_2262,5127,sao paulo,SP,22,517
-SEL_2263,35670,mateus leme,MG,8,327
-SEL_2264,3581,sao paulop,SP,22,521
-SEL_2265,87083,maringa,PR,15,325
-SEL_2266,1408,sao paulo,SP,22,517
-SEL_2267,6766,taboao da serra,SP,22,553
-SEL_2268,14940,ibitinga,SP,22,227
-SEL_2269,11431,guaruja,SP,22,219
-SEL_2270,36087,juiz de fora,MG,8,286
-SEL_2271,4438,sao paulo,SP,22,517
-SEL_2272,74305,goiania,GO,6,207
-SEL_2273,9041,santo andre,SP,22,483
-SEL_2274,13232,campo limpo paulista,SP,22,106
-SEL_2275,13960,socorro,SP,22,543
-SEL_2276,2475,sao paulo,SP,22,517
-SEL_2277,85603,francisco beltrao,PR,15,197
-SEL_2278,13070,campinas,SP,22,101
-SEL_2279,13271,valinhos,SP,22,587
-SEL_2280,1512,sao paulo,SP,22,517
-SEL_2281,29161,serra,ES,5,536
-SEL_2282,83450,bocaiuva do sul,PR,15,70
-SEL_2283,3304,sao paulo,SP,22,517
-SEL_2284,3273,sao paulo,SP,22,517
-SEL_2285,17051,bauru,SP,22,60
-SEL_2286,31573,belo horizonte,MG,8,64
-SEL_2287,13471,americana,SP,22,9
-SEL_2288,45658,ilheus,BA,2,231
-SEL_2289,88715,jaguaruna,SC,20,272
-SEL_2290,13911,jaguariuna,SP,22,271
-SEL_2291,6440,barueri,SP,22,58
-SEL_2292,15015,sao jose do rio preto,SP,22,507
-SEL_2293,95780,montenegro,RS,19,349
-SEL_2294,14940,ibitinga,SP,22,227
-SEL_2295,13097,campinas,SP,22,101
-SEL_2296,2279,sao paulo,SP,22,517
-SEL_2297,24440,sao goncalo,RJ,16,499
-SEL_2298,5743,sao paulo,SP,22,517
-SEL_2299,89203,joinville,SC,20,285
-SEL_2300,32240,contagem,MG,8,147
-SEL_2301,5595,sao paulo,SP,22,517
-SEL_2302,13505,rio claro,SP,22,448
-SEL_2303,4291,sao paulo,SP,22,517
-SEL_2304,2110,sao paulo,SP,22,517
-SEL_2305,8577,itaquaquecetuba,SP,22,258
-SEL_2306,8420,sao paulo,SP,22,517
-SEL_2307,17018,bauru,SP,22,60
-SEL_2308,95625,imbe,RS,19,233
-SEL_2309,6419,barueri,SP,22,58
-SEL_2310,4101,sao paulo,SP,22,517
-SEL_2311,6150,osasco,SP,22,374
-SEL_2312,2113,sao paulo,SP,22,517
-SEL_2313,83323,pinhais,PR,15,406
-SEL_2314,9090,santo andre,SP,22,483
-SEL_2315,5043,sao paulo,SP,22,517
-SEL_2316,83602,campo largo,PR,15,105
-SEL_2317,14021,ribeirao preto,SP,22,442
-SEL_2318,95020,caxias do sul,RS,19,131
-SEL_2319,99300,soledade,RS,19,544
-SEL_2320,31035,belo horizonte,MG,8,64
-SEL_2321,7790,cajamar,SP,22,93
-SEL_2322,72015,brasilia,DF,4,81
-SEL_2323,3725,sao paulo,SP,22,517
-SEL_2324,88303,itajai,SC,20,249
-SEL_2325,14801,araraquara,SP,22,28
-SEL_2326,35700,sete lagoas,MG,8,541
-SEL_2327,36032,juiz de fora,MG,8,286
-SEL_2328,89295,rio negrinho,SC,20,457
-SEL_2329,5530,sao paulo,SP,22,517
-SEL_2330,6018,osasco,SP,22,374
-SEL_2331,13840,mogi guacu,SP,22,342
-SEL_2332,16250,clementina,SP,22,137
-SEL_2333,1023,sao paulo,SP,22,517
-SEL_2334,2610,sao paulo,SP,22,517
-SEL_2335,15070,sao jose do rio preto,SP,22,507
-SEL_2336,71825,brasilia,DF,4,81
-SEL_2337,4250,sao paulo,SP,22,517
-SEL_2338,1220,sao paulo,SP,22,517
-SEL_2339,9175,santo andre,SP,22,483
-SEL_2340,18044,sorocaba,SP,22,546
-SEL_2341,13450,santa barbara d´oeste,SP,22,471
-SEL_2342,25035,duque de caxias,RJ,16,169
-SEL_2343,14780,barretos,SP,22,55
-SEL_2344,86047,londrina,PR,15,305
-SEL_2345,7901,francisco morato,SP,22,198
-SEL_2346,13232,campo limpo paulista,SP,22,106
-SEL_2347,13408,piracicaba,SP,22,411
-SEL_2348,96203,rio grande,RS,19,456
-SEL_2349,89041,blumenau,SC,20,69
-SEL_2350,93510,novo hamburgo,RS,19,367
-SEL_2351,2752,sao paulo,SP,22,517
-SEL_2352,87040,maringa,PR,15,325
-SEL_2353,89825,xaxim,SC,20,610
-SEL_2354,13043,campinas,SP,22,101
-SEL_2355,18550,boituva,SP,22,72
-SEL_2356,20061,rio de janeiro,RJ,16,450
-SEL_2357,1257,sao paulo,SP,22,517
-SEL_2358,87025,maringa,PR,15,325
-SEL_2359,14020,ribeirao preto,SP,22,442
-SEL_2360,80215,curitiba,PR,15,159
-SEL_2361,74210,goiania,GO,6,207
-SEL_2362,89160,rio do sul,SC,20,455
-SEL_2363,4911,sao paulo,SP,22,517
-SEL_2364,1031,sao paulo,SP,22,517
-SEL_2365,80230,curitiba,PR,15,159
-SEL_2366,9340,maua,SP,22,328
-SEL_2367,69005,manaus,AM,1,316
-SEL_2368,3542,sao paulo,SP,22,517
-SEL_2369,2411,sao paulo,SP,22,517
-SEL_2370,5455,sao paulo,SP,22,517
-SEL_2371,15115,bady bassitt,SP,22,43
-SEL_2372,24120,niteroi,RJ,16,360
-SEL_2373,1314,sao paulo,SP,22,517
-SEL_2374,25900,rio de janeiro,RJ,16,450
-SEL_2375,87240,terra boa,PR,15,563
-SEL_2376,8011,sao paulo,SP,22,517
-SEL_2377,13660,porto ferreira,SP,22,424
-SEL_2378,18608,botucatu,SP,22,78
-SEL_2379,15070,sao jose do rio preto,SP,22,507
-SEL_2380,78020,cuiaba,MT,10,158
-SEL_2381,37165,minas gerais,MG,8,334
-SEL_2382,4083,sao paulo,SP,22,517
-SEL_2383,18130,sao roque,SP,22,525
-SEL_2384,6694,itapevi,SP,22,255
-SEL_2385,6790,taboao da serra,SP,22,553
-SEL_2386,89023,blumenau,SC,20,69
-SEL_2387,9720,sao bernardo do campo,SP,22,494
-SEL_2388,29160,serra,ES,5,536
-SEL_2389,2066,sao paulo,SP,22,517
-SEL_2390,87050,maringa,PR,15,325
-SEL_2391,13347,indaiatuba,SP,22,238
-SEL_2392,4265,sao paulo,SP,22,517
-SEL_2393,87502,umuarama,PR,15,583
-SEL_2394,13920,pedreira,SP,22,398
-SEL_2395,3560,sao paulo,SP,22,517
-SEL_2396,13160,artur nogueira,SP,22,35
-SEL_2397,18701,avare,SP,22,42
-SEL_2398,17400,garca,SP,22,202
-SEL_2399,32419,ibirite,MG,8,226
-SEL_2400,83607,campo largo,PR,15,105
-SEL_2401,3731,sao paulo,SP,22,517
-SEL_2402,14401,franca,SP,22,196
-SEL_2403,31710,belo horizonte,MG,8,64
-SEL_2404,83405,colombo,PR,15,139
-SEL_2405,14790,guaira,SP,22,211
-SEL_2406,14940,ibitinga,SP,22,227
-SEL_2407,4660,sao paulo,SP,22,517
-SEL_2408,13347,indaiatuba,SP,22,238
-SEL_2409,82315,curitiba,PR,15,159
-SEL_2410,3658,sao paulo,SP,22,517
-SEL_2411,6715,cotia,SP,22,153
-SEL_2412,32604,betim,MG,8,67
-SEL_2413,89063,blumenau,SC,20,69
-SEL_2414,8030,sao paulo,SP,22,517
-SEL_2415,36046,juiz de fora,MG,8,286
-SEL_2416,2334,sao paulo,SP,22,517
-SEL_2417,14401,franca,SP,22,196
-SEL_2418,4851,sao paulo,SP,22,517
-SEL_2419,85875,santa terezinha de itaipu,PR,15,481
-SEL_2420,20761,rio de janeiro,RJ,16,450
-SEL_2421,17370,santa maria da serra,SP,22,476
-SEL_2422,15350,auriflama,SP,22,40
-SEL_2423,9710,sao bernardo do campo,SP,22,494
-SEL_2424,31525,belo horizonte,MG,8,64
-SEL_2425,16200,birigui,SP,22,68
-SEL_2426,25720,petropolis,RJ,16,403
-SEL_2427,88704,tubarao,SC,20,577
-SEL_2428,79112,campo grande,MS,9,104
-SEL_2429,17300,dois corregos,SP,22,165
-SEL_2430,97110,santa maria,RS,19,475
-SEL_2431,3168,sao paulo,SP,22,517
-SEL_2432,98290,condor,RS,19,143
-SEL_2433,13414,piracicaba,SP,22,411
-SEL_2434,13251,itatiba,SP,22,259
-SEL_2435,14940,ibitinga,SP,22,227
-SEL_2436,6539,santana de parnaiba,SP,22,482
-SEL_2437,80010,curitiba,PR,15,159
-SEL_2438,38401,uberlandia,MG,8,582
-SEL_2439,74590,goiania,GO,6,207
-SEL_2440,85875,santa terezinha de itaipu,PR,15,481
-SEL_2441,72210,brasilia,DF,4,81
-SEL_2442,38700,patos de minas,MG,8,393
-SEL_2443,15056,sao jose do rio preto,SP,22,507
-SEL_2444,20950,rio de janeiro,RJ,16,450
-SEL_2445,38950,ibia,MG,8,225
-SEL_2446,16208,birigui,SP,22,68
-SEL_2447,80250,curitiba,PR,15,159
-SEL_2448,7192,guarulhos,SP,22,220
-SEL_2449,85801,cascavel,PR,15,125
-SEL_2450,13272,valinhos,SP,22,587
-SEL_2451,14021,ribeirao preto,SP,22,442
-SEL_2452,4679,sao paulo,SP,22,517
-SEL_2453,1421,sao paulo,SP,22,517
-SEL_2454,46430,guanambi,BA,2,212
-SEL_2455,61658,caucaia,CE,3,130
-SEL_2456,89052,blumenau,SP,22,69
-SEL_2457,87013,maringa,PR,15,325
-SEL_2458,89650,treze tilias,SC,20,575
-SEL_2459,89819,cordilheira alta,SC,20,149
-SEL_2460,35547,carmo da mata,MG,8,121
-SEL_2461,88370,navegantes,SC,20,356
-SEL_2462,92030,canoas,RS,19,112
-SEL_2463,35400,ouro preto,MG,8,378
-SEL_2464,14940,ibitinga,SP,22,227
-SEL_2465,33600,pedro leopoldo,MG,8,400
-SEL_2466,87070,maringa,PR,15,325
-SEL_2467,5571,sao paulo,SP,22,517
-SEL_2468,8270,sao paulo,SP,22,517
-SEL_2469,3111,sao paulo,SP,22,517
-SEL_2470,14270,santa rosa de viterbo,SP,22,479
-SEL_2471,89036,blumenau,SC,20,69
-SEL_2472,4708,sao paulo,SP,22,517
-SEL_2473,89820,xanxere,SC,20,609
-SEL_2474,90620,porto alegre,RS,19,422
-SEL_2475,35500,divinopolis,MG,8,163
-SEL_2476,7411,sao paulo,SP,22,517
-SEL_2477,7023,guarulhos,SP,22,220
-SEL_2478,80310,curitiba,PR,15,159
-SEL_2479,19160,alvares machado,SP,22,7
-SEL_2480,21840,rio de janeiro,RJ,16,450
-SEL_2481,30390,belo horizonte,MG,8,64
-SEL_2482,18060,sorocaba,SP,22,546
-SEL_2483,88132,palhoca,SC,20,381
-SEL_2484,83408,colombo,PR,15,139
-SEL_2485,13720,scao jose do rio pardo,SP,22,535
-SEL_2486,87015,maringa,PR,15,325
-SEL_2487,9180,santo andre,SP,22,483
-SEL_2488,9785,sao bernardo do campo,SP,22,494
-SEL_2489,19806,assis,SP,22,38
-SEL_2490,11709,praia grande,SP,22,431
-SEL_2491,21510,rio de janeiro,RJ,16,450
-SEL_2492,14850,pradopolis,SP,22,429
-SEL_2493,4547,sao paulo,SP,22,517
-SEL_2494,14070,ribeirao preto,SP,22,442
-SEL_2495,31110,belo horizonte,MG,8,64
-SEL_2496,81460,curitiba,PR,15,159
-SEL_2497,13206,jundiai,SP,22,287
-SEL_2498,4104,sao paulo,SP,22,517
-SEL_2499,3106,sao paulo,SP,22,517
-SEL_2500,1123,sao paulo,SP,22,517
-SEL_2501,30130,belo horizonte,MG,8,64
-SEL_2502,98780,santa rosa,RS,19,478
-SEL_2503,89520,curitibanos,SC,20,160
-SEL_2504,18500,laranjal paulista,SP,22,297
-SEL_2505,14093,ribeirao preto,SP,22,442
-SEL_2506,14096,ribeirao preto,SP,22,442
-SEL_2507,14940,ibitinga,SP,22,227
-SEL_2508,3124,sao paulo,SP,22,517
-SEL_2509,18015,sorocaba,SP,22,546
-SEL_2510,36010,juiz de fora,MG,8,286
-SEL_2511,81020,curitiba,SP,22,159
-SEL_2512,3182,sao paulo,SP,22,517
-SEL_2513,7124,guarulhos,SP,22,220
-SEL_2514,7024,guarulhos,SP,22,220
-SEL_2515,13140,paulinia,SP,22,394
-SEL_2516,15061,sao jose do rio preto,SP,22,507
-SEL_2517,21740,rio de janeiro,RJ,16,450
-SEL_2518,14090,ribeirao preto,SP,22,442
-SEL_2519,22640,rio de janeiro,RJ,16,450
-SEL_2520,7013,guarulhos,SP,22,220
-SEL_2521,38442,araguari,MG,8,24
-SEL_2522,33940,ribeirao das neves,MG,8,440
-SEL_2523,9551,sao caetano do sul,SP,22,496
-SEL_2524,93348,novo hamburgo,RS,19,367
-SEL_2525,14015,sao paulo,SP,22,517
-SEL_2526,18017,sorocaba,SP,22,546
-SEL_2527,37704,pocos de caldas,MG,8,417
-SEL_2528,18076,sorocaba,SP,22,546
-SEL_2529,81560,curitiba,PR,15,159
-SEL_2530,3334,sao paulo,SP,22,517
-SEL_2531,15155,jaci,SP,22,268
-SEL_2532,38400,uberlandia,MG,8,582
-SEL_2533,32310,contagem,MG,8,147
-SEL_2534,90240,porto alegre,RS,19,422
-SEL_2535,20040,rio de janeiro,RJ,16,450
-SEL_2536,3063,sao paulo,SP,22,517
-SEL_2537,5141,sp,SP,22,547
-SEL_2538,1452,sao paulo,SP,22,517
-SEL_2539,29315,cachoeiro de itapemirim,ES,5,90
-SEL_2540,17017,bauru,SP,22,60
-SEL_2541,85884,medianeira,PR,15,330
-SEL_2542,88490,paulo lopes,SC,20,395
-SEL_2543,5756,sao paulo,SP,22,517
-SEL_2544,5302,sao paulo,SP,22,517
-SEL_2545,95270,flores da cunha,RS,19,188
-SEL_2546,25530,sao joao de meriti,RJ,16,501
-SEL_2547,89108,massaranduba,SC,20,326
-SEL_2548,11430,guaruja,SP,22,219
-SEL_2549,2614,sao paulo,SP,22,517
-SEL_2550,4270,sao paulo,SP,22,517
-SEL_2551,60348,fortaleza,CE,3,194
-SEL_2552,2415,sao paulo,SP,22,517
-SEL_2553,13360,capivari,SP,22,114
-SEL_2554,86300,cornelio procopio,PR,15,150
-SEL_2555,12243,sao jose dos campos,SP,22,508
-SEL_2556,95013,caxias do sul,RS,19,131
-SEL_2557,2422,sao paulo,SP,22,517
-SEL_2558,32315,contagem,MG,8,147
-SEL_2559,95098,caxias do sul,RS,19,131
-SEL_2560,2028,sao paulo,SP,22,517
-SEL_2561,87050,maringa,PR,15,325
-SEL_2562,3971,sao paulo,SP,22,517
-SEL_2563,13060,campinas,SP,22,101
-SEL_2564,13487,limeira,SP,22,303
-SEL_2565,8430,sao paulo,SP,22,517
-SEL_2566,12331,jacarei,SP,22,266
-SEL_2567,8500,ferraz de vasconcelos,SP,22,186
-SEL_2568,13090,campinas,SP,22,101
-SEL_2569,14020,ribeirao preto,SP,22,442
-SEL_2570,4516,sao paulo,SP,22,517
-SEL_2571,89065,blumenau,SC,20,69
-SEL_2572,3318,sao paulo,SP,22,517
-SEL_2573,30668,belo horizonte,MG,8,64
-SEL_2574,5141,pirituba,SP,22,413
-SEL_2575,4209,sao paulo,SP,22,517
-SEL_2576,2242,sao paulo,SP,22,517
-SEL_2577,12913,braganca paulista,SP,22,80
-SEL_2578,5616,sao paulo,SP,22,517
-SEL_2579,14940,ibitinga,SP,22,227
-SEL_2580,3461,sao paulo,SP,22,517
-SEL_2581,12270,jambeiro,SP,22,274
-SEL_2582,1140,sao paulo,SP,22,517
-SEL_2583,13328,salto,SP,22,466
-SEL_2584,35590,lagoa da prata,MG,8,292
-SEL_2585,82560,curitiba,PR,15,159
-SEL_2586,93040,sao leopoldo,RS,19,511
-SEL_2587,4537,sao paulo,SP,22,517
-SEL_2588,27345,barra mansa,RJ,16,53
-SEL_2589,15025,sao jose do rio preto,SP,22,507
-SEL_2590,71900,aguas claras df,SP,22,3
-SEL_2591,3009,sao paulo,SP,22,517
-SEL_2592,9572,sao caetano do sul,SP,22,496
-SEL_2593,14027,ribeirao pretp,SP,22,444
-SEL_2594,2916,sao paulo,SP,22,517
-SEL_2595,87210,cianorte,PR,15,135
-SEL_2596,2443,sao paulo,SP,22,517
-SEL_2597,14940,ibitinga,SP,22,227
-SEL_2598,3508,sao paulo,SP,22,517
-SEL_2599,21320,rio de janeiro,SP,22,450
-SEL_2600,3287,sao paulo,SP,22,517
-SEL_2601,1208,sao paulo,SP,22,517
-SEL_2602,44002,feira de santana,BA,2,182
-SEL_2603,86073,londrina,PR,15,305
-SEL_2604,38445,araguari,MG,8,24
-SEL_2605,5186,sao paulo,SP,22,517
-SEL_2606,88037,florianopolis,SC,20,190
-SEL_2607,13040,campinas,SP,22,101
-SEL_2608,89164,rio do sul,SC,20,455
-SEL_2609,80010,curitiba,PR,15,159
-SEL_2610,91150,porto alegre,RS,19,422
-SEL_2611,6018,osasco,SP,22,374
-SEL_2612,13660,porto ferreira,SP,22,424
-SEL_2613,13920,pedreira,SP,22,398
-SEL_2614,23587,rio de janeiro,RJ,16,450
-SEL_2615,6465,barueri,SP,22,58
-SEL_2616,91920,porto alegre,RS,19,422
-SEL_2617,96503,cachoeira do sul,RS,19,88
-SEL_2618,14840,guariba,SP,22,218
-SEL_2619,4101,sao paulo,SP,22,517
-SEL_2620,11030,santos,SP,22,489
-SEL_2621,13790,sao sebastiao da grama/sp,SP,22,527
-SEL_2622,17900,dracena,SP,22,168
-SEL_2623,18500,laranjal paulista,SP,22,297
-SEL_2624,6501,santana de parnaiba,SP,22,482
-SEL_2625,17047,bauru,SP,22,60
-SEL_2626,6473,barueri,SP,22,58
-SEL_2627,5676,sao paulo,SP,22,517
-SEL_2628,2839,sao paulo,SP,22,517
-SEL_2629,14010,ribeirao preto,SP,22,442
-SEL_2630,9725,sao bernardo do campo,SP,22,494
-SEL_2631,4141,sao paulo,SP,22,517
-SEL_2632,22775,rio de janeiro,RJ,16,450
-SEL_2633,17400,garca,SP,22,202
-SEL_2634,12604,lorena,SP,22,306
-SEL_2635,86030,londrina,PR,15,305
-SEL_2636,31140,belo horizonte,MG,8,64
-SEL_2637,13465,americana,SP,22,9
-SEL_2638,7221,guarulhos,SP,22,220
-SEL_2639,19906,ourinhos,SP,22,376
-SEL_2640,14940,ibitinga,SP,22,227
-SEL_2641,80220,curitiba,PR,15,159
-SEL_2642,87900,loanda,PR,15,304
-SEL_2643,17250,bariri,SP,22,52
-SEL_2644,8832,mogi das cruzes,SP,22,340
-SEL_2645,3018,sao paulo,SP,22,517
-SEL_2646,20040,rio de janeiro,RJ,16,450
-SEL_2647,28810,rio bonito,SP,22,446
-SEL_2648,11720,praia grande,SP,22,431
-SEL_2649,17209,jau,SP,22,280
-SEL_2650,14078,robeirao preto,SP,22,459
-SEL_2651,88704,tubarao,SC,20,577
-SEL_2652,3237,sao paulo,SP,22,517
-SEL_2653,89228,joinville,SC,20,285
-SEL_2654,7170,guarulhos,SP,22,220
-SEL_2655,3880,sao paulo,SP,22,517
-SEL_2656,14020,ribeirao preto,SP,22,442
-SEL_2657,89504,cacador,SC,20,87
-SEL_2658,5008,sao paulo,SP,22,517
-SEL_2659,89288,sao bento do sul,SC,20,493
-SEL_2660,21510,rio de janeiro,RJ,16,450
-SEL_2661,1041,sao paulo,SP,22,517
-SEL_2662,14802,araraquara,SP,22,28
-SEL_2663,72460,gama,DF,4,201
-SEL_2664,17504,marilia,SP,22,324
-SEL_2665,4208,sao paulo,SP,22,517
-SEL_2666,80040,curitiba,PR,15,159
-SEL_2667,19020,presidente prudente,SP,22,435
-SEL_2668,83005,sao jose dos pinhais,PR,15,509
-SEL_2669,13520,sao pedro,SP,22,523
-SEL_2670,26379,queimados,RJ,16,436
-SEL_2671,2929,sao paulo,SP,22,517
-SEL_2672,39400,montes claros,MG,8,350
-SEL_2673,9560,sao caetano do sul,SP,22,496
-SEL_2674,16304,penapolis,SP,22,402
-SEL_2675,8593,itaquaquecetuba,SP,22,258
-SEL_2676,18110,votorantim,SP,22,607
-SEL_2677,3586,sao paulo,SP,22,517
-SEL_2678,9830,sao bernardo do campo,SP,22,494
-SEL_2679,17017,bauru,SP,22,60
-SEL_2680,80420,curitiba,PR,15,159
-SEL_2681,6871,itapecerica da serra,SP,22,251
-SEL_2682,13214,jundiai,SP,22,287
-SEL_2683,11990,cananeia,SP,22,111
-SEL_2684,14055,ribeirao preto,SP,22,442
-SEL_2685,7070,guarulhos,SP,22,220
-SEL_2686,41820,salvador,BA,2,467
-SEL_2687,17032,bauru,SP,22,60
-SEL_2688,35160,ipatinga,MG,8,239
-SEL_2689,27321,barra mansa,RJ,16,53
-SEL_2690,95705,bento goncalves,RS,19,65
-SEL_2691,3553,sao paulo,SP,22,517
-SEL_2692,13214,jundiai,SP,22,287
-SEL_2693,13380,nova odessa,SP,22,364
-SEL_2694,88372,navegantes,SC,20,356
-SEL_2695,3028,sao paulo,SP,22,517
-SEL_2696,14095,ribeirao preto,SP,22,442
-SEL_2697,87065,maringa,PR,15,325
-SEL_2698,2124,sao paulo,SP,22,517
-SEL_2699,9710,sao bernardo do campo,SP,22,494
-SEL_2700,13845,mogi guacu,SP,22,342
-SEL_2701,3064,sao paulo,SP,22,517
-SEL_2702,9070,santo andre,SP,22,483
-SEL_2703,19300,presidente bernardes,SP,22,432
-SEL_2704,22790,rio de janeiro,RJ,16,450
-SEL_2705,13481,limeira,SP,22,303
-SEL_2706,82620,curitiba,PR,15,159
-SEL_2707,95088,caxias do sul,RS,19,131
-SEL_2708,2918,sao paulo,SP,22,517
-SEL_2709,84925,pinhalao,PR,15,408
-SEL_2710,88960,sombrio,SC,20,545
-SEL_2711,30220,belo horizonte,MG,8,64
-SEL_2712,88010,florianopolis,SC,20,190
-SEL_2713,38022,uberaba,MG,8,581
-SEL_2714,17505,marilia,SP,22,324
-SEL_2715,14075,ribeirao preto,SP,22,442
-SEL_2716,2873,sao paulo,SP,22,517
-SEL_2717,19802,assis,SP,22,38
-SEL_2718,13424,piracicaba,SP,22,411
-SEL_2719,87303,campo mourao,PR,15,108
-SEL_2720,83323,pinhais,PR,15,406
-SEL_2721,3204,sao paulo,SP,22,517
-SEL_2722,55002,caruaru,PE,13,123
-SEL_2723,9571,sao caetano do sul,SP,22,496
-SEL_2724,13840,mogi guacu,SP,22,342
-SEL_2725,3872,sao paulo,SP,22,517
-SEL_2726,4208,sao paulo,SP,22,517
-SEL_2727,81200,curitiba,PR,15,159
-SEL_2728,81650,curitiba,PR,15,159
-SEL_2729,86801,apucarana,PR,15,21
-SEL_2730,83408,colombo,PR,15,139
-SEL_2731,89820,xanxere,SC,20,609
-SEL_2732,83323,pinhais,PR,15,406
-SEL_2733,80250,curitiba,PR,15,159
-SEL_2734,38400,uberlandia,MG,8,582
-SEL_2735,26285,nova iguacu,RJ,16,362
-SEL_2736,4735,sao paulo,SP,22,517
-SEL_2737,4104,sao paulo,SP,22,517
-SEL_2738,21921,rio de janeiro,RJ,16,450
-SEL_2739,36213,dores de campos,MG,8,167
-SEL_2740,9520,sao caetano do sul,SP,22,496
-SEL_2741,8223,sao paulo,SP,22,517
-SEL_2742,81880,curitiba,PR,15,159
-SEL_2743,6322,carapicuiba,SP,22,115
-SEL_2744,3655,sao paulo,SP,22,517
-SEL_2745,19023,presidente prudente,SP,22,435
-SEL_2746,13091,campinas,SP,22,101
-SEL_2747,37175,ilicinea,MG,8,232
-SEL_2748,13403,piracicaba,SP,22,411
-SEL_2749,88301,itajai,SC,20,249
-SEL_2750,93336,novo hamburgo,RS,19,367
-SEL_2751,3480,sao paulo,SP,22,517
-SEL_2752,4282,sao paulo,SP,22,517
-SEL_2753,88113,sao jose,SC,20,504
-SEL_2754,4176,sao paulo,SP,22,517
-SEL_2755,14940,ibitinga,SP,22,227
-SEL_2756,9561,sao caetano do sul,SP,22,496
-SEL_2757,86181,cambe,PR,15,96
-SEL_2758,18090,sorocaba,SP,22,546
-SEL_2759,35900,itabira,MG,8,246
-SEL_2760,3504,sao paulo,SP,22,517
-SEL_2761,3068,sao paulo,SP,22,517
-SEL_2762,85960,marechal candido rondon,PR,15,321
-SEL_2763,8246,sao paulo,SP,22,517
-SEL_2764,14860,barrinha,SP,22,56
-SEL_2765,81070,curitiba,PR,15,159
-SEL_2766,8180,sao paulo,SP,22,517
-SEL_2767,89022,blumenau,SC,20,69
-SEL_2768,89031,blumenau,SC,20,69
-SEL_2769,90250,porto alegre,RS,19,422
-SEL_2770,74110,goiania,GO,6,207
-SEL_2771,86800,apucarana,PR,15,21
-SEL_2772,3813,sao paulo,SP,22,517
-SEL_2773,89280,sao bento do sul,SC,20,493
-SEL_2774,3320,sao paulo,SP,22,517
-SEL_2775,12942,atibaia,SP,22,39
-SEL_2776,71215,brasilia,DF,4,81
-SEL_2777,87230,jussara,PR,15,288
-SEL_2778,14090,ribeirao preto,SP,22,442
-SEL_2779,87050,maringa,PR,15,325
-SEL_2780,85815,cascavel,PR,15,125
-SEL_2781,85960,marechal candido rondon,PA,11,321
-SEL_2782,13471,americana,SP,22,9
-SEL_2783,14405,franca,SP,22,196
-SEL_2784,5004,sao paulo,SP,22,517
-SEL_2785,6711,cotia,SP,22,153
-SEL_2786,83321,pinhais,SP,22,406
-SEL_2787,87015,maringa,PR,15,325
-SEL_2788,86060,londrina,PR,15,305
-SEL_2789,5856,sao paulo,SP,22,517
-SEL_2790,84600,uniao da vitoria,PR,15,584
-SEL_2791,7180,guarulhos,SP,22,220
-SEL_2792,13030,campinas,SP,22,101
-SEL_2793,13920,pedreira,SP,22,398
-SEL_2794,13205,jundiai,SP,22,287
-SEL_2795,9891,sao bernardo do campo,SP,22,494
-SEL_2796,11010,santos,SP,22,489
-SEL_2797,19830,echapora,SP,22,170
-SEL_2798,38183,araxa,MG,8,31
-SEL_2799,15505,votuporanga,SP,22,608
-SEL_2800,11015,santos,SP,22,489
-SEL_2801,89460,canoinhas,SC,20,113
-SEL_2802,21040,rio de janeiro,RJ,16,450
-SEL_2803,14110,ribeirao preto,SP,22,442
-SEL_2804,95840,triunfo,RS,19,576
-SEL_2805,18681,lencois paulista,SP,22,302
-SEL_2806,29166,serra,ES,5,536
-SEL_2807,96816,santa cruz do sul,RS,19,474
-SEL_2808,4461,sao paulo,SP,22,517
-SEL_2809,14940,ibitinga,SP,22,227
-SEL_2810,2265,sao paulo,SP,22,517
-SEL_2811,3431,sao paulo,SP,22,517
-SEL_2812,6080,osasco,SP,22,374
-SEL_2813,6286,osasco,SP,22,374
-SEL_2814,80240,curitiba,PR,15,159
-SEL_2815,82300,curitiba,PR,15,159
-SEL_2816,5849,sao paulo,SP,22,517
-SEL_2817,23092,rio de janeiro,RJ,16,450
-SEL_2818,15802,catanduva,SP,22,129
-SEL_2819,3702,sao paulo,SP,22,517
-SEL_2820,8577,itaquaquecetuba,SP,22,258
-SEL_2821,86690,colorado,PR,15,140
-SEL_2822,88220,itapema,SC,20,252
-SEL_2823,88352,brusque,SC,20,85
-SEL_2824,4208,sao paulo,SP,22,517
-SEL_2825,28950,armacao dos buzios,RJ,16,33
-SEL_2826,89208,joinville,SC,20,285
-SEL_2827,3319,sao paulo,SP,22,517
-SEL_2828,5624,sao paulo,SP,22,517
-SEL_2829,87045,maringa,PR,15,325
-SEL_2830,59020,natal,RN,17,355
-SEL_2831,6192,osasco,SP,22,374
-SEL_2832,87043,maringa,PR,15,325
-SEL_2833,2350,sao paulo,SP,22,517
-SEL_2834,19029,presidente prudente,SP,22,435
-SEL_2835,17209,jau,SP,22,280
-SEL_2836,85880,itaipulandia,PR,15,248
-SEL_2837,18030,sorocaba,SP,22,546
-SEL_2838,37540,santa rita do sapucai,MG,8,477
-SEL_2839,95012,caxias do sul,RS,19,131
-SEL_2840,2040,sao paulo,SP,22,517
-SEL_2841,80620,curitiba,PR,15,159
-SEL_2842,70719,brasilia,DF,4,81
-SEL_2843,20766,rio de janeiro,RJ,16,450
-SEL_2844,3168,sao paulo,SP,22,517
-SEL_2845,3476,sao paulo,SP,22,517
-SEL_2846,12940,atibaia,SP,22,39
-SEL_2847,93800,sapiranga,RS,19,529
-SEL_2848,83020,sao jose dos pinhais,PR,15,509
-SEL_2849,83833,fazenda rio grande,PR,15,181
-SEL_2850,74333,goiania,GO,6,207
-SEL_2851,13324,salto,SP,22,466
-SEL_2852,3138,sao paulo,SP,22,517
-SEL_2853,1201,sao paulo,SP,22,517
-SEL_2854,30882,belo horizonte,MG,8,64
-SEL_2855,5468,sao paulo,SP,22,517
-SEL_2856,9961,diadema,SP,22,162
-SEL_2857,1026,sao paulo,SP,22,517
-SEL_2858,4243,sao paulo,SP,22,517
-SEL_2859,92120,canoas,RS,19,112
-SEL_2860,87702,paranavai,PR,15,388
-SEL_2861,38400,uberlandia,MG,8,582
-SEL_2862,4193,sao paulo,SP,22,517
-SEL_2863,14055,ribeirao preto,SP,22,442
-SEL_2864,6506,santana de parnaiba,SP,22,482
-SEL_2865,71931,brasilia,DF,4,81
-SEL_2866,31365,belo horizonte,MG,8,64
-SEL_2867,18052,sorocaba,SP,22,546
-SEL_2868,94810,alvorada,RS,19,8
-SEL_2869,20091,rio de janeiro,RJ,16,450
-SEL_2870,8596,itaquaquecetuba,SP,22,258
-SEL_2871,4131,sao paulo,SP,22,517
-SEL_2872,80410,curitiba,PR,15,159
-SEL_2873,1212,sao paulo,SP,22,517
-SEL_2874,18270,tatui,SP,22,558
-SEL_2875,11900,registro,SP,22,438
-SEL_2876,13474,americana,SP,22,9
-SEL_2877,4733,sao paulo,SP,22,517
-SEL_2878,3165,sao paulo,SP,22,517
-SEL_2879,18950,ipaussu,SP,22,240
-SEL_2880,3679,sao paulo,SP,22,517
-SEL_2881,86010,londrina,PR,15,305
-SEL_2882,1208,sao paulo,SP,22,517
-SEL_2883,36325,tiradentes,MG,8,567
-SEL_2884,75901,rio verde,GO,6,458
-SEL_2885,71936,brasilia,DF,4,81
-SEL_2886,25900,mage,RJ,16,312
-SEL_2887,75124,anapolis,GO,6,12
-SEL_2888,3565,sao paulo,SP,22,517
-SEL_2889,4696,sao paulo,SP,22,517
-SEL_2890,1309,sao paulo,SP,22,517
-SEL_2891,6764,tabao da serra,SP,22,551
-SEL_2892,3908,sao paulo,SP,22,517
-SEL_2893,70856,brasilia,DF,4,81
-SEL_2894,3641,sao paulo,SP,22,517
-SEL_2895,31980,belo horizonte,MG,8,64
-SEL_2896,1310,sao paulo,SP,22,517
-SEL_2897,3445,sao paulo,SP,22,517
-SEL_2898,13478,americana,SP,22,9
-SEL_2899,5417,sao paulo,SP,22,517
-SEL_2900,9951,diadema,SP,22,162
-SEL_2901,84172,castro,PR,15,126
-SEL_2902,90520,porto alegre,RS,19,422
-SEL_2903,2281,sao paulo,SP,22,517
-SEL_2904,3279,sao paulo,SP,22,517
-SEL_2905,16306,penapolis,SP,22,402
-SEL_2906,5104,sao paulo,SP,22,517
-SEL_2907,87114,sarandi,PR,15,531
-SEL_2908,6760,sao paulo,SP,22,517
-SEL_2909,12327,jacarei,SP,22,266
-SEL_2910,12230,sao jose dos campos,SP,22,508
-SEL_2911,88308,itajai,SC,20,249
-SEL_2912,8072,sao paulo,SP,22,517
-SEL_2913,18590,bofete,SP,22,71
-SEL_2914,9080,santo andre,SP,22,483
-SEL_2915,2336,sao paulo,SP,22,517
-SEL_2916,21825,rio de janeiro,RJ,16,450
-SEL_2917,86026,londrina,PR,15,305
-SEL_2918,14096,ribeirao preto,SP,22,442
-SEL_2919,88380,picarras,SC,20,404
-SEL_2920,8070,sao paulo,SP,22,517
-SEL_2921,28035,rio de janeiro,RJ,16,450
-SEL_2922,9171,santo andre,SP,22,483
-SEL_2923,17510,marilia,SP,22,324
-SEL_2924,20551,rio de janeiro,RJ,16,450
-SEL_2925,15013,sao jose do rio preto,SP,22,507
-SEL_2926,4607,sao paulo,SP,22,517
-SEL_2927,7097,guarulhos,SP,22,220
-SEL_2928,7791,cajamar,SP,22,93
-SEL_2929,18111,votorantim,SP,22,607
-SEL_2930,95180,farroupilha,RS,19,180
-SEL_2931,6716,cotia,SP,22,153
-SEL_2932,13901,amparo,SP,22,10
-SEL_2933,37443,baependi,MG,8,44
-SEL_2934,29056,vitoria,ES,5,604
-SEL_2935,75650,morrinhos,GO,6,351
-SEL_2936,6766,taboao da serra,SP,22,553
-SEL_2937,8541,ferraz de vasconcelos,SP,22,186
-SEL_2938,9010,santo andre,SP,22,483
-SEL_2939,9780,sao bernardo do campo,SP,22,494
-SEL_2940,5051,sao paulo,SP,22,517
-SEL_2941,2522,sao paulo,SP,22,517
-SEL_2942,5879,sao paulo,SP,22,517
-SEL_2943,86702,arapongas,PR,15,25
-SEL_2944,13320,salto,SP,22,466
-SEL_2945,28615,nova friburgo,RJ,16,361
-SEL_2946,18136,sao roque,SP,22,525
-SEL_2947,4007,sao paulo - sp,SP,22,518
-SEL_2948,74150,goiania,GO,6,207
-SEL_2949,8215,sao paulo,SP,22,517
-SEL_2950,15131,mirassol,SP,22,337
-SEL_2951,88960,sombrio,SC,20,545
-SEL_2952,80620,curitiba,PR,15,159
-SEL_2953,29100,vila velha,ES,5,603
-SEL_2954,8275,sao paulo,SP,22,517
-SEL_2955,24900,marica,RJ,16,323
-SEL_2956,22240,rio de janeiro,RJ,16,450
-SEL_2957,24310,niteroi,RJ,16,360
-SEL_2958,14402,franca,SP,22,196
-SEL_2959,19063,presidente prudente,SP,22,435
-SEL_2960,1026,sao paulo,SP,22,517
-SEL_2961,36407,conselheiro lafaiete,MG,8,146
-SEL_2962,85812,cascavel,PR,15,125
-SEL_2963,87015,maringa,PR,15,325
-SEL_2964,86010,londrina,PR,15,305
-SEL_2965,85816,cascavel,PR,15,125
-SEL_2966,76330,jaragua,GO,6,277
-SEL_2967,13250,itatiba,SP,22,259
-SEL_2968,4795,sao paulo,SP,22,517
-SEL_2969,81530,curitiba,PR,15,159
-SEL_2970,2337,sao paulo,SP,22,517
-SEL_2971,16200,birigui,SP,22,68
-SEL_2972,81630,curitiba,PR,15,159
-SEL_2973,89228,joinville,SC,20,285
-SEL_2974,1026,sao paulo,SP,22,517
-SEL_2975,13905,amparo,SP,22,10
-SEL_2976,13211,jundiai,SP,22,287
-SEL_2977,14940,ibitinga,SP,22,227
-SEL_2978,9560,sao caetano do sul,SP,22,496
-SEL_2979,30840,belo horizonte,MG,8,64
-SEL_2980,2320,sao paulo,SP,22,517
-SEL_2981,35044,governador valadares,MG,8,209
-SEL_2982,15170,tanabi,SP,22,556
-SEL_2983,33936,ribeirao das neves,MG,8,440
-SEL_2984,5522,sao paulo,SP,22,517
-SEL_2985,9321,maua,SP,22,328
-SEL_2986,13845,mogi guacu,SP,22,342
-SEL_2987,71551,brasilia,DF,4,81
-SEL_2988,2969,sao paulo,SP,22,517
-SEL_2989,22793,"rio de janeiro, rio de janeiro, brasil",RJ,16,453
-SEL_2990,31842,belo horizonte,MG,8,64
-SEL_2991,4705,sao paulo,SP,22,517
-SEL_2992,31910,belo horizonte,MG,8,64
-SEL_2993,20710,rio de janeiro,RJ,16,450
-SEL_2994,89041,blumenau,SC,20,69
-SEL_2995,37550,pouso alegre,MG,8,428
-SEL_2996,8820,mogi das cruzes,SP,22,340
-SEL_2997,14940,ibitinga,SP,22,227
-SEL_2998,9895,sao bernardo do campo,SP,22,494
-SEL_2999,3211,sao paulo,SP,22,517
-SEL_3000,4360,sao paulo,SP,22,517
-SEL_3001,3064,sao paulo,SP,22,517
-SEL_3002,17512,marilia,SP,22,324
-SEL_3003,6453,barueri,SP,22,58
-SEL_3004,88316,itajai,SC,20,249
-SEL_3005,13920,pedreira,SP,22,398
-SEL_3006,35180,timoteo,MG,8,566
-SEL_3007,8810,mogi das cruzes,SP,22,340
-SEL_3008,3937,sao paulo,SP,22,517
-SEL_3009,3340,sao paulo,SP,22,517
-SEL_3010,3437,sao paulo,SP,22,517
-SEL_3011,29480,muqui,ES,5,353
-SEL_3012,89255,jaragua do sul,SC,20,278
-SEL_3013,36010,juiz de fora,MG,8,286
-SEL_3014,3679,sao paulo,SP,22,517
-SEL_3015,14610,ipua,SP,22,243
-SEL_3016,12306,jacarei / sao paulo,SP,22,267
-SEL_3017,63540,varzea alegre,CE,3,591
-SEL_3018,8615,suzano,SP,22,550
-SEL_3019,12512,guaratingueta,SP,22,216
-SEL_3020,4281,sao paulo,SP,22,517
-SEL_3021,13710,tambau,SP,22,555
-SEL_3022,13601,araras,SP,22,29
-SEL_3023,13720,sao jose do rio pardo,SP,22,505
-SEL_3024,38022,uberaba,MG,8,581
-SEL_3025,20521,rio de janeiro,RJ,16,450
-SEL_3026,84500,irati,PR,15,244
-SEL_3027,14085,riberao preto,SP,22,445
-SEL_3028,86600,rolandia,PR,15,461
-SEL_3029,37708,pocos de caldas,MG,8,417
-SEL_3030,52011,recife,PE,13,437
-SEL_3031,88063,florianopolis,SC,20,190
-SEL_3032,13253,itatiba,SP,22,259
-SEL_3033,90630,porto alegre,RS,19,422
-SEL_3034,4041,sao paulo,SP,22,517
-SEL_3035,89136,rodeio,SC,20,460
-SEL_3036,19020,presidente prudente,SP,22,435
-SEL_3037,31160,belo horizonte,SP,22,64
-SEL_3038,26510,nilopolis,RJ,16,359
-SEL_3039,20020,rio de janeiro,RJ,16,450
-SEL_3040,39400,montes claros,MG,8,350
-SEL_3041,93032,sao leopoldo,RS,19,511
-SEL_3042,12327,jacarei,SP,22,266
-SEL_3043,9981,diadema,SP,22,162
-SEL_3044,89812,chapeco,SC,20,134
-SEL_3045,13600,sao paulo,SP,22,517
-SEL_3046,71065,brasilia,DF,4,81
-SEL_3047,41342,salvador,BA,2,467
-SEL_3048,22793,rio de janeiro,RJ,16,450
-SEL_3049,87045,maringa,PR,15,325
-SEL_3050,3121,sao paulo,SP,22,517
-SEL_3051,73813,formosa,GO,6,192
-SEL_3052,25561,sao joao de meriti,RJ,16,501
-SEL_3053,74930,aparecida de goiania,GO,6,19
-SEL_3054,3029,sao paulo,SP,22,517
-SEL_3055,3572,sao paulo,SP,22,517
-SEL_3056,37590,jacutinga,MG,8,270
-SEL_3057,89036,blumenau,SC,20,69
-SEL_3058,24020,niteroi,RJ,16,360
-SEL_3059,4771,sao paulo,SP,22,517
-SEL_3060,14025,ribeirao preto,SP,22,442
-SEL_3061,38405,uberlandia,MG,8,582
-SEL_3062,2122,sao paulo,SP,22,517
-SEL_3063,13273,valinhos,SP,22,587
-SEL_3064,31310,belo horizonte,MG,8,64
-SEL_3065,86360,bandeirantes,PR,15,49
-SEL_3066,82900,curitiba,PR,15,159
-SEL_3067,5734,sao paulo,SP,22,517
-SEL_3068,20770,rio de janeiro,RJ,16,450
-SEL_3069,15054,sao jose do rio preto,SP,22,507
-SEL_3070,14940,ibitinga,SP,22,227
-SEL_3071,2968,sao paulo,SP,22,517
-SEL_3072,89082,indaial,SC,20,237
-SEL_3073,86020,londrina,PR,15,305
-SEL_3074,82200,curitiba,PR,15,159
-SEL_3075,74835,goiania,GO,6,207
-SEL_3076,13186,hortolandia,SP,22,224
-SEL_3077,9550,sao caetano do sul,SP,22,496
-SEL_3078,55602,vitoria de santo antao,PE,13,605
-SEL_3079,13212,jundiai,SP,22,287
-SEL_3080,31565,belo horizonte,MG,8,64
-SEL_3081,14808,araraquara,SP,22,28
-SEL_3082,85950,palotina,PR,15,382
-SEL_3083,25755,petropolis,RJ,16,403
-SEL_3084,6852,itapecerica da serra,SP,22,251
-SEL_3085,36401,conselheiro lafaiete,MG,8,146
-SEL_3086,13613,leme,SP,22,301
-SEL_3087,35530,claudio,MG,8,136
-SEL_3088,1238,sao paulo,SP,22,517
-SEL_3089,5713,sao paulo,SP,22,517
-SEL_3090,5314,sao paulo,SP,22,517
-SEL_3091,87111,sarandi,PR,15,531
-SEL_3092,88137,palhoca,SC,20,381
-SEL_3093,4650,sao paulo,SP,22,517
-SEL_3094,96080,pelotas,RS,19,401
-SEL_3095,12051,taubate,SP,22,559
+seller_id,seller_zip_code_prefix,seller_city,seller_state
+SEL_1,13023,101,22
+SEL_2,13844,342,22
+SEL_3,20031,450,16
+SEL_4,4195,517,22
+SEL_5,12914,80,22
+SEL_6,20920,450,16
+SEL_7,55325,83,13
+SEL_8,16304,402,22
+SEL_9,1529,517,22
+SEL_10,80310,159,15
+SEL_11,75110,12,6
+SEL_12,13530,262,22
+SEL_13,1222,517,22
+SEL_14,5372,517,22
+SEL_15,88705,577,20
+SEL_16,42738,300,2
+SEL_17,88780,234,20
+SEL_18,70740,81,4
+SEL_19,45810,425,2
+SEL_20,5138,517,22
+SEL_21,11440,219,22
+SEL_22,14910,552,22
+SEL_23,4156,517,22
+SEL_24,13320,466,22
+SEL_25,98910,573,19
+SEL_26,30494,64,8
+SEL_27,86707,25,15
+SEL_28,9850,494,22
+SEL_29,4857,517,22
+SEL_30,18500,558,22
+SEL_31,80210,159,15
+SEL_32,2261,517,22
+SEL_33,88495,203,20
+SEL_34,3562,517,22
+SEL_35,37650,95,8
+SEL_36,17602,578,22
+SEL_37,7241,220,22
+SEL_38,83050,509,15
+SEL_39,3445,517,22
+SEL_40,4133,517,22
+SEL_41,72233,81,4
+SEL_42,70645,81,4
+SEL_43,88730,512,20
+SEL_44,88075,504,20
+SEL_45,13416,411,22
+SEL_46,90850,422,19
+SEL_47,37584,144,8
+SEL_48,31950,64,8
+SEL_49,31555,64,8
+SEL_50,9251,483,22
+SEL_51,4705,517,22
+SEL_52,6144,374,22
+SEL_53,13270,587,22
+SEL_54,89214,285,20
+SEL_55,11446,219,22
+SEL_56,28990,530,16
+SEL_57,88390,54,20
+SEL_58,25730,403,16
+SEL_59,95500,486,19
+SEL_60,84010,419,15
+SEL_61,6544,482,22
+SEL_62,9121,483,22
+SEL_63,13568,497,22
+SEL_64,6056,374,22
+SEL_65,14940,227,22
+SEL_66,5741,517,22
+SEL_67,83010,509,15
+SEL_68,3702,517,22
+SEL_69,6429,58,22
+SEL_70,6192,374,22
+SEL_71,95076,131,22
+SEL_72,3569,517,22
+SEL_73,89207,285,20
+SEL_74,38440,24,8
+SEL_75,32180,147,8
+SEL_76,89258,278,20
+SEL_77,14940,227,22
+SEL_78,9715,494,22
+SEL_79,88501,291,20
+SEL_80,95711,65,19
+SEL_81,15805,129,22
+SEL_82,9400,441,22
+SEL_83,4726,517,22
+SEL_84,14882,265,22
+SEL_85,19830,170,22
+SEL_86,6713,153,22
+SEL_87,89160,455,20
+SEL_88,4275,517,22
+SEL_89,18040,546,22
+SEL_90,21235,450,16
+SEL_91,14850,429,22
+SEL_92,22420,450,16
+SEL_93,1125,517,22
+SEL_94,24813,247,16
+SEL_95,5786,517,22
+SEL_96,15137,337,22
+SEL_97,9190,483,22
+SEL_98,16200,68,22
+SEL_99,3569,517,22
+SEL_100,31730,64,8
+SEL_101,20785,450,16
+SEL_102,20060,450,16
+SEL_103,14940,227,22
+SEL_104,12401,517,22
+SEL_105,1425,517,22
+SEL_106,19803,38,22
+SEL_107,13820,271,22
+SEL_108,14801,28,22
+SEL_109,27963,310,16
+SEL_110,13320,466,22
+SEL_111,13504,448,22
+SEL_112,86039,305,15
+SEL_113,5101,517,22
+SEL_114,14010,442,22
+SEL_115,21210,450,17
+SEL_116,37410,571,8
+SEL_117,4248,517,22
+SEL_118,15190,358,22
+SEL_119,14940,227,22
+SEL_120,3514,517,22
+SEL_121,71070,81,4
+SEL_122,6465,58,22
+SEL_123,1044,517,22
+SEL_124,88870,373,20
+SEL_125,70384,81,4
+SEL_126,2310,517,22
+SEL_127,2016,517,22
+SEL_128,78095,158,10
+SEL_129,13575,497,22
+SEL_130,1040,517,22
+SEL_131,3322,517,22
+SEL_132,20261,450,16
+SEL_133,85830,193,15
+SEL_134,23550,450,16
+SEL_135,11085,489,22
+SEL_136,3417,517,22
+SEL_137,76500,480,6
+SEL_138,81210,159,15
+SEL_139,8260,517,22
+SEL_140,95995,37,19
+SEL_141,4674,517,22
+SEL_142,14020,442,22
+SEL_143,36525,221,8
+SEL_144,95072,131,19
+SEL_145,55004,123,13
+SEL_146,80045,159,15
+SEL_147,14401,196,22
+SEL_148,81030,159,15
+SEL_149,40243,467,2
+SEL_150,9951,162,22
+SEL_151,8573,258,22
+SEL_152,18682,302,22
+SEL_153,7091,220,22
+SEL_154,6341,115,22
+SEL_155,76400,585,6
+SEL_156,88301,249,20
+SEL_157,3280,517,22
+SEL_158,1545,517,22
+SEL_159,1026,517,22
+SEL_160,80620,159,15
+SEL_161,87900,304,15
+SEL_162,3186,517,22
+SEL_163,19400,517,22
+SEL_164,2839,517,22
+SEL_165,87014,325,15
+SEL_166,1207,517,22
+SEL_167,1411,517,22
+SEL_168,30190,64,8
+SEL_169,8502,186,22
+SEL_170,1541,517,22
+SEL_171,13481,303,22
+SEL_172,11040,489,22
+SEL_173,6436,58,22
+SEL_174,2310,517,22
+SEL_175,35530,136,8
+SEL_176,14080,442,22
+SEL_177,24355,360,16
+SEL_178,17700,375,22
+SEL_179,6380,115,22
+SEL_180,6016,374,22
+SEL_181,24451,499,16
+SEL_182,78820,269,10
+SEL_183,88330,47,20
+SEL_184,4009,517,22
+SEL_185,89120,565,20
+SEL_186,14075,442,22
+SEL_187,5424,517,22
+SEL_188,99730,270,19
+SEL_189,60440,194,3
+SEL_190,7242,220,22
+SEL_191,7051,220,22
+SEL_192,8517,185,22
+SEL_193,16800,336,22
+SEL_194,89228,285,20
+SEL_195,30421,64,8
+SEL_196,17056,60,22
+SEL_197,12308,266,22
+SEL_198,13304,263,22
+SEL_199,85301,298,22
+SEL_200,3554,517,22
+SEL_201,89560,602,20
+SEL_202,88058,190,20
+SEL_203,6853,251,22
+SEL_204,58280,315,12
+SEL_205,8490,517,22
+SEL_206,35430,420,8
+SEL_207,87360,208,22
+SEL_208,17280,396,22
+SEL_209,6653,255,22
+SEL_210,74563,207,6
+SEL_211,4821,517,22
+SEL_212,21820,450,16
+SEL_213,1026,517,22
+SEL_214,3308,517,22
+SEL_215,95070,131,19
+SEL_216,9640,494,22
+SEL_217,58400,100,12
+SEL_218,93608,176,19
+SEL_219,27525,439,16
+SEL_220,89251,278,20
+SEL_221,2215,517,22
+SEL_222,5524,517,22
+SEL_223,22790,450,16
+SEL_224,8041,517,22
+SEL_225,5715,517,22
+SEL_226,88032,190,20
+SEL_227,18055,546,22
+SEL_228,2112,517,22
+SEL_229,14075,442,22
+SEL_230,18048,546,22
+SEL_231,9336,328,22
+SEL_232,17030,60,22
+SEL_233,17052,60,22
+SEL_234,30620,64,8
+SEL_235,13327,466,22
+SEL_236,74343,207,6
+SEL_237,35300,117,8
+SEL_238,15350,41,22
+SEL_239,21240,450,16
+SEL_240,14407,196,22
+SEL_241,16500,91,22
+SEL_242,2518,517,22
+SEL_243,14050,442,22
+SEL_244,88730,512,20
+SEL_245,36502,579,8
+SEL_246,9751,494,22
+SEL_247,3407,519,22
+SEL_248,14940,227,22
+SEL_249,87035,325,15
+SEL_250,15062,507,22
+SEL_251,13064,101,22
+SEL_252,21020,450,16
+SEL_253,13660,424,22
+SEL_254,95660,572,19
+SEL_255,9080,483,22
+SEL_256,89031,69,20
+SEL_257,9110,483,22
+SEL_258,9230,483,22
+SEL_259,3951,517,22
+SEL_260,3172,517,22
+SEL_261,3334,517,22
+SEL_262,89070,69,20
+SEL_263,8773,340,22
+SEL_264,11013,489,22
+SEL_265,6286,374,22
+SEL_266,15155,268,22
+SEL_267,35530,136,8
+SEL_268,74045,207,6
+SEL_269,18500,297,22
+SEL_270,18048,546,22
+SEL_271,1126,517,22
+SEL_272,13478,9,22
+SEL_273,1303,517,22
+SEL_274,2739,517,22
+SEL_275,20921,450,16
+SEL_276,86170,540,22
+SEL_277,14940,227,22
+SEL_278,86808,21,15
+SEL_279,15046,507,22
+SEL_280,22230,450,16
+SEL_281,87035,325,15
+SEL_282,4102,517,22
+SEL_283,7052,220,22
+SEL_284,16301,402,22
+SEL_285,24020,360,16
+SEL_286,89204,285,20
+SEL_287,83408,139,15
+SEL_288,11450,600,22
+SEL_289,26562,331,16
+SEL_290,86010,305,15
+SEL_291,2051,522,22
+SEL_292,88056,190,20
+SEL_293,30550,64,8
+SEL_294,2820,517,22
+SEL_295,85802,125,15
+SEL_296,83830,181,15
+SEL_297,4508,517,22
+SEL_298,6775,553,22
+SEL_299,1550,517,22
+SEL_300,22783,450,16
+SEL_301,81070,159,15
+SEL_302,4716,517,22
+SEL_303,12233,508,22
+SEL_304,7084,220,22
+SEL_305,3384,517,22
+SEL_306,85903,569,15
+SEL_307,82510,159,15
+SEL_308,15081,507,22
+SEL_309,8411,517,22
+SEL_310,17047,60,22
+SEL_311,11045,489,22
+SEL_312,85960,321,22
+SEL_313,80010,159,15
+SEL_314,8710,340,22
+SEL_315,91130,422,19
+SEL_316,12238,508,22
+SEL_317,6236,374,22
+SEL_318,13203,287,22
+SEL_319,83800,319,15
+SEL_320,3551,517,22
+SEL_321,8655,550,22
+SEL_322,33200,597,8
+SEL_323,80040,159,15
+SEL_324,20735,450,16
+SEL_325,89031,69,20
+SEL_326,1417,517,22
+SEL_327,98780,478,19
+SEL_328,15015,507,22
+SEL_329,14600,503,22
+SEL_330,5125,517,22
+SEL_331,81050,159,15
+SEL_332,13830,488,22
+SEL_333,1212,517,22
+SEL_334,97502,586,19
+SEL_335,80215,159,15
+SEL_336,6703,153,22
+SEL_337,13480,303,22
+SEL_338,37400,98,8
+SEL_339,14940,227,22
+SEL_340,4811,517,22
+SEL_341,75640,410,6
+SEL_342,3306,517,22
+SEL_343,95034,131,19
+SEL_344,30640,64,8
+SEL_345,89701,142,20
+SEL_346,2880,517,22
+SEL_347,3688,517,22
+SEL_348,74043,207,6
+SEL_349,37540,477,8
+SEL_350,81925,159,15
+SEL_351,6246,374,22
+SEL_352,80510,159,15
+SEL_353,80240,159,15
+SEL_354,14780,55,22
+SEL_355,13330,238,22
+SEL_356,26525,359,16
+SEL_357,9380,328,22
+SEL_358,17580,418,22
+SEL_359,44895,57,2
+SEL_360,13840,342,22
+SEL_361,4557,532,22
+SEL_362,4311,517,22
+SEL_363,11702,431,22
+SEL_364,14406,196,22
+SEL_365,22783,450,22
+SEL_366,89128,308,20
+SEL_367,2036,517,22
+SEL_368,6038,374,22
+SEL_369,88351,85,20
+SEL_370,88804,156,20
+SEL_371,5729,517,22
+SEL_372,6519,482,22
+SEL_373,6016,374,22
+SEL_374,89222,285,20
+SEL_375,2252,517,22
+SEL_376,7179,220,22
+SEL_377,31050,64,8
+SEL_378,13480,303,22
+SEL_379,15805,129,22
+SEL_380,89052,69,20
+SEL_381,31255,64,8
+SEL_382,15704,273,22
+SEL_383,20270,450,16
+SEL_384,86060,305,15
+SEL_385,12944,39,22
+SEL_386,69900,447,0
+SEL_387,86046,305,15
+SEL_388,27321,53,16
+SEL_389,5632,517,22
+SEL_390,3161,517,22
+SEL_391,4782,517,22
+SEL_392,14403,196,22
+SEL_393,87013,325,15
+SEL_394,9405,441,22
+SEL_395,2310,517,22
+SEL_396,4363,517,22
+SEL_397,1539,517,22
+SEL_398,13560,497,22
+SEL_399,2238,517,22
+SEL_400,15055,507,22
+SEL_401,82220,159,15
+SEL_402,17520,324,22
+SEL_403,3060,517,22
+SEL_404,9443,441,22
+SEL_405,14096,442,22
+SEL_406,48602,46,2
+SEL_407,91740,422,19
+SEL_408,86047,305,15
+SEL_409,85807,125,15
+SEL_410,12020,559,22
+SEL_411,85802,124,15
+SEL_412,1320,517,22
+SEL_413,12250,348,22
+SEL_414,81250,159,15
+SEL_415,29138,599,5
+SEL_416,7145,220,22
+SEL_417,88107,504,20
+SEL_418,25850,385,16
+SEL_419,13730,338,22
+SEL_420,18130,525,22
+SEL_421,37900,390,8
+SEL_422,14940,227,22
+SEL_423,85603,197,15
+SEL_424,3821,517,22
+SEL_425,36512,568,22
+SEL_426,76400,585,6
+SEL_427,87083,325,15
+SEL_428,74473,207,6
+SEL_429,21931,450,16
+SEL_430,14055,442,22
+SEL_431,88210,423,20
+SEL_432,13105,101,22
+SEL_433,26255,362,16
+SEL_434,3343,517,22
+SEL_435,17512,324,22
+SEL_436,88820,228,20
+SEL_437,3543,517,22
+SEL_438,95910,295,19
+SEL_439,3694,517,22
+SEL_440,3029,517,22
+SEL_441,37540,477,8
+SEL_442,13042,101,22
+SEL_443,1201,517,22
+SEL_444,9230,483,22
+SEL_445,88359,85,20
+SEL_446,98920,223,19
+SEL_447,4364,517,22
+SEL_448,3416,517,22
+SEL_449,9350,328,22
+SEL_450,1214,517,22
+SEL_451,2880,517,22
+SEL_452,9220,483,22
+SEL_453,18110,607,22
+SEL_454,35530,136,8
+SEL_455,93700,102,19
+SEL_456,3659,517,22
+SEL_457,1123,517,22
+SEL_458,15910,346,22
+SEL_459,3103,517,22
+SEL_460,14078,442,22
+SEL_461,15601,184,22
+SEL_462,89041,69,20
+SEL_463,17500,324,22
+SEL_464,84010,419,15
+SEL_465,7093,220,22
+SEL_466,31560,64,8
+SEL_467,13920,398,22
+SEL_468,86800,21,15
+SEL_469,7062,220,22
+SEL_470,88351,85,20
+SEL_471,8550,416,22
+SEL_472,3471,517,22
+SEL_473,87047,325,15
+SEL_474,82040,159,15
+SEL_475,15025,507,22
+SEL_476,35500,163,8
+SEL_477,13450,471,22
+SEL_478,92025,112,19
+SEL_479,13310,263,22
+SEL_480,89217,285,20
+SEL_481,13375,344,22
+SEL_482,9628,494,22
+SEL_483,6539,482,22
+SEL_484,81350,159,15
+SEL_485,86040,305,15
+SEL_486,14405,196,22
+SEL_487,35700,541,8
+SEL_488,37165,103,8
+SEL_489,85904,569,15
+SEL_490,8780,340,22
+SEL_491,13219,287,22
+SEL_492,17509,324,22
+SEL_493,60741,194,3
+SEL_494,3311,517,22
+SEL_495,13490,148,22
+SEL_496,38410,582,8
+SEL_497,75123,12,6
+SEL_498,14092,442,22
+SEL_499,15085,507,22
+SEL_500,4578,517,22
+SEL_501,91310,422,19
+SEL_502,20756,450,16
+SEL_503,1233,517,22
+SEL_504,8223,517,22
+SEL_505,4782,517,22
+SEL_506,83402,139,15
+SEL_507,9920,162,22
+SEL_508,13419,411,22
+SEL_509,20021,450,16
+SEL_510,18072,546,22
+SEL_511,13456,469,22
+SEL_512,13920,398,22
+SEL_513,86702,25,15
+SEL_514,27277,606,22
+SEL_515,13660,424,22
+SEL_516,89030,69,20
+SEL_517,6787,553,22
+SEL_518,22790,0,16
+SEL_519,16072,23,22
+SEL_520,81830,159,15
+SEL_521,74210,207,6
+SEL_522,16200,68,22
+SEL_523,18070,546,22
+SEL_524,37580,347,8
+SEL_525,13073,101,22
+SEL_526,89248,205,20
+SEL_527,38650,76,8
+SEL_528,13150,152,22
+SEL_529,14092,442,22
+SEL_530,15800,129,22
+SEL_531,1215,517,22
+SEL_532,24451,499,16
+SEL_533,4386,517,22
+SEL_534,5547,517,22
+SEL_535,21070,450,16
+SEL_536,37706,417,8
+SEL_537,24725,499,16
+SEL_538,13160,35,22
+SEL_539,11015,489,22
+SEL_540,4209,517,22
+SEL_541,30575,64,8
+SEL_542,6513,482,22
+SEL_543,20520,450,16
+SEL_544,58030,283,12
+SEL_545,17300,165,22
+SEL_546,89245,26,20
+SEL_547,1220,517,22
+SEL_548,90230,422,19
+SEL_549,83075,509,15
+SEL_550,31570,64,22
+SEL_551,36500,579,8
+SEL_552,93310,368,19
+SEL_553,84035,419,15
+SEL_554,80330,159,15
+SEL_555,89218,285,20
+SEL_556,88056,187,20
+SEL_557,15155,268,22
+SEL_558,13170,549,22
+SEL_559,83070,509,15
+SEL_560,9350,328,22
+SEL_561,85980,211,15
+SEL_562,2118,517,22
+SEL_563,12242,508,22
+SEL_564,29313,90,5
+SEL_565,14150,539,22
+SEL_566,5108,517,22
+SEL_567,86604,461,15
+SEL_568,4360,517,22
+SEL_569,23062,450,16
+SEL_570,3029,517,22
+SEL_571,4054,517,22
+SEL_572,36415,145,8
+SEL_573,15046,507,22
+SEL_574,5537,517,22
+SEL_575,12943,39,22
+SEL_576,6852,251,22
+SEL_577,83091,490,15
+SEL_578,18035,546,22
+SEL_579,18550,72,22
+SEL_580,13405,411,22
+SEL_581,3275,517,22
+SEL_582,14400,196,22
+SEL_583,88495,203,20
+SEL_584,90010,422,19
+SEL_585,17604,578,22
+SEL_586,3612,517,22
+SEL_587,5268,517,22
+SEL_588,13660,424,22
+SEL_589,3059,517,22
+SEL_590,7600,314,22
+SEL_591,1547,517,22
+SEL_592,13041,101,22
+SEL_593,16480,210,22
+SEL_594,95360,384,19
+SEL_595,17700,375,22
+SEL_596,9862,494,22
+SEL_597,37706,417,8
+SEL_598,28495,20,16
+SEL_599,35500,163,8
+SEL_600,1021,517,22
+SEL_601,17605,578,22
+SEL_602,80610,159,15
+SEL_603,18053,546,22
+SEL_604,88715,272,20
+SEL_605,86707,25,15
+SEL_606,26210,362,16
+SEL_607,8250,517,22
+SEL_608,29101,603,22
+SEL_609,14801,28,22
+SEL_610,9182,483,22
+SEL_611,89210,285,20
+SEL_612,13085,101,22
+SEL_613,21070,450,16
+SEL_614,7194,220,22
+SEL_615,36052,286,8
+SEL_616,23080,450,16
+SEL_617,38230,200,8
+SEL_618,14960,369,22
+SEL_619,18185,405,22
+SEL_620,15840,250,22
+SEL_621,87050,325,15
+SEL_622,4815,517,22
+SEL_623,29142,120,5
+SEL_624,36320,430,8
+SEL_625,88020,190,20
+SEL_626,13560,497,22
+SEL_627,11065,489,22
+SEL_628,8598,258,22
+SEL_629,62170,352,3
+SEL_630,83409,139,15
+SEL_631,13504,448,22
+SEL_632,14940,227,22
+SEL_633,95705,65,19
+SEL_634,4041,517,22
+SEL_635,12080,559,22
+SEL_636,81210,159,15
+SEL_637,87050,325,15
+SEL_638,86026,305,15
+SEL_639,1244,517,22
+SEL_640,39400,350,8
+SEL_641,82810,159,15
+SEL_642,4613,517,22
+SEL_643,9694,494,22
+SEL_644,11701,431,22
+SEL_645,7152,220,22
+SEL_646,92310,112,19
+SEL_647,82510,159,15
+SEL_648,36570,601,8
+SEL_649,13090,101,22
+SEL_650,5201,517,22
+SEL_651,3126,517,22
+SEL_652,21041,450,16
+SEL_653,82130,159,15
+SEL_654,76804,426,18
+SEL_655,40130,467,2
+SEL_656,13720,505,22
+SEL_657,32260,147,8
+SEL_658,85501,392,15
+SEL_659,36301,502,8
+SEL_660,14091,442,22
+SEL_661,19042,435,22
+SEL_662,8743,340,22
+SEL_663,26600,383,16
+SEL_664,13312,263,22
+SEL_665,13930,537,22
+SEL_666,15052,507,22
+SEL_667,9541,496,22
+SEL_668,1420,517,22
+SEL_669,1239,517,22
+SEL_670,13418,411,22
+SEL_671,13820,271,22
+SEL_672,4001,517,22
+SEL_673,17051,60,22
+SEL_674,15081,507,22
+SEL_675,9550,496,22
+SEL_676,89256,278,20
+SEL_677,2523,517,22
+SEL_678,5462,517,22
+SEL_679,83411,139,15
+SEL_680,89069,69,20
+SEL_681,36010,286,22
+SEL_682,4154,517,22
+SEL_683,28660,73,16
+SEL_684,58385,538,12
+SEL_685,14940,227,22
+SEL_686,82800,159,15
+SEL_687,4133,517,22
+SEL_688,2851,517,22
+SEL_689,89240,498,20
+SEL_690,7052,220,22
+SEL_691,29104,603,5
+SEL_692,19010,435,22
+SEL_693,32672,67,8
+SEL_694,1303,517,22
+SEL_695,4676,517,22
+SEL_696,3910,517,22
+SEL_697,81200,159,15
+SEL_698,9411,441,22
+SEL_699,81070,159,15
+SEL_700,84430,235,15
+SEL_701,83280,217,15
+SEL_702,91520,422,22
+SEL_703,5615,517,22
+SEL_704,64033,561,14
+SEL_705,4164,517,22
+SEL_706,91360,422,19
+SEL_707,14406,196,22
+SEL_708,89900,514,20
+SEL_709,18550,72,22
+SEL_710,12941,39,22
+SEL_711,12230,508,22
+SEL_712,18132,525,22
+SEL_713,86820,94,15
+SEL_714,8020,517,22
+SEL_715,14802,28,22
+SEL_716,7135,220,22
+SEL_717,17600,578,22
+SEL_718,2562,517,22
+SEL_719,84920,276,15
+SEL_720,20751,450,16
+SEL_721,70610,81,4
+SEL_722,9190,483,22
+SEL_723,85851,195,15
+SEL_724,12080,559,22
+SEL_725,9780,494,22
+SEL_726,13483,303,22
+SEL_727,13180,549,22
+SEL_728,2215,517,22
+SEL_729,8583,258,22
+SEL_730,28633,361,16
+SEL_731,21862,450,16
+SEL_732,4438,517,22
+SEL_733,3521,517,22
+SEL_734,30120,64,8
+SEL_735,37975,260,8
+SEL_736,3654,517,22
+SEL_737,36050,286,8
+SEL_738,88085,190,20
+SEL_739,5171,517,22
+SEL_740,16200,68,22
+SEL_741,35540,371,8
+SEL_742,34710,465,8
+SEL_743,19865,399,22
+SEL_744,9810,494,22
+SEL_745,31510,64,8
+SEL_746,2515,517,22
+SEL_747,15500,608,22
+SEL_748,19025,435,22
+SEL_749,13825,222,22
+SEL_750,8752,340,22
+SEL_751,88901,27,20
+SEL_752,83324,406,15
+SEL_753,2117,517,22
+SEL_754,9540,496,22
+SEL_755,4361,517,22
+SEL_756,3306,517,22
+SEL_757,86047,305,15
+SEL_758,4213,517,22
+SEL_759,14092,442,22
+SEL_760,14026,442,22
+SEL_761,16200,68,22
+SEL_762,1254,517,22
+SEL_763,74435,207,6
+SEL_764,1026,517,22
+SEL_765,26020,362,16
+SEL_766,7140,220,22
+SEL_767,90560,422,19
+SEL_768,3307,517,22
+SEL_769,2804,517,22
+SEL_770,13480,303,22
+SEL_771,22790,450,16
+SEL_772,85948,391,15
+SEL_773,99500,118,19
+SEL_774,38680,32,8
+SEL_775,13520,523,22
+SEL_776,88504,290,20
+SEL_777,4122,517,22
+SEL_778,9320,328,22
+SEL_779,1223,517,22
+SEL_780,13660,424,22
+SEL_781,6365,115,22
+SEL_782,85640,11,15
+SEL_783,35500,163,8
+SEL_784,30180,64,8
+SEL_785,83010,509,15
+SEL_786,1026,517,22
+SEL_787,35680,261,8
+SEL_788,11443,219,22
+SEL_789,3065,517,22
+SEL_790,88063,190,20
+SEL_791,3533,517,22
+SEL_792,91901,422,19
+SEL_793,13800,343,22
+SEL_794,89224,285,20
+SEL_795,89520,160,20
+SEL_796,71906,82,4
+SEL_797,37410,571,8
+SEL_798,5849,517,22
+SEL_799,60346,194,3
+SEL_800,1403,517,22
+SEL_801,2727,517,22
+SEL_802,12215,508,22
+SEL_803,8710,339,22
+SEL_804,2565,517,22
+SEL_805,4256,517,22
+SEL_806,13088,101,22
+SEL_807,13185,224,22
+SEL_808,4160,517,22
+SEL_809,30310,64,8
+SEL_810,87025,325,15
+SEL_811,20771,450,16
+SEL_812,12940,39,22
+SEL_813,88210,423,20
+SEL_814,85900,569,15
+SEL_815,17511,324,22
+SEL_816,82940,159,15
+SEL_817,35162,239,8
+SEL_818,95059,131,19
+SEL_819,88790,294,22
+SEL_820,13920,398,22
+SEL_821,2407,517,22
+SEL_822,13041,101,22
+SEL_823,12942,39,22
+SEL_824,36071,286,8
+SEL_825,1310,517,22
+SEL_826,36213,167,8
+SEL_827,5353,518,22
+SEL_828,2532,517,22
+SEL_829,9560,496,22
+SEL_830,13603,29,22
+SEL_831,37142,164,8
+SEL_832,5138,517,22
+SEL_833,7071,220,22
+SEL_834,9111,483,22
+SEL_835,18040,546,22
+SEL_836,13085,101,22
+SEL_837,17350,229,22
+SEL_838,13473,9,22
+SEL_839,88353,85,20
+SEL_840,88350,85,20
+SEL_841,9510,496,22
+SEL_842,38412,582,8
+SEL_843,14750,415,22
+SEL_844,30120,64,8
+SEL_845,14400,196,22
+SEL_846,4131,517,22
+SEL_847,22451,450,16
+SEL_848,4317,517,22
+SEL_849,1001,517,22
+SEL_850,5705,517,22
+SEL_851,81650,159,15
+SEL_852,7160,220,22
+SEL_853,18085,546,22
+SEL_854,81020,159,15
+SEL_855,79090,104,9
+SEL_856,1226,517,22
+SEL_857,3303,517,22
+SEL_858,3567,517,22
+SEL_859,9270,483,22
+SEL_860,17400,202,22
+SEL_861,19470,433,22
+SEL_862,91510,422,19
+SEL_863,14940,227,22
+SEL_864,3613,517,22
+SEL_865,31255,64,8
+SEL_866,14940,227,22
+SEL_867,74340,207,6
+SEL_868,2124,517,22
+SEL_869,14910,552,22
+SEL_870,9726,534,22
+SEL_871,85904,569,15
+SEL_872,81730,159,15
+SEL_873,89211,285,20
+SEL_874,5174,517,22
+SEL_875,45816,34,2
+SEL_876,13481,303,22
+SEL_877,61800,379,3
+SEL_878,13930,537,22
+SEL_879,4087,517,22
+SEL_880,23095,450,16
+SEL_881,73801,192,6
+SEL_882,7023,220,22
+SEL_883,3167,517,22
+SEL_884,4833,517,22
+SEL_885,24346,360,16
+SEL_886,37564,77,8
+SEL_887,81825,159,15
+SEL_888,11680,580,22
+SEL_889,85988,174,15
+SEL_890,13566,497,22
+SEL_891,37540,517,22
+SEL_892,15813,129,22
+SEL_893,11013,489,22
+SEL_894,20751,450,16
+SEL_895,6768,553,22
+SEL_896,3550,517,22
+SEL_897,35570,191,8
+SEL_898,1139,517,22
+SEL_899,11075,489,22
+SEL_900,95012,131,19
+SEL_901,27930,310,16
+SEL_902,42738,300,2
+SEL_903,31230,64,8
+SEL_904,13506,448,22
+SEL_905,95900,295,19
+SEL_906,85804,125,15
+SEL_907,14020,442,22
+SEL_908,95800,594,19
+SEL_909,79107,104,9
+SEL_910,15041,507,22
+SEL_911,88370,356,20
+SEL_912,30130,64,8
+SEL_913,9633,494,22
+SEL_914,6717,153,22
+SEL_915,2220,517,22
+SEL_916,4456,517,22
+SEL_917,11070,489,22
+SEL_918,13481,303,22
+SEL_919,6513,482,22
+SEL_920,81050,159,15
+SEL_921,12701,157,22
+SEL_922,2372,517,22
+SEL_923,14940,227,22
+SEL_924,9920,162,22
+SEL_925,5041,517,22
+SEL_926,87050,325,15
+SEL_927,97050,475,19
+SEL_928,71200,81,4
+SEL_929,18047,546,22
+SEL_930,15085,507,22
+SEL_931,15130,337,22
+SEL_932,6033,374,22
+SEL_933,36886,354,8
+SEL_934,1311,517,22
+SEL_935,2510,517,22
+SEL_936,92420,112,19
+SEL_937,22745,450,16
+SEL_938,9810,494,22
+SEL_939,15076,507,22
+SEL_940,27274,606,16
+SEL_941,7170,220,22
+SEL_942,4144,517,22
+SEL_943,5319,517,22
+SEL_944,5315,517,22
+SEL_945,4827,517,22
+SEL_946,9230,484,22
+SEL_947,95240,241,19
+SEL_948,1230,517,22
+SEL_949,59775,332,17
+SEL_950,25750,403,16
+SEL_951,1224,517,22
+SEL_952,13082,101,22
+SEL_953,2751,517,22
+SEL_954,81540,159,15
+SEL_955,13660,424,22
+SEL_956,37004,590,8
+SEL_957,31130,64,8
+SEL_958,91150,422,19
+SEL_959,72125,81,4
+SEL_960,14050,442,22
+SEL_961,18608,78,22
+SEL_962,81320,159,15
+SEL_963,8220,517,22
+SEL_964,29260,166,5
+SEL_965,13030,101,22
+SEL_966,3644,517,22
+SEL_967,38010,581,8
+SEL_968,19027,435,22
+SEL_969,1031,517,22
+SEL_970,3282,517,22
+SEL_971,35170,151,8
+SEL_972,3390,517,22
+SEL_973,94930,89,19
+SEL_974,5311,517,22
+SEL_975,14940,227,22
+SEL_976,3333,517,22
+SEL_977,9320,328,22
+SEL_978,24754,499,16
+SEL_979,9820,494,22
+SEL_980,15014,464,22
+SEL_981,14092,442,22
+SEL_982,19820,557,22
+SEL_983,4088,517,22
+SEL_984,17400,202,22
+SEL_985,7043,220,22
+SEL_986,38414,582,8
+SEL_987,13481,303,22
+SEL_988,4160,517,22
+SEL_989,4693,517,22
+SEL_990,3060,517,22
+SEL_991,13632,412,22
+SEL_992,2116,517,22
+SEL_993,8280,517,22
+SEL_994,18015,546,22
+SEL_995,18015,546,22
+SEL_996,4567,517,22
+SEL_997,31844,64,8
+SEL_998,14020,442,22
+SEL_999,13030,101,22
+SEL_1000,7402,36,22
+SEL_1001,2035,517,22
+SEL_1002,74223,207,6
+SEL_1003,13575,497,22
+SEL_1004,1156,517,22
+SEL_1005,3363,548,22
+SEL_1006,85802,125,15
+SEL_1007,2258,517,22
+SEL_1008,30310,64,8
+SEL_1009,23954,15,16
+SEL_1010,23050,450,16
+SEL_1011,87015,325,15
+SEL_1012,8673,550,22
+SEL_1013,9850,494,22
+SEL_1014,63020,289,3
+SEL_1015,3370,517,22
+SEL_1016,35501,163,8
+SEL_1017,89170,299,20
+SEL_1018,6717,153,22
+SEL_1019,3372,517,22
+SEL_1020,1319,517,22
+SEL_1021,95270,188,19
+SEL_1022,88780,234,20
+SEL_1023,89256,278,20
+SEL_1024,86035,305,15
+SEL_1025,95780,349,19
+SEL_1026,20051,450,16
+SEL_1027,3382,517,22
+SEL_1028,81200,159,15
+SEL_1029,3673,517,22
+SEL_1030,86802,21,15
+SEL_1031,2189,517,22
+SEL_1032,3077,517,22
+SEL_1033,6036,374,22
+SEL_1034,5030,517,22
+SEL_1035,5634,517,22
+SEL_1036,41820,467,2
+SEL_1037,6753,553,22
+SEL_1038,3059,517,22
+SEL_1039,13660,424,22
+SEL_1040,14470,397,22
+SEL_1041,9210,483,22
+SEL_1042,93542,367,19
+SEL_1043,30111,64,8
+SEL_1044,13930,537,22
+SEL_1045,83015,509,15
+SEL_1046,8730,340,22
+SEL_1047,95560,570,19
+SEL_1048,49055,22,21
+SEL_1049,13484,303,22
+SEL_1050,88316,249,20
+SEL_1051,88135,472,20
+SEL_1052,81930,159,15
+SEL_1053,95076,131,19
+SEL_1054,8111,517,22
+SEL_1055,89254,278,20
+SEL_1056,3331,517,22
+SEL_1057,80060,159,15
+SEL_1058,38770,284,8
+SEL_1059,9271,483,22
+SEL_1060,86706,25,15
+SEL_1061,15115,43,22
+SEL_1062,89053,69,20
+SEL_1063,3632,517,22
+SEL_1064,78552,542,10
+SEL_1065,3804,517,22
+SEL_1066,13330,238,22
+SEL_1067,17510,324,22
+SEL_1068,85065,215,15
+SEL_1069,83707,30,15
+SEL_1070,92030,112,19
+SEL_1071,18683,302,22
+SEL_1072,95110,131,19
+SEL_1073,36015,286,8
+SEL_1074,12020,559,22
+SEL_1075,2992,517,22
+SEL_1076,88115,504,20
+SEL_1077,29090,604,5
+SEL_1078,3225,517,22
+SEL_1079,7013,220,22
+SEL_1080,14300,59,22
+SEL_1081,95082,131,19
+SEL_1082,33400,293,8
+SEL_1083,9911,517,22
+SEL_1084,4711,517,22
+SEL_1085,89801,134,20
+SEL_1086,85801,125,15
+SEL_1087,40285,467,2
+SEL_1088,20520,450,16
+SEL_1089,11701,431,22
+SEL_1090,80710,159,15
+SEL_1091,5051,517,22
+SEL_1092,8840,340,22
+SEL_1093,87502,583,15
+SEL_1094,83709,30,15
+SEL_1095,9690,494,22
+SEL_1096,8225,517,22
+SEL_1097,31110,64,8
+SEL_1098,6460,58,22
+SEL_1099,9220,483,22
+SEL_1100,4602,517,22
+SEL_1101,88359,85,20
+SEL_1102,4781,517,22
+SEL_1103,95055,131,22
+SEL_1104,87083,325,15
+SEL_1105,18040,546,22
+SEL_1106,3244,517,22
+SEL_1107,16200,68,22
+SEL_1108,5782,517,22
+SEL_1109,26112,62,16
+SEL_1110,29156,119,5
+SEL_1111,13272,587,22
+SEL_1112,13101,101,22
+SEL_1113,13043,101,22
+SEL_1114,4111,517,22
+SEL_1115,13820,345,22
+SEL_1116,3087,517,22
+SEL_1117,9370,328,22
+SEL_1118,12903,547,22
+SEL_1119,35590,292,8
+SEL_1120,95690,462,19
+SEL_1121,4216,517,22
+SEL_1122,4119,517,22
+SEL_1123,2755,517,22
+SEL_1124,3057,517,22
+SEL_1125,9570,496,22
+SEL_1126,9070,483,22
+SEL_1127,25963,562,16
+SEL_1128,13604,29,22
+SEL_1129,18480,256,22
+SEL_1130,13330,238,22
+SEL_1131,9810,494,22
+SEL_1132,9010,483,22
+SEL_1133,37564,77,8
+SEL_1134,13015,101,22
+SEL_1135,3513,517,22
+SEL_1136,7113,220,22
+SEL_1137,14406,196,22
+SEL_1138,18680,302,22
+SEL_1139,4308,517,22
+SEL_1140,14940,227,22
+SEL_1141,89218,285,20
+SEL_1142,81350,159,15
+SEL_1143,1209,517,22
+SEL_1144,6290,374,22
+SEL_1145,11704,431,22
+SEL_1146,7122,220,22
+SEL_1147,22785,450,16
+SEL_1148,7094,220,22
+SEL_1149,9895,494,22
+SEL_1150,8215,517,22
+SEL_1151,13561,497,22
+SEL_1152,5319,517,22
+SEL_1153,30710,64,8
+SEL_1154,86707,25,15
+SEL_1155,83605,105,15
+SEL_1156,18131,525,22
+SEL_1157,14804,28,22
+SEL_1158,2274,517,22
+SEL_1159,25550,501,16
+SEL_1160,9380,329,22
+SEL_1161,6501,482,22
+SEL_1162,4880,517,22
+SEL_1163,12955,74,22
+SEL_1164,3449,517,22
+SEL_1165,4296,517,22
+SEL_1166,4564,517,22
+SEL_1167,5639,517,22
+SEL_1168,2047,517,22
+SEL_1169,83820,181,15
+SEL_1170,4186,517,22
+SEL_1171,5059,517,22
+SEL_1172,5588,517,22
+SEL_1173,9291,483,22
+SEL_1174,17380,84,22
+SEL_1175,3236,517,22
+SEL_1176,2376,517,22
+SEL_1177,9111,483,22
+SEL_1178,8411,517,22
+SEL_1179,2034,517,22
+SEL_1180,14940,227,22
+SEL_1181,44900,245,2
+SEL_1182,79400,154,9
+SEL_1183,8577,258,22
+SEL_1184,14940,227,22
+SEL_1185,3184,517,22
+SEL_1186,17210,280,22
+SEL_1187,29102,603,5
+SEL_1188,36408,146,8
+SEL_1189,83322,406,15
+SEL_1190,88704,577,20
+SEL_1191,8320,517,22
+SEL_1192,38442,24,8
+SEL_1193,3548,517,22
+SEL_1194,86050,305,15
+SEL_1195,5528,517,22
+SEL_1196,20931,450,16
+SEL_1197,6341,115,22
+SEL_1198,6714,153,22
+SEL_1199,86804,21,15
+SEL_1200,5727,517,22
+SEL_1201,13900,10,22
+SEL_1202,92120,112,19
+SEL_1203,89900,515,20
+SEL_1204,28630,361,16
+SEL_1205,36500,579,8
+SEL_1206,89114,206,20
+SEL_1207,28800,446,16
+SEL_1208,7174,220,22
+SEL_1209,90640,422,19
+SEL_1210,88501,290,20
+SEL_1211,80420,159,15
+SEL_1212,16300,402,22
+SEL_1213,1023,517,22
+SEL_1214,6341,115,22
+SEL_1215,4447,517,22
+SEL_1216,19814,38,22
+SEL_1217,89170,299,20
+SEL_1218,13275,587,22
+SEL_1219,5503,517,22
+SEL_1220,37540,477,8
+SEL_1221,13202,287,22
+SEL_1222,81110,159,15
+SEL_1223,29304,90,5
+SEL_1224,8150,517,22
+SEL_1225,86706,25,15
+SEL_1226,31030,64,8
+SEL_1227,20031,450,16
+SEL_1228,5048,517,22
+SEL_1229,86975,318,15
+SEL_1230,81070,159,15
+SEL_1231,37074,590,8
+SEL_1232,6795,553,22
+SEL_1233,36500,579,8
+SEL_1234,81560,159,22
+SEL_1235,89219,285,20
+SEL_1236,9370,328,22
+SEL_1237,6717,153,22
+SEL_1238,13211,287,22
+SEL_1239,5373,517,22
+SEL_1240,12226,508,22
+SEL_1241,15015,507,22
+SEL_1242,88020,190,20
+SEL_1243,12328,266,22
+SEL_1244,13501,448,22
+SEL_1245,14405,196,22
+SEL_1246,14085,442,22
+SEL_1247,4776,547,22
+SEL_1248,6730,589,22
+SEL_1249,87050,325,15
+SEL_1250,30775,64,8
+SEL_1251,37590,270,8
+SEL_1252,32372,147,8
+SEL_1253,6280,517,22
+SEL_1254,14403,196,22
+SEL_1255,74323,207,6
+SEL_1256,13835,141,22
+SEL_1257,30140,64,8
+SEL_1258,14940,227,22
+SEL_1259,3178,517,22
+SEL_1260,86192,96,15
+SEL_1261,29107,603,5
+SEL_1262,20061,450,16
+SEL_1263,90020,422,19
+SEL_1264,35680,261,8
+SEL_1265,94965,89,19
+SEL_1266,14940,227,22
+SEL_1267,17201,280,22
+SEL_1268,2066,517,22
+SEL_1269,4283,517,22
+SEL_1270,81280,159,15
+SEL_1271,73020,81,4
+SEL_1272,86990,322,15
+SEL_1273,9230,483,22
+SEL_1274,20930,450,16
+SEL_1275,3827,517,22
+SEL_1276,18131,525,22
+SEL_1277,4615,517,22
+SEL_1278,37135,5,8
+SEL_1279,88330,48,20
+SEL_1280,5269,517,22
+SEL_1281,13503,448,22
+SEL_1282,9541,496,22
+SEL_1283,12209,508,22
+SEL_1284,35570,191,8
+SEL_1285,21635,450,16
+SEL_1286,81130,159,15
+SEL_1287,1123,517,22
+SEL_1288,88035,190,20
+SEL_1289,88138,381,20
+SEL_1290,9721,495,22
+SEL_1291,13480,303,22
+SEL_1292,18052,546,22
+SEL_1293,7031,220,22
+SEL_1294,22640,450,16
+SEL_1295,4809,517,22
+SEL_1296,36576,601,8
+SEL_1297,80420,159,15
+SEL_1298,6018,374,22
+SEL_1299,89220,285,20
+SEL_1300,37540,477,8
+SEL_1301,1541,517,22
+SEL_1302,22713,450,16
+SEL_1303,14580,214,22
+SEL_1304,88301,249,22
+SEL_1305,86061,305,15
+SEL_1306,9560,517,22
+SEL_1307,86185,96,15
+SEL_1308,60710,194,3
+SEL_1309,8260,517,22
+SEL_1310,13505,448,22
+SEL_1311,9020,483,22
+SEL_1312,12940,39,22
+SEL_1313,4794,517,22
+SEL_1314,4761,517,22
+SEL_1315,9416,441,22
+SEL_1316,29704,138,5
+SEL_1317,9750,494,22
+SEL_1318,85501,392,15
+SEL_1319,7866,199,22
+SEL_1320,13178,549,22
+SEL_1321,26562,331,16
+SEL_1322,3270,517,22
+SEL_1323,4801,517,22
+SEL_1324,12246,508,22
+SEL_1325,4307,517,22
+SEL_1326,37480,296,8
+SEL_1327,85853,195,15
+SEL_1328,4186,517,22
+SEL_1329,32677,67,8
+SEL_1330,80215,159,15
+SEL_1331,83830,181,15
+SEL_1332,32110,147,8
+SEL_1333,9182,483,22
+SEL_1334,18604,78,22
+SEL_1335,3564,517,22
+SEL_1336,8021,517,22
+SEL_1337,3526,517,22
+SEL_1338,8717,341,22
+SEL_1339,14090,442,22
+SEL_1340,85900,569,15
+SEL_1341,88032,190,20
+SEL_1342,84020,419,15
+SEL_1343,29300,90,5
+SEL_1344,89650,575,20
+SEL_1345,18681,302,22
+SEL_1346,13015,101,22
+SEL_1347,22050,452,16
+SEL_1348,15015,507,22
+SEL_1349,88490,395,20
+SEL_1350,3122,517,22
+SEL_1351,22793,450,16
+SEL_1352,70235,81,4
+SEL_1353,88350,85,20
+SEL_1354,88036,190,20
+SEL_1355,89540,473,20
+SEL_1356,17026,60,22
+SEL_1357,15603,184,22
+SEL_1358,13033,101,22
+SEL_1359,88750,79,20
+SEL_1360,4281,517,22
+SEL_1361,5571,517,22
+SEL_1362,87120,189,15
+SEL_1363,8080,517,22
+SEL_1364,35701,541,8
+SEL_1365,95170,180,19
+SEL_1366,84178,126,15
+SEL_1367,3275,517,22
+SEL_1368,72801,309,6
+SEL_1369,35930,282,8
+SEL_1370,96020,401,19
+SEL_1371,8790,340,22
+SEL_1372,88050,190,20
+SEL_1373,58865,492,12
+SEL_1374,12916,80,22
+SEL_1375,91350,422,19
+SEL_1376,5685,517,22
+SEL_1377,89259,278,20
+SEL_1378,28035,109,16
+SEL_1379,95013,131,19
+SEL_1380,37570,377,8
+SEL_1381,83040,510,15
+SEL_1382,27972,310,16
+SEL_1383,8710,340,22
+SEL_1384,18530,564,22
+SEL_1385,4087,517,22
+SEL_1386,94410,598,19
+SEL_1387,22745,450,16
+SEL_1388,39442,275,8
+SEL_1389,13360,114,22
+SEL_1390,5734,517,22
+SEL_1391,85875,481,15
+SEL_1392,4180,517,22
+SEL_1393,38400,582,8
+SEL_1394,3031,517,22
+SEL_1395,85863,195,15
+SEL_1396,9831,494,22
+SEL_1397,4378,517,22
+SEL_1398,16022,23,22
+SEL_1399,95650,230,19
+SEL_1400,3031,517,22
+SEL_1401,89287,493,20
+SEL_1402,3194,517,22
+SEL_1403,13481,303,22
+SEL_1404,32315,147,8
+SEL_1405,31535,64,8
+SEL_1406,25251,169,16
+SEL_1407,38182,31,8
+SEL_1408,14784,55,22
+SEL_1409,13311,263,22
+SEL_1410,9271,483,22
+SEL_1411,86065,305,15
+SEL_1412,35501,163,8
+SEL_1413,37048,590,8
+SEL_1414,9015,483,22
+SEL_1415,32604,67,8
+SEL_1416,89460,113,20
+SEL_1417,88801,156,20
+SEL_1418,80060,159,15
+SEL_1419,83321,406,15
+SEL_1420,14940,227,22
+SEL_1421,13570,497,22
+SEL_1422,84010,419,15
+SEL_1423,13912,271,22
+SEL_1424,3035,517,22
+SEL_1425,29010,604,5
+SEL_1426,35501,163,8
+SEL_1427,22775,450,16
+SEL_1428,14910,552,22
+SEL_1429,30421,64,8
+SEL_1430,15025,507,22
+SEL_1431,3550,517,22
+SEL_1432,2022,517,22
+SEL_1433,89251,278,20
+SEL_1434,14940,227,22
+SEL_1435,7183,220,22
+SEL_1436,36504,579,8
+SEL_1437,95900,295,19
+SEL_1438,14940,227,22
+SEL_1439,51250,437,13
+SEL_1440,31210,64,8
+SEL_1441,93608,176,19
+SEL_1442,15085,507,22
+SEL_1443,87043,325,15
+SEL_1444,13056,101,22
+SEL_1445,18130,525,22
+SEL_1446,37540,477,8
+SEL_1447,94910,89,19
+SEL_1448,36200,51,8
+SEL_1449,82320,159,15
+SEL_1450,88301,249,22
+SEL_1451,3477,517,22
+SEL_1452,9434,441,22
+SEL_1453,17560,596,22
+SEL_1454,12914,80,22
+SEL_1455,32140,147,8
+SEL_1456,11015,489,22
+SEL_1457,88037,190,20
+SEL_1458,14020,442,22
+SEL_1459,99500,118,19
+SEL_1460,59152,389,17
+SEL_1461,9560,496,22
+SEL_1462,9810,494,22
+SEL_1463,1530,517,22
+SEL_1464,13086,101,22
+SEL_1465,80020,159,15
+SEL_1466,85851,195,15
+SEL_1467,18074,546,22
+SEL_1468,6080,374,22
+SEL_1469,6162,374,22
+SEL_1470,30285,64,8
+SEL_1471,1210,517,22
+SEL_1472,8710,340,22
+SEL_1473,13322,466,22
+SEL_1474,3568,517,22
+SEL_1475,98803,485,19
+SEL_1476,21941,450,16
+SEL_1477,9060,483,22
+SEL_1478,80240,159,15
+SEL_1479,14870,265,22
+SEL_1480,14940,227,22
+SEL_1481,30315,64,8
+SEL_1482,14315,59,22
+SEL_1483,87030,325,15
+SEL_1484,13272,587,22
+SEL_1485,3448,517,22
+SEL_1486,1212,517,22
+SEL_1487,12240,508,22
+SEL_1488,4615,517,22
+SEL_1489,15804,129,22
+SEL_1490,9360,328,22
+SEL_1491,7241,220,22
+SEL_1492,82515,159,15
+SEL_1493,87140,380,15
+SEL_1494,13087,101,22
+SEL_1495,88136,381,22
+SEL_1496,13503,448,22
+SEL_1497,8752,340,22
+SEL_1498,9163,483,22
+SEL_1499,2750,517,22
+SEL_1500,20910,450,16
+SEL_1501,28605,361,16
+SEL_1502,13322,466,22
+SEL_1503,5713,517,22
+SEL_1504,2925,517,22
+SEL_1505,25803,574,16
+SEL_1506,15130,337,22
+SEL_1507,5083,517,22
+SEL_1508,13043,101,22
+SEL_1509,30620,64,8
+SEL_1510,1042,517,22
+SEL_1511,12228,508,22
+SEL_1512,9111,483,22
+SEL_1513,15170,556,22
+SEL_1514,3470,517,22
+SEL_1515,74645,207,6
+SEL_1516,36500,579,8
+SEL_1517,13660,427,22
+SEL_1518,26125,62,16
+SEL_1519,3643,517,22
+SEL_1520,18080,546,22
+SEL_1521,4810,517,22
+SEL_1522,7032,220,22
+SEL_1523,14312,59,22
+SEL_1524,2737,517,22
+SEL_1525,6449,58,22
+SEL_1526,4255,517,22
+SEL_1527,8410,517,22
+SEL_1528,7074,220,22
+SEL_1529,18087,546,22
+SEL_1530,4403,517,22
+SEL_1531,14940,227,22
+SEL_1532,13360,114,22
+SEL_1533,14806,28,22
+SEL_1534,71691,81,4
+SEL_1535,14802,28,22
+SEL_1536,13257,259,22
+SEL_1537,70767,81,4
+SEL_1538,4534,517,22
+SEL_1539,21041,450,16
+SEL_1540,87114,531,15
+SEL_1541,8223,517,22
+SEL_1542,5767,517,22
+SEL_1543,18110,607,22
+SEL_1544,22790,450,16
+SEL_1545,6700,153,22
+SEL_1546,3520,517,22
+SEL_1547,13920,398,22
+SEL_1548,14140,155,22
+SEL_1549,80310,159,15
+SEL_1550,80710,159,15
+SEL_1551,73020,81,4
+SEL_1552,8140,517,22
+SEL_1553,89803,134,22
+SEL_1554,75650,351,6
+SEL_1555,1545,517,22
+SEL_1556,14709,61,22
+SEL_1557,29032,604,5
+SEL_1558,74560,207,6
+SEL_1559,89201,285,20
+SEL_1560,6268,374,22
+SEL_1561,95913,295,19
+SEL_1562,83507,6,15
+SEL_1563,19025,435,22
+SEL_1564,4719,517,22
+SEL_1565,14781,55,22
+SEL_1566,11250,66,22
+SEL_1567,2941,517,22
+SEL_1568,1022,517,22
+SEL_1569,94451,598,19
+SEL_1570,2537,517,22
+SEL_1571,60110,194,3
+SEL_1572,59077,355,17
+SEL_1573,2972,517,22
+SEL_1574,13210,287,22
+SEL_1575,15155,268,22
+SEL_1576,37704,417,8
+SEL_1577,86702,25,15
+SEL_1578,95800,594,19
+SEL_1579,20930,450,16
+SEL_1580,30150,64,8
+SEL_1581,4130,518,22
+SEL_1582,81530,159,15
+SEL_1583,14940,227,22
+SEL_1584,82540,159,15
+SEL_1585,86800,21,15
+SEL_1586,31255,63,8
+SEL_1587,13481,303,22
+SEL_1588,81350,159,15
+SEL_1589,21340,450,16
+SEL_1590,90240,422,19
+SEL_1591,5138,517,22
+SEL_1592,21210,450,16
+SEL_1593,7025,220,22
+SEL_1594,1035,517,22
+SEL_1595,3655,517,22
+SEL_1596,13848,342,22
+SEL_1597,13560,497,22
+SEL_1598,87900,304,15
+SEL_1599,4141,517,22
+SEL_1600,14808,28,22
+SEL_1601,80430,159,15
+SEL_1602,85804,125,15
+SEL_1603,4133,517,22
+SEL_1604,93900,264,19
+SEL_1605,3635,517,22
+SEL_1606,4424,517,22
+SEL_1607,30170,64,8
+SEL_1608,80010,159,15
+SEL_1609,8180,517,22
+SEL_1610,3589,517,22
+SEL_1611,86385,13,15
+SEL_1612,9572,496,22
+SEL_1613,58073,283,12
+SEL_1614,89120,565,20
+SEL_1615,4361,517,22
+SEL_1616,81350,159,15
+SEL_1617,15840,250,22
+SEL_1618,6154,374,22
+SEL_1619,3933,517,22
+SEL_1620,90220,422,19
+SEL_1621,86706,25,15
+SEL_1622,9130,483,22
+SEL_1623,7400,36,22
+SEL_1624,13560,497,22
+SEL_1625,18611,78,22
+SEL_1626,88132,381,20
+SEL_1627,88330,48,20
+SEL_1628,11704,431,22
+SEL_1629,32604,67,8
+SEL_1630,3820,517,22
+SEL_1631,35570,191,8
+SEL_1632,93700,102,19
+SEL_1633,1131,517,22
+SEL_1634,6780,553,22
+SEL_1635,6132,374,22
+SEL_1636,1127,517,22
+SEL_1637,18760,133,22
+SEL_1638,12952,39,22
+SEL_1639,15845,320,22
+SEL_1640,95885,236,19
+SEL_1641,80740,159,15
+SEL_1642,18120,313,22
+SEL_1643,83020,509,22
+SEL_1644,13570,497,22
+SEL_1645,1207,520,22
+SEL_1646,4558,517,22
+SEL_1647,95020,131,19
+SEL_1648,13843,342,22
+SEL_1649,1039,517,22
+SEL_1650,20081,451,16
+SEL_1651,90670,422,19
+SEL_1652,9070,483,22
+SEL_1653,89219,285,20
+SEL_1654,4571,517,22
+SEL_1655,13170,549,22
+SEL_1656,95910,295,19
+SEL_1657,37795,14,22
+SEL_1658,87015,325,15
+SEL_1659,2611,517,22
+SEL_1660,35501,163,8
+SEL_1661,4123,517,22
+SEL_1662,2316,517,22
+SEL_1663,22745,450,16
+SEL_1664,26230,362,16
+SEL_1665,12327,266,22
+SEL_1666,9931,162,22
+SEL_1667,9190,468,22
+SEL_1668,80320,159,15
+SEL_1669,85906,569,15
+SEL_1670,25070,169,16
+SEL_1671,3178,517,22
+SEL_1672,14403,196,22
+SEL_1673,72580,81,4
+SEL_1674,13382,364,22
+SEL_1675,6420,58,22
+SEL_1676,5413,517,22
+SEL_1677,50751,437,13
+SEL_1678,13145,394,22
+SEL_1679,15502,608,22
+SEL_1680,37640,179,8
+SEL_1681,15400,370,22
+SEL_1682,13486,303,22
+SEL_1683,1311,517,22
+SEL_1684,4142,517,22
+SEL_1685,7112,220,22
+SEL_1686,9015,483,22
+SEL_1687,23943,16,16
+SEL_1688,9015,483,22
+SEL_1689,6763,553,22
+SEL_1690,1129,517,22
+SEL_1691,6180,374,22
+SEL_1692,88359,85,20
+SEL_1693,86020,305,15
+SEL_1694,31160,64,8
+SEL_1695,85904,569,15
+SEL_1696,87505,583,15
+SEL_1697,5008,517,22
+SEL_1698,16200,68,22
+SEL_1699,4142,517,22
+SEL_1700,60025,194,3
+SEL_1701,24855,450,16
+SEL_1702,82400,159,15
+SEL_1703,80050,159,15
+SEL_1704,74230,207,6
+SEL_1705,99670,463,19
+SEL_1706,5303,491,22
+SEL_1707,2030,517,22
+SEL_1708,3185,517,22
+SEL_1709,2976,517,22
+SEL_1710,11370,528,22
+SEL_1711,88704,577,20
+SEL_1712,14940,227,22
+SEL_1713,83327,407,15
+SEL_1714,93180,421,19
+SEL_1715,13145,394,22
+SEL_1716,13478,9,22
+SEL_1717,81810,159,15
+SEL_1718,11900,438,22
+SEL_1719,35570,191,8
+SEL_1720,86065,305,15
+SEL_1721,81320,159,15
+SEL_1722,3561,517,22
+SEL_1723,4445,517,22
+SEL_1724,80220,159,15
+SEL_1725,89030,69,20
+SEL_1726,81730,159,15
+SEL_1727,21041,450,16
+SEL_1728,19023,435,22
+SEL_1729,9687,17,22
+SEL_1730,8452,517,22
+SEL_1731,6060,374,22
+SEL_1732,82510,159,15
+SEL_1733,92010,112,19
+SEL_1734,14090,442,22
+SEL_1735,8032,517,22
+SEL_1736,37564,77,8
+SEL_1737,1319,517,22
+SEL_1738,28630,361,16
+SEL_1739,9912,162,22
+SEL_1740,35557,122,8
+SEL_1741,14940,227,22
+SEL_1742,3951,517,22
+SEL_1743,7123,220,22
+SEL_1744,84020,419,15
+SEL_1745,8431,517,22
+SEL_1746,4773,517,22
+SEL_1747,6268,374,22
+SEL_1748,3423,517,22
+SEL_1749,2611,517,22
+SEL_1750,22061,450,16
+SEL_1751,5424,517,22
+SEL_1752,80030,159,15
+SEL_1753,6807,171,22
+SEL_1754,80045,159,15
+SEL_1755,15940,183,22
+SEL_1756,39801,127,8
+SEL_1757,3520,517,22
+SEL_1758,13806,343,22
+SEL_1759,13880,588,22
+SEL_1760,3638,517,22
+SEL_1761,4310,517,22
+SEL_1762,5181,517,22
+SEL_1763,80710,159,15
+SEL_1764,88061,190,20
+SEL_1765,7082,220,22
+SEL_1766,13060,101,22
+SEL_1767,5594,517,22
+SEL_1768,9721,494,22
+SEL_1769,13500,448,22
+SEL_1770,82940,159,15
+SEL_1771,17580,418,22
+SEL_1772,15502,608,22
+SEL_1773,98975,99,19
+SEL_1774,14110,442,22
+SEL_1775,3658,517,22
+SEL_1776,1206,517,22
+SEL_1777,80730,159,15
+SEL_1778,18015,546,22
+SEL_1779,4708,517,22
+SEL_1780,88802,156,20
+SEL_1781,74565,207,6
+SEL_1782,12940,39,22
+SEL_1783,12062,559,22
+SEL_1784,2955,517,22
+SEL_1785,14079,442,22
+SEL_1786,4773,517,22
+SEL_1787,6340,115,22
+SEL_1788,28941,524,16
+SEL_1789,83323,406,15
+SEL_1790,14940,227,22
+SEL_1791,13321,466,22
+SEL_1792,17510,324,22
+SEL_1793,6455,58,22
+SEL_1794,14530,333,22
+SEL_1795,72304,81,4
+SEL_1796,3701,517,22
+SEL_1797,2470,517,22
+SEL_1798,52020,437,13
+SEL_1799,13070,101,22
+SEL_1800,6330,115,22
+SEL_1801,18053,546,22
+SEL_1802,3187,517,22
+SEL_1803,7600,314,22
+SEL_1804,15810,129,22
+SEL_1805,82620,159,15
+SEL_1806,2050,517,22
+SEL_1807,4367,517,22
+SEL_1808,17230,257,22
+SEL_1809,13033,101,22
+SEL_1810,25730,403,16
+SEL_1811,13023,101,22
+SEL_1812,2134,517,22
+SEL_1813,37135,5,8
+SEL_1814,3006,517,22
+SEL_1815,9861,533,22
+SEL_1816,80330,159,15
+SEL_1817,3265,517,22
+SEL_1818,80220,159,15
+SEL_1819,24710,499,16
+SEL_1820,86076,305,22
+SEL_1821,4905,517,22
+SEL_1822,13920,398,22
+SEL_1823,15806,129,22
+SEL_1824,21545,450,16
+SEL_1825,37564,77,8
+SEL_1826,37795,14,8
+SEL_1827,49980,357,21
+SEL_1828,8599,258,22
+SEL_1829,17320,335,22
+SEL_1830,13224,592,22
+SEL_1831,3563,517,22
+SEL_1832,7859,199,22
+SEL_1833,13500,448,22
+SEL_1834,6332,115,22
+SEL_1835,13212,287,22
+SEL_1836,82400,159,15
+SEL_1837,14092,442,22
+SEL_1838,14075,442,22
+SEL_1839,34006,363,8
+SEL_1840,36201,50,8
+SEL_1841,12238,508,22
+SEL_1842,9360,328,22
+SEL_1843,7747,92,22
+SEL_1844,4160,517,22
+SEL_1845,9725,494,22
+SEL_1846,9131,483,22
+SEL_1847,15290,86,22
+SEL_1848,14407,196,22
+SEL_1849,87504,583,15
+SEL_1850,75650,351,6
+SEL_1851,99700,175,19
+SEL_1852,18200,253,22
+SEL_1853,4710,517,22
+SEL_1854,3631,517,22
+SEL_1855,12240,508,22
+SEL_1856,13835,141,22
+SEL_1857,8270,517,22
+SEL_1858,89870,409,20
+SEL_1859,18015,546,22
+SEL_1860,90230,422,19
+SEL_1861,3062,517,22
+SEL_1862,12224,508,22
+SEL_1863,13690,161,22
+SEL_1864,11075,489,22
+SEL_1865,85200,414,15
+SEL_1866,22793,450,16
+SEL_1867,4870,517,22
+SEL_1868,80230,159,15
+SEL_1869,9210,483,22
+SEL_1870,13070,101,22
+SEL_1871,13880,588,22
+SEL_1872,1209,517,22
+SEL_1873,88354,85,20
+SEL_1874,13405,411,22
+SEL_1875,4365,517,22
+SEL_1876,17515,324,22
+SEL_1877,3134,517,22
+SEL_1878,95020,131,19
+SEL_1879,96400,45,19
+SEL_1880,3667,517,22
+SEL_1881,5126,517,22
+SEL_1882,86600,461,15
+SEL_1883,89190,554,20
+SEL_1884,6803,171,22
+SEL_1885,3210,517,22
+SEL_1886,18025,546,22
+SEL_1887,16200,68,22
+SEL_1888,1026,517,22
+SEL_1889,4058,517,22
+SEL_1890,16021,547,22
+SEL_1891,13457,470,22
+SEL_1892,14020,442,22
+SEL_1893,19800,38,22
+SEL_1894,25645,403,16
+SEL_1895,4319,517,22
+SEL_1896,38701,393,8
+SEL_1897,3916,517,22
+SEL_1898,7077,204,22
+SEL_1899,30270,64,8
+SEL_1900,82640,159,15
+SEL_1901,89117,206,20
+SEL_1902,14940,227,22
+SEL_1903,85601,197,15
+SEL_1904,87030,325,15
+SEL_1905,1511,517,22
+SEL_1906,80240,159,22
+SEL_1907,17514,324,22
+SEL_1908,2013,517,22
+SEL_1909,18200,253,22
+SEL_1910,35530,136,8
+SEL_1911,13240,279,22
+SEL_1912,13347,238,22
+SEL_1913,15025,507,22
+SEL_1914,14057,442,22
+SEL_1915,38402,582,8
+SEL_1916,31920,64,8
+SEL_1917,1215,517,22
+SEL_1918,82510,159,15
+SEL_1919,95150,365,19
+SEL_1920,13454,470,22
+SEL_1921,14079,443,22
+SEL_1922,4276,517,22
+SEL_1923,13506,448,22
+SEL_1924,15807,129,22
+SEL_1925,88340,97,20
+SEL_1926,14076,442,22
+SEL_1927,88270,366,20
+SEL_1928,18103,546,22
+SEL_1929,96020,401,19
+SEL_1930,82510,159,15
+SEL_1931,65072,513,7
+SEL_1932,2285,517,22
+SEL_1933,86039,305,15
+SEL_1934,81770,159,15
+SEL_1935,19013,435,22
+SEL_1936,22775,450,16
+SEL_1937,3963,517,22
+SEL_1938,15051,506,22
+SEL_1939,13160,35,22
+SEL_1940,19806,38,22
+SEL_1941,8275,517,22
+SEL_1942,13420,517,22
+SEL_1943,13330,238,22
+SEL_1944,88102,504,20
+SEL_1945,70070,81,4
+SEL_1946,61760,178,3
+SEL_1947,89069,69,20
+SEL_1948,95800,594,19
+SEL_1949,85880,248,15
+SEL_1950,7056,220,22
+SEL_1951,9111,483,22
+SEL_1952,3378,517,22
+SEL_1953,13040,101,22
+SEL_1954,4850,517,22
+SEL_1955,87025,325,15
+SEL_1956,80540,159,15
+SEL_1957,85601,197,15
+SEL_1958,83402,139,15
+SEL_1959,14940,227,22
+SEL_1960,86010,305,15
+SEL_1961,3431,517,22
+SEL_1962,14096,442,22
+SEL_1963,31210,64,8
+SEL_1964,9541,496,22
+SEL_1965,14090,442,22
+SEL_1966,15076,507,22
+SEL_1967,13070,101,22
+SEL_1968,5424,517,22
+SEL_1969,15093,507,22
+SEL_1970,93347,367,19
+SEL_1971,44600,242,2
+SEL_1972,2119,517,22
+SEL_1973,88306,249,20
+SEL_1974,52010,437,13
+SEL_1975,83280,217,15
+SEL_1976,8290,517,22
+SEL_1977,83535,107,15
+SEL_1978,3052,517,22
+SEL_1979,36325,567,8
+SEL_1980,30270,64,8
+SEL_1981,13076,101,22
+SEL_1982,82515,159,15
+SEL_1983,13456,470,22
+SEL_1984,15075,507,22
+SEL_1985,19804,38,22
+SEL_1986,8050,516,22
+SEL_1987,87060,325,15
+SEL_1988,11442,219,22
+SEL_1989,4367,517,22
+SEL_1990,26051,450,16
+SEL_1991,87040,325,15
+SEL_1992,5061,517,22
+SEL_1993,85801,125,15
+SEL_1994,13215,287,22
+SEL_1995,83823,181,15
+SEL_1996,37443,44,8
+SEL_1997,9170,483,22
+SEL_1998,81070,159,15
+SEL_1999,88090,190,20
+SEL_2000,81260,159,15
+SEL_2001,4756,517,22
+SEL_2002,31255,64,8
+SEL_2003,3809,517,22
+SEL_2004,14085,442,22
+SEL_2005,9812,494,22
+SEL_2006,5734,517,22
+SEL_2007,6900,172,22
+SEL_2008,24445,499,16
+SEL_2009,3461,517,22
+SEL_2010,35530,136,8
+SEL_2011,5763,517,22
+SEL_2012,72318,81,4
+SEL_2013,17011,60,22
+SEL_2014,14085,442,22
+SEL_2015,79104,104,9
+SEL_2016,9720,494,22
+SEL_2017,2451,517,22
+SEL_2018,85200,414,15
+SEL_2019,3962,517,22
+SEL_2020,4282,517,22
+SEL_2021,6276,374,22
+SEL_2022,1021,517,22
+SEL_2023,86703,25,15
+SEL_2024,14403,196,22
+SEL_2025,11701,431,22
+SEL_2026,14940,227,22
+SEL_2027,8226,517,22
+SEL_2028,9530,496,22
+SEL_2029,3001,517,22
+SEL_2030,17056,60,22
+SEL_2031,4843,517,22
+SEL_2032,31520,64,8
+SEL_2033,9350,328,22
+SEL_2034,88075,190,22
+SEL_2035,14401,196,22
+SEL_2036,38408,582,8
+SEL_2037,13456,470,22
+SEL_2038,1550,517,22
+SEL_2039,74343,207,6
+SEL_2040,7133,220,22
+SEL_2041,81050,159,15
+SEL_2042,89251,278,20
+SEL_2043,96530,386,19
+SEL_2044,12570,18,22
+SEL_2045,18015,546,22
+SEL_2046,36773,128,8
+SEL_2047,2634,517,22
+SEL_2048,82520,159,15
+SEL_2049,44600,242,22
+SEL_2050,17250,52,22
+SEL_2051,36300,502,8
+SEL_2052,12231,508,22
+SEL_2053,13177,549,22
+SEL_2054,13465,9,22
+SEL_2055,32185,147,8
+SEL_2056,3647,517,22
+SEL_2057,8710,340,22
+SEL_2058,14940,227,22
+SEL_2059,4809,517,22
+SEL_2060,13900,10,22
+SEL_2061,27353,53,16
+SEL_2062,88306,249,20
+SEL_2063,4362,517,22
+SEL_2064,29150,119,5
+SEL_2065,11707,431,22
+SEL_2066,20910,450,16
+SEL_2067,3171,517,22
+SEL_2068,75345,1,6
+SEL_2069,89165,455,20
+SEL_2070,13504,448,22
+SEL_2071,3573,517,22
+SEL_2072,3929,517,22
+SEL_2073,85905,569,15
+SEL_2074,3191,517,22
+SEL_2075,7077,220,22
+SEL_2076,16074,23,22
+SEL_2077,17512,324,22
+SEL_2078,93425,367,19
+SEL_2079,13473,9,22
+SEL_2080,30170,64,8
+SEL_2081,3410,517,22
+SEL_2082,1552,517,22
+SEL_2083,91910,422,19
+SEL_2084,4763,517,22
+SEL_2085,12230,508,22
+SEL_2086,6409,58,22
+SEL_2087,83005,509,15
+SEL_2088,97110,475,19
+SEL_2089,4276,517,22
+SEL_2090,13560,497,22
+SEL_2091,81520,159,15
+SEL_2092,74550,207,6
+SEL_2093,85865,195,15
+SEL_2094,4137,517,22
+SEL_2095,88135,381,20
+SEL_2096,92020,112,19
+SEL_2097,37410,571,8
+SEL_2098,13660,424,22
+SEL_2099,4106,517,22
+SEL_2100,31340,147,8
+SEL_2101,14075,442,22
+SEL_2102,9570,496,22
+SEL_2103,87060,325,15
+SEL_2104,11013,489,22
+SEL_2105,37006,590,8
+SEL_2106,99500,118,19
+SEL_2107,6097,374,22
+SEL_2108,14940,227,22
+SEL_2109,8280,517,22
+SEL_2110,17580,418,22
+SEL_2111,30431,64,8
+SEL_2112,13800,343,22
+SEL_2113,12308,266,22
+SEL_2114,8290,517,22
+SEL_2115,3872,517,22
+SEL_2116,18220,4,22
+SEL_2117,1156,517,22
+SEL_2118,18683,302,22
+SEL_2119,16012,23,22
+SEL_2120,87005,325,15
+SEL_2121,17700,375,22
+SEL_2122,85807,125,15
+SEL_2123,76900,281,18
+SEL_2124,15030,507,22
+SEL_2125,27700,593,16
+SEL_2126,17350,229,22
+SEL_2127,13215,287,22
+SEL_2128,12600,306,22
+SEL_2129,89136,460,20
+SEL_2130,13290,307,22
+SEL_2131,15803,129,22
+SEL_2132,39740,213,8
+SEL_2133,17506,324,22
+SEL_2134,89215,285,20
+SEL_2135,28470,487,16
+SEL_2136,14940,227,22
+SEL_2137,87020,325,15
+SEL_2138,6040,374,22
+SEL_2139,12924,80,22
+SEL_2140,89150,434,20
+SEL_2141,12995,409,22
+SEL_2142,89620,110,20
+SEL_2143,4273,517,22
+SEL_2144,2150,517,22
+SEL_2145,45820,177,2
+SEL_2146,13482,303,22
+SEL_2147,13165,173,22
+SEL_2148,8011,517,22
+SEL_2149,13390,449,22
+SEL_2150,89220,285,20
+SEL_2151,3147,517,22
+SEL_2152,6663,255,22
+SEL_2153,15601,184,22
+SEL_2154,29600,2,5
+SEL_2155,18279,558,22
+SEL_2156,5170,517,22
+SEL_2157,15055,507,22
+SEL_2158,4476,517,22
+SEL_2159,2030,517,22
+SEL_2160,13040,101,22
+SEL_2161,3017,517,22
+SEL_2162,85810,125,15
+SEL_2163,6311,116,22
+SEL_2164,13154,152,22
+SEL_2165,15050,507,22
+SEL_2166,13480,303,22
+SEL_2167,13084,101,22
+SEL_2168,6186,374,22
+SEL_2169,89046,69,20
+SEL_2170,38414,582,8
+SEL_2171,24020,360,16
+SEL_2172,4251,517,22
+SEL_2173,80045,159,15
+SEL_2174,86800,21,15
+SEL_2175,4424,517,22
+SEL_2176,4293,517,22
+SEL_2177,6317,115,22
+SEL_2178,35170,151,8
+SEL_2179,30240,64,8
+SEL_2180,85813,125,15
+SEL_2181,81900,159,15
+SEL_2182,2963,517,22
+SEL_2183,7412,36,22
+SEL_2184,35660,132,8
+SEL_2185,19815,38,22
+SEL_2186,4904,517,22
+SEL_2187,89225,285,20
+SEL_2188,8275,517,22
+SEL_2189,87083,387,15
+SEL_2190,89080,237,20
+SEL_2191,90630,422,19
+SEL_2192,88215,75,20
+SEL_2193,13140,394,22
+SEL_2194,40368,467,2
+SEL_2195,3345,517,22
+SEL_2196,6283,374,22
+SEL_2197,13360,114,22
+SEL_2198,6696,255,22
+SEL_2199,14401,196,22
+SEL_2200,24240,360,16
+SEL_2201,9220,483,22
+SEL_2202,87050,325,15
+SEL_2203,9921,162,22
+SEL_2204,13880,588,22
+SEL_2205,22051,450,16
+SEL_2206,7084,220,22
+SEL_2207,3029,517,22
+SEL_2208,3426,517,22
+SEL_2209,32280,147,8
+SEL_2210,15013,507,22
+SEL_2211,14940,227,22
+SEL_2212,4937,517,22
+SEL_2213,14620,372,22
+SEL_2214,13405,411,22
+SEL_2215,18401,254,22
+SEL_2216,35700,541,8
+SEL_2217,13418,411,22
+SEL_2218,7140,220,22
+SEL_2219,12940,39,22
+SEL_2220,9280,483,22
+SEL_2221,11600,526,22
+SEL_2222,3976,517,22
+SEL_2223,16500,91,22
+SEL_2224,17290,311,22
+SEL_2225,11707,431,22
+SEL_2226,13908,10,22
+SEL_2227,89560,602,20
+SEL_2228,72251,81,4
+SEL_2229,88137,381,20
+SEL_2230,13870,500,22
+SEL_2231,2236,517,22
+SEL_2232,88813,156,20
+SEL_2233,84530,560,15
+SEL_2234,26551,331,16
+SEL_2235,15600,184,22
+SEL_2236,81720,159,15
+SEL_2237,2544,517,22
+SEL_2238,87160,317,15
+SEL_2239,83823,181,15
+SEL_2240,2710,517,22
+SEL_2241,86040,305,15
+SEL_2242,25957,562,16
+SEL_2243,17606,517,22
+SEL_2244,87015,325,15
+SEL_2245,89180,454,20
+SEL_2246,3804,517,22
+SEL_2247,13339,238,22
+SEL_2248,88330,48,20
+SEL_2249,13403,411,22
+SEL_2250,83280,217,15
+SEL_2251,1403,517,22
+SEL_2252,14802,28,22
+SEL_2253,88135,381,20
+SEL_2254,7176,220,22
+SEL_2255,81510,159,15
+SEL_2256,12215,508,22
+SEL_2257,13573,497,22
+SEL_2258,11010,489,22
+SEL_2259,87025,595,15
+SEL_2260,28950,33,16
+SEL_2261,4714,517,22
+SEL_2262,5127,517,22
+SEL_2263,35670,327,8
+SEL_2264,3581,521,22
+SEL_2265,87083,325,15
+SEL_2266,1408,517,22
+SEL_2267,6766,553,22
+SEL_2268,14940,227,22
+SEL_2269,11431,219,22
+SEL_2270,36087,286,8
+SEL_2271,4438,517,22
+SEL_2272,74305,207,6
+SEL_2273,9041,483,22
+SEL_2274,13232,106,22
+SEL_2275,13960,543,22
+SEL_2276,2475,517,22
+SEL_2277,85603,197,15
+SEL_2278,13070,101,22
+SEL_2279,13271,587,22
+SEL_2280,1512,517,22
+SEL_2281,29161,536,5
+SEL_2282,83450,70,15
+SEL_2283,3304,517,22
+SEL_2284,3273,517,22
+SEL_2285,17051,60,22
+SEL_2286,31573,64,8
+SEL_2287,13471,9,22
+SEL_2288,45658,231,2
+SEL_2289,88715,272,20
+SEL_2290,13911,271,22
+SEL_2291,6440,58,22
+SEL_2292,15015,507,22
+SEL_2293,95780,349,19
+SEL_2294,14940,227,22
+SEL_2295,13097,101,22
+SEL_2296,2279,517,22
+SEL_2297,24440,499,16
+SEL_2298,5743,517,22
+SEL_2299,89203,285,20
+SEL_2300,32240,147,8
+SEL_2301,5595,517,22
+SEL_2302,13505,448,22
+SEL_2303,4291,517,22
+SEL_2304,2110,517,22
+SEL_2305,8577,258,22
+SEL_2306,8420,517,22
+SEL_2307,17018,60,22
+SEL_2308,95625,233,19
+SEL_2309,6419,58,22
+SEL_2310,4101,517,22
+SEL_2311,6150,374,22
+SEL_2312,2113,517,22
+SEL_2313,83323,406,15
+SEL_2314,9090,483,22
+SEL_2315,5043,517,22
+SEL_2316,83602,105,15
+SEL_2317,14021,442,22
+SEL_2318,95020,131,19
+SEL_2319,99300,544,19
+SEL_2320,31035,64,8
+SEL_2321,7790,93,22
+SEL_2322,72015,81,4
+SEL_2323,3725,517,22
+SEL_2324,88303,249,20
+SEL_2325,14801,28,22
+SEL_2326,35700,541,8
+SEL_2327,36032,286,8
+SEL_2328,89295,457,20
+SEL_2329,5530,517,22
+SEL_2330,6018,374,22
+SEL_2331,13840,342,22
+SEL_2332,16250,137,22
+SEL_2333,1023,517,22
+SEL_2334,2610,517,22
+SEL_2335,15070,507,22
+SEL_2336,71825,81,4
+SEL_2337,4250,517,22
+SEL_2338,1220,517,22
+SEL_2339,9175,483,22
+SEL_2340,18044,546,22
+SEL_2341,13450,471,22
+SEL_2342,25035,169,16
+SEL_2343,14780,55,22
+SEL_2344,86047,305,15
+SEL_2345,7901,198,22
+SEL_2346,13232,106,22
+SEL_2347,13408,411,22
+SEL_2348,96203,456,19
+SEL_2349,89041,69,20
+SEL_2350,93510,367,19
+SEL_2351,2752,517,22
+SEL_2352,87040,325,15
+SEL_2353,89825,610,20
+SEL_2354,13043,101,22
+SEL_2355,18550,72,22
+SEL_2356,20061,450,16
+SEL_2357,1257,517,22
+SEL_2358,87025,325,15
+SEL_2359,14020,442,22
+SEL_2360,80215,159,15
+SEL_2361,74210,207,6
+SEL_2362,89160,455,20
+SEL_2363,4911,517,22
+SEL_2364,1031,517,22
+SEL_2365,80230,159,15
+SEL_2366,9340,328,22
+SEL_2367,69005,316,1
+SEL_2368,3542,517,22
+SEL_2369,2411,517,22
+SEL_2370,5455,517,22
+SEL_2371,15115,43,22
+SEL_2372,24120,360,16
+SEL_2373,1314,517,22
+SEL_2374,25900,450,16
+SEL_2375,87240,563,15
+SEL_2376,8011,517,22
+SEL_2377,13660,424,22
+SEL_2378,18608,78,22
+SEL_2379,15070,507,22
+SEL_2380,78020,158,10
+SEL_2381,37165,334,8
+SEL_2382,4083,517,22
+SEL_2383,18130,525,22
+SEL_2384,6694,255,22
+SEL_2385,6790,553,22
+SEL_2386,89023,69,20
+SEL_2387,9720,494,22
+SEL_2388,29160,536,5
+SEL_2389,2066,517,22
+SEL_2390,87050,325,15
+SEL_2391,13347,238,22
+SEL_2392,4265,517,22
+SEL_2393,87502,583,15
+SEL_2394,13920,398,22
+SEL_2395,3560,517,22
+SEL_2396,13160,35,22
+SEL_2397,18701,42,22
+SEL_2398,17400,202,22
+SEL_2399,32419,226,8
+SEL_2400,83607,105,15
+SEL_2401,3731,517,22
+SEL_2402,14401,196,22
+SEL_2403,31710,64,8
+SEL_2404,83405,139,15
+SEL_2405,14790,211,22
+SEL_2406,14940,227,22
+SEL_2407,4660,517,22
+SEL_2408,13347,238,22
+SEL_2409,82315,159,15
+SEL_2410,3658,517,22
+SEL_2411,6715,153,22
+SEL_2412,32604,67,8
+SEL_2413,89063,69,20
+SEL_2414,8030,517,22
+SEL_2415,36046,286,8
+SEL_2416,2334,517,22
+SEL_2417,14401,196,22
+SEL_2418,4851,517,22
+SEL_2419,85875,481,15
+SEL_2420,20761,450,16
+SEL_2421,17370,476,22
+SEL_2422,15350,40,22
+SEL_2423,9710,494,22
+SEL_2424,31525,64,8
+SEL_2425,16200,68,22
+SEL_2426,25720,403,16
+SEL_2427,88704,577,20
+SEL_2428,79112,104,9
+SEL_2429,17300,165,22
+SEL_2430,97110,475,19
+SEL_2431,3168,517,22
+SEL_2432,98290,143,19
+SEL_2433,13414,411,22
+SEL_2434,13251,259,22
+SEL_2435,14940,227,22
+SEL_2436,6539,482,22
+SEL_2437,80010,159,15
+SEL_2438,38401,582,8
+SEL_2439,74590,207,6
+SEL_2440,85875,481,15
+SEL_2441,72210,81,4
+SEL_2442,38700,393,8
+SEL_2443,15056,507,22
+SEL_2444,20950,450,16
+SEL_2445,38950,225,8
+SEL_2446,16208,68,22
+SEL_2447,80250,159,15
+SEL_2448,7192,220,22
+SEL_2449,85801,125,15
+SEL_2450,13272,587,22
+SEL_2451,14021,442,22
+SEL_2452,4679,517,22
+SEL_2453,1421,517,22
+SEL_2454,46430,212,2
+SEL_2455,61658,130,3
+SEL_2456,89052,69,22
+SEL_2457,87013,325,15
+SEL_2458,89650,575,20
+SEL_2459,89819,149,20
+SEL_2460,35547,121,8
+SEL_2461,88370,356,20
+SEL_2462,92030,112,19
+SEL_2463,35400,378,8
+SEL_2464,14940,227,22
+SEL_2465,33600,400,8
+SEL_2466,87070,325,15
+SEL_2467,5571,517,22
+SEL_2468,8270,517,22
+SEL_2469,3111,517,22
+SEL_2470,14270,479,22
+SEL_2471,89036,69,20
+SEL_2472,4708,517,22
+SEL_2473,89820,609,20
+SEL_2474,90620,422,19
+SEL_2475,35500,163,8
+SEL_2476,7411,517,22
+SEL_2477,7023,220,22
+SEL_2478,80310,159,15
+SEL_2479,19160,7,22
+SEL_2480,21840,450,16
+SEL_2481,30390,64,8
+SEL_2482,18060,546,22
+SEL_2483,88132,381,20
+SEL_2484,83408,139,15
+SEL_2485,13720,535,22
+SEL_2486,87015,325,15
+SEL_2487,9180,483,22
+SEL_2488,9785,494,22
+SEL_2489,19806,38,22
+SEL_2490,11709,431,22
+SEL_2491,21510,450,16
+SEL_2492,14850,429,22
+SEL_2493,4547,517,22
+SEL_2494,14070,442,22
+SEL_2495,31110,64,8
+SEL_2496,81460,159,15
+SEL_2497,13206,287,22
+SEL_2498,4104,517,22
+SEL_2499,3106,517,22
+SEL_2500,1123,517,22
+SEL_2501,30130,64,8
+SEL_2502,98780,478,19
+SEL_2503,89520,160,20
+SEL_2504,18500,297,22
+SEL_2505,14093,442,22
+SEL_2506,14096,442,22
+SEL_2507,14940,227,22
+SEL_2508,3124,517,22
+SEL_2509,18015,546,22
+SEL_2510,36010,286,8
+SEL_2511,81020,159,22
+SEL_2512,3182,517,22
+SEL_2513,7124,220,22
+SEL_2514,7024,220,22
+SEL_2515,13140,394,22
+SEL_2516,15061,507,22
+SEL_2517,21740,450,16
+SEL_2518,14090,442,22
+SEL_2519,22640,450,16
+SEL_2520,7013,220,22
+SEL_2521,38442,24,8
+SEL_2522,33940,440,8
+SEL_2523,9551,496,22
+SEL_2524,93348,367,19
+SEL_2525,14015,517,22
+SEL_2526,18017,546,22
+SEL_2527,37704,417,8
+SEL_2528,18076,546,22
+SEL_2529,81560,159,15
+SEL_2530,3334,517,22
+SEL_2531,15155,268,22
+SEL_2532,38400,582,8
+SEL_2533,32310,147,8
+SEL_2534,90240,422,19
+SEL_2535,20040,450,16
+SEL_2536,3063,517,22
+SEL_2537,5141,547,22
+SEL_2538,1452,517,22
+SEL_2539,29315,90,5
+SEL_2540,17017,60,22
+SEL_2541,85884,330,15
+SEL_2542,88490,395,20
+SEL_2543,5756,517,22
+SEL_2544,5302,517,22
+SEL_2545,95270,188,19
+SEL_2546,25530,501,16
+SEL_2547,89108,326,20
+SEL_2548,11430,219,22
+SEL_2549,2614,517,22
+SEL_2550,4270,517,22
+SEL_2551,60348,194,3
+SEL_2552,2415,517,22
+SEL_2553,13360,114,22
+SEL_2554,86300,150,15
+SEL_2555,12243,508,22
+SEL_2556,95013,131,19
+SEL_2557,2422,517,22
+SEL_2558,32315,147,8
+SEL_2559,95098,131,19
+SEL_2560,2028,517,22
+SEL_2561,87050,325,15
+SEL_2562,3971,517,22
+SEL_2563,13060,101,22
+SEL_2564,13487,303,22
+SEL_2565,8430,517,22
+SEL_2566,12331,266,22
+SEL_2567,8500,186,22
+SEL_2568,13090,101,22
+SEL_2569,14020,442,22
+SEL_2570,4516,517,22
+SEL_2571,89065,69,20
+SEL_2572,3318,517,22
+SEL_2573,30668,64,8
+SEL_2574,5141,413,22
+SEL_2575,4209,517,22
+SEL_2576,2242,517,22
+SEL_2577,12913,80,22
+SEL_2578,5616,517,22
+SEL_2579,14940,227,22
+SEL_2580,3461,517,22
+SEL_2581,12270,274,22
+SEL_2582,1140,517,22
+SEL_2583,13328,466,22
+SEL_2584,35590,292,8
+SEL_2585,82560,159,15
+SEL_2586,93040,511,19
+SEL_2587,4537,517,22
+SEL_2588,27345,53,16
+SEL_2589,15025,507,22
+SEL_2590,71900,3,22
+SEL_2591,3009,517,22
+SEL_2592,9572,496,22
+SEL_2593,14027,444,22
+SEL_2594,2916,517,22
+SEL_2595,87210,135,15
+SEL_2596,2443,517,22
+SEL_2597,14940,227,22
+SEL_2598,3508,517,22
+SEL_2599,21320,450,22
+SEL_2600,3287,517,22
+SEL_2601,1208,517,22
+SEL_2602,44002,182,2
+SEL_2603,86073,305,15
+SEL_2604,38445,24,8
+SEL_2605,5186,517,22
+SEL_2606,88037,190,20
+SEL_2607,13040,101,22
+SEL_2608,89164,455,20
+SEL_2609,80010,159,15
+SEL_2610,91150,422,19
+SEL_2611,6018,374,22
+SEL_2612,13660,424,22
+SEL_2613,13920,398,22
+SEL_2614,23587,450,16
+SEL_2615,6465,58,22
+SEL_2616,91920,422,19
+SEL_2617,96503,88,19
+SEL_2618,14840,218,22
+SEL_2619,4101,517,22
+SEL_2620,11030,489,22
+SEL_2621,13790,527,22
+SEL_2622,17900,168,22
+SEL_2623,18500,297,22
+SEL_2624,6501,482,22
+SEL_2625,17047,60,22
+SEL_2626,6473,58,22
+SEL_2627,5676,517,22
+SEL_2628,2839,517,22
+SEL_2629,14010,442,22
+SEL_2630,9725,494,22
+SEL_2631,4141,517,22
+SEL_2632,22775,450,16
+SEL_2633,17400,202,22
+SEL_2634,12604,306,22
+SEL_2635,86030,305,15
+SEL_2636,31140,64,8
+SEL_2637,13465,9,22
+SEL_2638,7221,220,22
+SEL_2639,19906,376,22
+SEL_2640,14940,227,22
+SEL_2641,80220,159,15
+SEL_2642,87900,304,15
+SEL_2643,17250,52,22
+SEL_2644,8832,340,22
+SEL_2645,3018,517,22
+SEL_2646,20040,450,16
+SEL_2647,28810,446,22
+SEL_2648,11720,431,22
+SEL_2649,17209,280,22
+SEL_2650,14078,459,22
+SEL_2651,88704,577,20
+SEL_2652,3237,517,22
+SEL_2653,89228,285,20
+SEL_2654,7170,220,22
+SEL_2655,3880,517,22
+SEL_2656,14020,442,22
+SEL_2657,89504,87,20
+SEL_2658,5008,517,22
+SEL_2659,89288,493,20
+SEL_2660,21510,450,16
+SEL_2661,1041,517,22
+SEL_2662,14802,28,22
+SEL_2663,72460,201,4
+SEL_2664,17504,324,22
+SEL_2665,4208,517,22
+SEL_2666,80040,159,15
+SEL_2667,19020,435,22
+SEL_2668,83005,509,15
+SEL_2669,13520,523,22
+SEL_2670,26379,436,16
+SEL_2671,2929,517,22
+SEL_2672,39400,350,8
+SEL_2673,9560,496,22
+SEL_2674,16304,402,22
+SEL_2675,8593,258,22
+SEL_2676,18110,607,22
+SEL_2677,3586,517,22
+SEL_2678,9830,494,22
+SEL_2679,17017,60,22
+SEL_2680,80420,159,15
+SEL_2681,6871,251,22
+SEL_2682,13214,287,22
+SEL_2683,11990,111,22
+SEL_2684,14055,442,22
+SEL_2685,7070,220,22
+SEL_2686,41820,467,2
+SEL_2687,17032,60,22
+SEL_2688,35160,239,8
+SEL_2689,27321,53,16
+SEL_2690,95705,65,19
+SEL_2691,3553,517,22
+SEL_2692,13214,287,22
+SEL_2693,13380,364,22
+SEL_2694,88372,356,20
+SEL_2695,3028,517,22
+SEL_2696,14095,442,22
+SEL_2697,87065,325,15
+SEL_2698,2124,517,22
+SEL_2699,9710,494,22
+SEL_2700,13845,342,22
+SEL_2701,3064,517,22
+SEL_2702,9070,483,22
+SEL_2703,19300,432,22
+SEL_2704,22790,450,16
+SEL_2705,13481,303,22
+SEL_2706,82620,159,15
+SEL_2707,95088,131,19
+SEL_2708,2918,517,22
+SEL_2709,84925,408,15
+SEL_2710,88960,545,20
+SEL_2711,30220,64,8
+SEL_2712,88010,190,20
+SEL_2713,38022,581,8
+SEL_2714,17505,324,22
+SEL_2715,14075,442,22
+SEL_2716,2873,517,22
+SEL_2717,19802,38,22
+SEL_2718,13424,411,22
+SEL_2719,87303,108,15
+SEL_2720,83323,406,15
+SEL_2721,3204,517,22
+SEL_2722,55002,123,13
+SEL_2723,9571,496,22
+SEL_2724,13840,342,22
+SEL_2725,3872,517,22
+SEL_2726,4208,517,22
+SEL_2727,81200,159,15
+SEL_2728,81650,159,15
+SEL_2729,86801,21,15
+SEL_2730,83408,139,15
+SEL_2731,89820,609,20
+SEL_2732,83323,406,15
+SEL_2733,80250,159,15
+SEL_2734,38400,582,8
+SEL_2735,26285,362,16
+SEL_2736,4735,517,22
+SEL_2737,4104,517,22
+SEL_2738,21921,450,16
+SEL_2739,36213,167,8
+SEL_2740,9520,496,22
+SEL_2741,8223,517,22
+SEL_2742,81880,159,15
+SEL_2743,6322,115,22
+SEL_2744,3655,517,22
+SEL_2745,19023,435,22
+SEL_2746,13091,101,22
+SEL_2747,37175,232,8
+SEL_2748,13403,411,22
+SEL_2749,88301,249,20
+SEL_2750,93336,367,19
+SEL_2751,3480,517,22
+SEL_2752,4282,517,22
+SEL_2753,88113,504,20
+SEL_2754,4176,517,22
+SEL_2755,14940,227,22
+SEL_2756,9561,496,22
+SEL_2757,86181,96,15
+SEL_2758,18090,546,22
+SEL_2759,35900,246,8
+SEL_2760,3504,517,22
+SEL_2761,3068,517,22
+SEL_2762,85960,321,15
+SEL_2763,8246,517,22
+SEL_2764,14860,56,22
+SEL_2765,81070,159,15
+SEL_2766,8180,517,22
+SEL_2767,89022,69,20
+SEL_2768,89031,69,20
+SEL_2769,90250,422,19
+SEL_2770,74110,207,6
+SEL_2771,86800,21,15
+SEL_2772,3813,517,22
+SEL_2773,89280,493,20
+SEL_2774,3320,517,22
+SEL_2775,12942,39,22
+SEL_2776,71215,81,4
+SEL_2777,87230,288,15
+SEL_2778,14090,442,22
+SEL_2779,87050,325,15
+SEL_2780,85815,125,15
+SEL_2781,85960,321,11
+SEL_2782,13471,9,22
+SEL_2783,14405,196,22
+SEL_2784,5004,517,22
+SEL_2785,6711,153,22
+SEL_2786,83321,406,22
+SEL_2787,87015,325,15
+SEL_2788,86060,305,15
+SEL_2789,5856,517,22
+SEL_2790,84600,584,15
+SEL_2791,7180,220,22
+SEL_2792,13030,101,22
+SEL_2793,13920,398,22
+SEL_2794,13205,287,22
+SEL_2795,9891,494,22
+SEL_2796,11010,489,22
+SEL_2797,19830,170,22
+SEL_2798,38183,31,8
+SEL_2799,15505,608,22
+SEL_2800,11015,489,22
+SEL_2801,89460,113,20
+SEL_2802,21040,450,16
+SEL_2803,14110,442,22
+SEL_2804,95840,576,19
+SEL_2805,18681,302,22
+SEL_2806,29166,536,5
+SEL_2807,96816,474,19
+SEL_2808,4461,517,22
+SEL_2809,14940,227,22
+SEL_2810,2265,517,22
+SEL_2811,3431,517,22
+SEL_2812,6080,374,22
+SEL_2813,6286,374,22
+SEL_2814,80240,159,15
+SEL_2815,82300,159,15
+SEL_2816,5849,517,22
+SEL_2817,23092,450,16
+SEL_2818,15802,129,22
+SEL_2819,3702,517,22
+SEL_2820,8577,258,22
+SEL_2821,86690,140,15
+SEL_2822,88220,252,20
+SEL_2823,88352,85,20
+SEL_2824,4208,517,22
+SEL_2825,28950,33,16
+SEL_2826,89208,285,20
+SEL_2827,3319,517,22
+SEL_2828,5624,517,22
+SEL_2829,87045,325,15
+SEL_2830,59020,355,17
+SEL_2831,6192,374,22
+SEL_2832,87043,325,15
+SEL_2833,2350,517,22
+SEL_2834,19029,435,22
+SEL_2835,17209,280,22
+SEL_2836,85880,248,15
+SEL_2837,18030,546,22
+SEL_2838,37540,477,8
+SEL_2839,95012,131,19
+SEL_2840,2040,517,22
+SEL_2841,80620,159,15
+SEL_2842,70719,81,4
+SEL_2843,20766,450,16
+SEL_2844,3168,517,22
+SEL_2845,3476,517,22
+SEL_2846,12940,39,22
+SEL_2847,93800,529,19
+SEL_2848,83020,509,15
+SEL_2849,83833,181,15
+SEL_2850,74333,207,6
+SEL_2851,13324,466,22
+SEL_2852,3138,517,22
+SEL_2853,1201,517,22
+SEL_2854,30882,64,8
+SEL_2855,5468,517,22
+SEL_2856,9961,162,22
+SEL_2857,1026,517,22
+SEL_2858,4243,517,22
+SEL_2859,92120,112,19
+SEL_2860,87702,388,15
+SEL_2861,38400,582,8
+SEL_2862,4193,517,22
+SEL_2863,14055,442,22
+SEL_2864,6506,482,22
+SEL_2865,71931,81,4
+SEL_2866,31365,64,8
+SEL_2867,18052,546,22
+SEL_2868,94810,8,19
+SEL_2869,20091,450,16
+SEL_2870,8596,258,22
+SEL_2871,4131,517,22
+SEL_2872,80410,159,15
+SEL_2873,1212,517,22
+SEL_2874,18270,558,22
+SEL_2875,11900,438,22
+SEL_2876,13474,9,22
+SEL_2877,4733,517,22
+SEL_2878,3165,517,22
+SEL_2879,18950,240,22
+SEL_2880,3679,517,22
+SEL_2881,86010,305,15
+SEL_2882,1208,517,22
+SEL_2883,36325,567,8
+SEL_2884,75901,458,6
+SEL_2885,71936,81,4
+SEL_2886,25900,312,16
+SEL_2887,75124,12,6
+SEL_2888,3565,517,22
+SEL_2889,4696,517,22
+SEL_2890,1309,517,22
+SEL_2891,6764,551,22
+SEL_2892,3908,517,22
+SEL_2893,70856,81,4
+SEL_2894,3641,517,22
+SEL_2895,31980,64,8
+SEL_2896,1310,517,22
+SEL_2897,3445,517,22
+SEL_2898,13478,9,22
+SEL_2899,5417,517,22
+SEL_2900,9951,162,22
+SEL_2901,84172,126,15
+SEL_2902,90520,422,19
+SEL_2903,2281,517,22
+SEL_2904,3279,517,22
+SEL_2905,16306,402,22
+SEL_2906,5104,517,22
+SEL_2907,87114,531,15
+SEL_2908,6760,517,22
+SEL_2909,12327,266,22
+SEL_2910,12230,508,22
+SEL_2911,88308,249,20
+SEL_2912,8072,517,22
+SEL_2913,18590,71,22
+SEL_2914,9080,483,22
+SEL_2915,2336,517,22
+SEL_2916,21825,450,16
+SEL_2917,86026,305,15
+SEL_2918,14096,442,22
+SEL_2919,88380,404,20
+SEL_2920,8070,517,22
+SEL_2921,28035,450,16
+SEL_2922,9171,483,22
+SEL_2923,17510,324,22
+SEL_2924,20551,450,16
+SEL_2925,15013,507,22
+SEL_2926,4607,517,22
+SEL_2927,7097,220,22
+SEL_2928,7791,93,22
+SEL_2929,18111,607,22
+SEL_2930,95180,180,19
+SEL_2931,6716,153,22
+SEL_2932,13901,10,22
+SEL_2933,37443,44,8
+SEL_2934,29056,604,5
+SEL_2935,75650,351,6
+SEL_2936,6766,553,22
+SEL_2937,8541,186,22
+SEL_2938,9010,483,22
+SEL_2939,9780,494,22
+SEL_2940,5051,517,22
+SEL_2941,2522,517,22
+SEL_2942,5879,517,22
+SEL_2943,86702,25,15
+SEL_2944,13320,466,22
+SEL_2945,28615,361,16
+SEL_2946,18136,525,22
+SEL_2947,4007,518,22
+SEL_2948,74150,207,6
+SEL_2949,8215,517,22
+SEL_2950,15131,337,22
+SEL_2951,88960,545,20
+SEL_2952,80620,159,15
+SEL_2953,29100,603,5
+SEL_2954,8275,517,22
+SEL_2955,24900,323,16
+SEL_2956,22240,450,16
+SEL_2957,24310,360,16
+SEL_2958,14402,196,22
+SEL_2959,19063,435,22
+SEL_2960,1026,517,22
+SEL_2961,36407,146,8
+SEL_2962,85812,125,15
+SEL_2963,87015,325,15
+SEL_2964,86010,305,15
+SEL_2965,85816,125,15
+SEL_2966,76330,277,6
+SEL_2967,13250,259,22
+SEL_2968,4795,517,22
+SEL_2969,81530,159,15
+SEL_2970,2337,517,22
+SEL_2971,16200,68,22
+SEL_2972,81630,159,15
+SEL_2973,89228,285,20
+SEL_2974,1026,517,22
+SEL_2975,13905,10,22
+SEL_2976,13211,287,22
+SEL_2977,14940,227,22
+SEL_2978,9560,496,22
+SEL_2979,30840,64,8
+SEL_2980,2320,517,22
+SEL_2981,35044,209,8
+SEL_2982,15170,556,22
+SEL_2983,33936,440,8
+SEL_2984,5522,517,22
+SEL_2985,9321,328,22
+SEL_2986,13845,342,22
+SEL_2987,71551,81,4
+SEL_2988,2969,517,22
+SEL_2989,22793,453,16
+SEL_2990,31842,64,8
+SEL_2991,4705,517,22
+SEL_2992,31910,64,8
+SEL_2993,20710,450,16
+SEL_2994,89041,69,20
+SEL_2995,37550,428,8
+SEL_2996,8820,340,22
+SEL_2997,14940,227,22
+SEL_2998,9895,494,22
+SEL_2999,3211,517,22
+SEL_3000,4360,517,22
+SEL_3001,3064,517,22
+SEL_3002,17512,324,22
+SEL_3003,6453,58,22
+SEL_3004,88316,249,20
+SEL_3005,13920,398,22
+SEL_3006,35180,566,8
+SEL_3007,8810,340,22
+SEL_3008,3937,517,22
+SEL_3009,3340,517,22
+SEL_3010,3437,517,22
+SEL_3011,29480,353,5
+SEL_3012,89255,278,20
+SEL_3013,36010,286,8
+SEL_3014,3679,517,22
+SEL_3015,14610,243,22
+SEL_3016,12306,267,22
+SEL_3017,63540,591,3
+SEL_3018,8615,550,22
+SEL_3019,12512,216,22
+SEL_3020,4281,517,22
+SEL_3021,13710,555,22
+SEL_3022,13601,29,22
+SEL_3023,13720,505,22
+SEL_3024,38022,581,8
+SEL_3025,20521,450,16
+SEL_3026,84500,244,15
+SEL_3027,14085,445,22
+SEL_3028,86600,461,15
+SEL_3029,37708,417,8
+SEL_3030,52011,437,13
+SEL_3031,88063,190,20
+SEL_3032,13253,259,22
+SEL_3033,90630,422,19
+SEL_3034,4041,517,22
+SEL_3035,89136,460,20
+SEL_3036,19020,435,22
+SEL_3037,31160,64,22
+SEL_3038,26510,359,16
+SEL_3039,20020,450,16
+SEL_3040,39400,350,8
+SEL_3041,93032,511,19
+SEL_3042,12327,266,22
+SEL_3043,9981,162,22
+SEL_3044,89812,134,20
+SEL_3045,13600,517,22
+SEL_3046,71065,81,4
+SEL_3047,41342,467,2
+SEL_3048,22793,450,16
+SEL_3049,87045,325,15
+SEL_3050,3121,517,22
+SEL_3051,73813,192,6
+SEL_3052,25561,501,16
+SEL_3053,74930,19,6
+SEL_3054,3029,517,22
+SEL_3055,3572,517,22
+SEL_3056,37590,270,8
+SEL_3057,89036,69,20
+SEL_3058,24020,360,16
+SEL_3059,4771,517,22
+SEL_3060,14025,442,22
+SEL_3061,38405,582,8
+SEL_3062,2122,517,22
+SEL_3063,13273,587,22
+SEL_3064,31310,64,8
+SEL_3065,86360,49,15
+SEL_3066,82900,159,15
+SEL_3067,5734,517,22
+SEL_3068,20770,450,16
+SEL_3069,15054,507,22
+SEL_3070,14940,227,22
+SEL_3071,2968,517,22
+SEL_3072,89082,237,20
+SEL_3073,86020,305,15
+SEL_3074,82200,159,15
+SEL_3075,74835,207,6
+SEL_3076,13186,224,22
+SEL_3077,9550,496,22
+SEL_3078,55602,605,13
+SEL_3079,13212,287,22
+SEL_3080,31565,64,8
+SEL_3081,14808,28,22
+SEL_3082,85950,382,15
+SEL_3083,25755,403,16
+SEL_3084,6852,251,22
+SEL_3085,36401,146,8
+SEL_3086,13613,301,22
+SEL_3087,35530,136,8
+SEL_3088,1238,517,22
+SEL_3089,5713,517,22
+SEL_3090,5314,517,22
+SEL_3091,87111,531,15
+SEL_3092,88137,381,20
+SEL_3093,4650,517,22
+SEL_3094,96080,401,19
+SEL_3095,12051,559,22
