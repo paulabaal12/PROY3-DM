@@ -11,3 +11,13 @@
     3. Visualización de patrones clave
     4. Análisis de correlación de características
 3. Dataset preprocesado listo para modelado
+
+### **Entrega 2: Implementación de Modelos de Regresión**
+1. Implementación Comentada de los siguientes modelos de regresión:
+    - Regresión Lineal Simple
+    - Regresión Múltiple
+    - Regresión Polinomial
+    - Árboles de decisión
+    - Random Forest
+    - SVR (Support Vector Regression)
+2. Pipeline ordenado del preprocesamiento de la entrega 1
