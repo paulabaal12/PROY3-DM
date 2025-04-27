@@ -1,0 +1,7 @@
+{
+    "boleto": 0,
+    "credit_card": 1,
+    "debit_card": 2,
+    "not_defined": 3,
+    "voucher": 4
+}
